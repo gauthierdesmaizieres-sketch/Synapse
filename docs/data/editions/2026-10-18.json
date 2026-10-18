@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated": "2026-10-18T06:25:04+00:00",
+ "generated": "2026-10-18T07:07:44+00:00",
  "domains": [
   {
    "id": "chimie",
@@ -59,12 +59,12 @@
  ],
  "items": [
   {
-   "id": "url:https://phys.org/news/2026-10-sunlight-biodiesel-byproduct-life-hydrogen.html",
+   "id": "url:https://phys.org/news/2026-10-alloy-strategy-combines-strength-ductility.html",
    "kind": "vulga",
-   "title": "Sunlight gives biodiesel byproduct a second life as hydrogen and valuable chemicals",
-   "summary": "Australian researchers and international collaborators have demonstrated a solar-driven approach to convert glycerol, a low-value byproduct of biodiesel production, into hydrogen and higher-value chemicals. Using advanced techniques at the Australian Synchrotron, they revealed how the catalyst changed while it was working.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/sunlight-gives-biodies-1.jpg",
-   "url": "https://phys.org/news/2026-10-sunlight-biodiesel-byproduct-life-hydrogen.html",
+   "title": "New alloy design strategy combines strength and ductility by timing hardening mechanisms",
+   "summary": "Structural metals used in engineering projects are expected to have both high strength and high ductility: the ability to withstand heavy loads and deform before failure. Achieving both of these properties at the same time, however, is challenging.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/timed-for-both-strengt.jpg",
+   "url": "https://phys.org/news/2026-10-alloy-strategy-combines-strength-ductility.html",
    "source": "Phys.org",
    "date": "2026-10-16",
    "tags": [
@@ -74,46 +74,46 @@
    "domain": "chimie"
   },
   {
-   "id": "doi:10.1021/jacs.6c13395",
+   "id": "doi:10.1038/s44160-026-01193-3",
    "kind": "paper",
-   "title": "High-Resolution X-ray Absorption Spectroscopy of Soluble Methane Monooxygenase: Room Temperature and Cryogenic Insights into Active Site Electronic Structure Modulation",
-   "summary": "Room temperature HERFD XAS (High Energy Resolution Fluorescence Detected X-ray Absorption Spectroscopy) data collected on the stable Fe(III)Fe(III) (ox) and Fe(II)Fe(II) (red) states of the soluble methane monooxygenase hydroxylase (sMMOH) from Methylosinus trichosporium (Mt) OB3b using laminar flow cells reveal structural differences…",
+   "title": "Enantioselective synthesis of π-extended carbo[17]helicene via sequence-controlled quadruple [2+2+2] cycloadditions",
+   "summary": "Sequence-controlled quadruple [2+2+2] cycloadditions, followed by onward Scholl reactions, enable the enantioselective synthesis of a giant π-extended carbo[17]helicene from a dodecayne substrate. This Ni-catalysed process forms a chiral nanocarbon that exhibits strong circularly polarized luminescence.",
    "image": null,
-   "url": "https://doi.org/10.1021/jacs.6c13395",
+   "url": "https://doi.org/10.1038/s44160-026-01193-3",
+   "source": "Nature Synthesis",
+   "date": "2026-10-14",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s44160-026-01193-3.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1021/jacs.6c14445",
+   "kind": "paper",
+   "title": "Engineering Intrinsic Mixed Sodium Ionic–Electronic Conductivity in a Nickel Bis(diimine) Metal–Organic Framework",
+   "summary": "Mixed ionic–electronic conductors (MIECs) are highly desirable for a wide range of electronic applications, however, developing single-phase MIECs with intrinsic transport properties under ambient conditions remains challenging.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c14445",
    "source": "Journal of the American Chemical Society",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1021/jacs.6c13395",
+    "url": "https://doi.org/10.26434/chemrxiv.15005742/v1",
     "label": "Texte intégral gratuit"
    },
    "domain": "chimie"
   },
   {
-   "id": "doi:10.1002/ange.2052342",
-   "kind": "paper",
-   "title": "Electrochemical Control of Scholl Reaction: Arenium Cation Versus Radical Cation Pathways",
-   "summary": "The Scholl reaction is a cornerstone method for constructing polycyclic aromatic hydrocarbons, yet its mechanism remains highly debated because arenium and radical cation intermediates are difficult to characterize.",
-   "image": null,
-   "url": "https://doi.org/10.1002/ange.2052342",
-   "source": "Angewandte Chemie",
-   "date": "2026-10-11",
-   "tags": [],
-   "oa": {
-    "url": "https://doi.org/10.1002/ange.2052342",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "chimie"
-  },
-  {
-   "id": "url:https://phys.org/news/2026-10-ultrasound-reveal-renewable-routes-compounds.html",
+   "id": "url:https://phys.org/news/2026-10-bacterial-galactose-oxidase-toolkit-greener.html",
    "kind": "vulga",
-   "title": "Light and ultrasound reveal renewable routes to compounds for pharmaceutical research",
-   "summary": "Sustainable packaging is only the beginning. What a medicine is made from—and how its ingredients are produced—matters just as much. Yet the synthesis of compounds for pharmaceutical research can still depend on fossil feedstocks, high temperatures, strong oxidants and metals that raise costs and complicate purification.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/green-pharmaceuticals.jpg",
-   "url": "https://phys.org/news/2026-10-ultrasound-reveal-renewable-routes-compounds.html",
+   "title": "First bacterial galactose oxidase expands toolkit for greener drug and food ingredient production",
+   "summary": "To produce pharmaceuticals, food ingredients, and flavors and fragrances, it is often necessary to oxidize alcohols. In conventional chemistry, this transformation typically relies on harsh oxidants and elevated temperatures and generates toxic waste.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-bacterial-galact.jpg",
+   "url": "https://phys.org/news/2026-10-bacterial-galactose-oxidase-toolkit-greener.html",
    "source": "Phys.org",
-   "date": "2026-10-16",
+   "date": "2026-10-15",
    "tags": [
     "Vulgarisation"
    ],
@@ -121,182 +121,179 @@
    "domain": "biochimie"
   },
   {
-   "id": "doi:10.1126/sciadv.aef7208",
+   "id": "doi:10.1021/jacs.6c13587",
    "kind": "paper",
-   "title": "Suppression of meiotic double-strand break formation in somatic cells by DREAM factors TCX5/6 maintains genome stability",
-   "summary": "Meiotic recombination in reproductive cells is initiated by DNA double-strand breaks (DSBs) and requires the expression of meiosis-specific genes, yet how the transcription of those genes is regulated in either meiotic or somatic cells remains unclear.",
+   "title": "Autonomous Biogenesis of Early and Late Assembly Intermediates of a Large Ribosomal Subunit in a Minimal System",
+   "summary": "Cell-free autonomous biogenesis of ribosomes is important for the bottom-up assembly of an artificial cell and for engineering of functional ribosomes with novel activities. The challenge lies in establishing conditions for a single-step multicomponent synthesis and assembly process in a minimal transcription–translation reaction.",
    "image": null,
-   "url": "https://doi.org/10.1126/sciadv.aef7208",
-   "source": "Science Advances",
-   "date": "2026-10-16",
+   "url": "https://doi.org/10.1021/jacs.6c13587",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1126/sciadv.aef7208",
+    "url": "https://doi.org/10.1021/jacs.6c13587",
     "label": "Texte intégral gratuit"
    },
    "domain": "biochimie"
   },
   {
-   "id": "doi:10.7554/elife.109394.3",
+   "id": "doi:10.7554/elife.110189.4",
    "kind": "paper",
-   "title": "Endosome-associated Rab GTPases control distinct aspects of neural circuit assembly",
-   "summary": "Neural circuit assembly relies on the precise regulation of cell-surface receptors that mediate signaling and adhesion. Endocytosis controls receptor activity and availability by internalizing and routing proteins through two main pathways: recycling back to the cell-surface or delivery to lysosomes for degradation.",
+   "title": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
+   "summary": "In many organisms, meiotic crossover recombination is suppressed near the extreme ends of chromosomes. Here we show that multiple, often chromosome-specific, suppressive mechanisms with differing ranges contribute to the consistently low enrichment of recombination-promoting axis proteins and downregulation of DNA double-strand breaks…",
    "image": null,
-   "url": "https://doi.org/10.7554/elife.109394.3",
+   "url": "https://doi.org/10.7554/elife.110189.4",
    "source": "eLife",
-   "date": "2026-10-13",
+   "date": "2026-10-16",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.7554/elife.109394.3",
+    "url": "https://doi.org/10.7554/elife.110189.4",
     "label": "Texte intégral gratuit"
    },
    "domain": "biochimie"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-lab-molecule-amyloid-beta-protein.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
    "kind": "vulga",
-   "title": "Lab-designed molecule reduces amyloid beta, the protein linked to Alzheimer's disease, in mice",
-   "summary": "A research team led by the Molecular and Cellular Neurobiotechnology group at the Institute for Bioengineering of Catalonia (IBEC), in collaboration with Míriam Royo's laboratory at the Institute for Advanced Chemistry of Catalonia (IQAC-CSIC), the University of Barcelona (UB) and the Institute for Research in Biomedicine (IRB…",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/lab-designed-molecule-1.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-lab-molecule-amyloid-beta-protein.html",
+   "title": "New drug-delivery method offers promise in fight against neurodegenerative diseases",
+   "summary": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult task. Our bodies set up tight walls to prevent infections from spreading to the brain, where they often become fatal.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/neurodegenerative.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
    "source": "Medical Xpress",
-   "date": "2026-10-17",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "medicaments"
-  },
-  {
-   "id": "doi:10.64898/2026.10.13.26365377",
-   "kind": "paper",
-   "title": "Do drugs proposed to protect or harm joints change serious osteoarthritis events? A meta-analysis of adverse event tables from 881 randomized trials",
-   "summary": "Over about two years, GLP-1RAs and SGLT2 inhibitors had no detectable effect on osteoarthritis-related SAEs in trials that detected their known effects. Slow or modest structural effects remain possible.",
-   "image": null,
-   "url": "https://doi.org/10.64898/2026.10.13.26365377",
-   "source": "medRxiv",
-   "date": "2026-10-14",
-   "tags": [
-    "Méta-analyse",
-    "Préprint"
-   ],
-   "oa": {
-    "url": "https://doi.org/10.64898/2026.10.13.26365377",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "medicaments"
-  },
-  {
-   "id": "doi:10.21203/rs.3.rs-10983475/v1",
-   "kind": "paper",
-   "title": "Parecoxib versus Lidocaine for Attenuation of Propofol Injection Pain: A Pilot Randomized Controlled Trial",
-   "summary": "In this pilot, parecoxib with venous occlusion did not reduce propofol injection pain relative to lidocaine, and its performance was comparable to historical untreated rates. These preliminary findings support lidocaine with venous occlusion as the more effective pretreatment and warrant confirmation in a larger, adequately powered…",
-   "image": null,
-   "url": "https://doi.org/10.21203/rs.3.rs-10983475/v1",
-   "source": "Research Square",
-   "date": "2026-10-14",
-   "tags": [
-    "Essai randomisé",
-    "Préprint"
-   ],
-   "oa": {
-    "url": "https://doi.org/10.21203/rs.3.rs-10983475/v1",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "medicaments"
-  },
-  {
-   "id": "url:https://medicalxpress.com/news/2026-10-short-cardio-session-weight-wont.html",
-   "kind": "vulga",
-   "title": "Doing a short cardio session after weight training probably won't boost your gains—here's why",
-   "summary": "Spend long enough on fitness social media and you'll see the same tip. Finish every weight training session with about 15 minutes of cardio to boost your \"gains.\" But does it actually work? Probably not as much as you'd think.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/cardio-2.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-short-cardio-session-weight-wont.html",
-   "source": "Medical Xpress",
-   "date": "2026-10-14",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "muscu"
-  },
-  {
-   "id": "doi:10.21203/rs.3.rs-10989562/v1",
-   "kind": "paper",
-   "title": "Intentional External Scaffolding and Friction as a Novel Non-Pharmacological Behavioral Framework for Executive Dysfunction and Metabolic Health in Late-Diagnosed Neurodivergent Adults",
-   "summary": "Background Adults with attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) develop obesity and metabolic dysfunction at higher rates than the general population.",
-   "image": null,
-   "url": "https://doi.org/10.21203/rs.3.rs-10989562/v1",
-   "source": "Research Square",
    "date": "2026-10-16",
    "tags": [
-    "Préprint"
+    "Vulgarisation"
    ],
-   "oa": {
-    "url": "https://doi.org/10.21203/rs.3.rs-10989562/v1",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "muscu"
+   "oa": null,
+   "domain": "medicaments"
   },
   {
-   "id": "doi:10.64898/2026.10.09.26363506",
+   "id": "doi:10.64898/2026.10.12.26365345",
    "kind": "paper",
-   "title": "Uneven Recovery of Exercise Training in US Adults With Cardiovascular Risk Factors or Disease Following the COVID-19 Pandemic",
-   "summary": "The recovery from pandemic era reductions in aerobic and strength exercise training was uneven amongst demographic subgroups, which aligns with concurrent persistent disruptions in cardiovascular care.",
+   "title": "Part 1 of a 2-part, open-label clinical trial evaluating repeated nicotinamide riboside parenteral administration: 3 consecutive days of intramuscular and subcutaneous injections",
+   "summary": "Nicotinamide riboside (NR), an endogenous precursor to the essential coenzyme nicotinamide adenine dinucleotide (NAD+), is characterized as safe and effective for longitudinally elevating NAD+ in blood and tissues, when administered orally.",
    "image": null,
-   "url": "https://doi.org/10.64898/2026.10.09.26363506",
+   "url": "https://doi.org/10.64898/2026.10.12.26365345",
    "source": "medRxiv",
-   "date": "2026-10-12",
+   "date": "2026-10-14",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.64898/2026.10.09.26363506",
+    "url": "https://doi.org/10.64898/2026.10.12.26365345",
     "label": "Texte intégral gratuit"
    },
-   "domain": "muscu"
+   "domain": "medicaments"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-diet-free-animal-proteins-liver.html",
+   "id": "doi:10.64898/2026.10.13.26365380",
+   "kind": "paper",
+   "title": "Placebo-Adjusted Frequencies of Nonserious Adverse Reactions Listed on US Prescription Drug Labels",
+   "summary": "Importance: Drug labels list adverse reactions with their frequency among patients receiving the drug, which is commonly read as the risk added by the drug. Objective:: To compare drug and placebo frequencies of nonserious adverse reactions listed on current US Food and Drug Administration labels, using placebo-controlled randomized…",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.10.13.26365380",
+   "source": "medRxiv",
+   "date": "2026-10-14",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.10.13.26365380",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-differences-cellular-responses.html",
    "kind": "vulga",
-   "title": "How a diet free from animal proteins challenges the liver",
-   "summary": "Although a plant-based diet is recommended, notably for its environmental benefits, the health consequences of such a diet—in which protein intake is exclusively plant-based—are not yet fully understood.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-diet-free-from-anima.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-diet-free-animal-proteins-liver.html",
+   "title": "Study finds differences in cellular responses to exercise",
+   "summary": "A recently published study by University of New Mexico researchers looks at how intense exercise affects the body. Michael Deyhle, an associate professor in the Department of Health, Exercise and Sports Sciences, oversaw the study led by doctoral students Jonathan Specht, Jeremy Ducharme and Alyssa Bailly.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/kettleball.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-differences-cellular-responses.html",
    "source": "Medical Xpress",
-   "date": "2026-10-13",
+   "date": "2026-10-16",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "nutrition"
+   "domain": "muscu"
   },
   {
-   "id": "doi:10.20944/preprints202610.1330.v1",
+   "id": "doi:10.20944/preprints202610.1273.v1",
    "kind": "paper",
-   "title": "Acute Oral HPβCD-Angiotensin-(1–7) Supplementation Attenuates Muscle Damage Biomarkers and Modulates Proteolytic Gene Expression Following Eccentric Exercise in Amateur Trained Cyclists: A Randomized, Double-Blind, Placebo-Controlled Trial",
-   "summary": "HPβCD–Ang-(1–7) supplementation reduced circulating CK, modified antioxidant and inflammatory responses, and lowered UBE2B expression in peripheral blood mononuclear cells, without detectable differences in Wingate performance, pressure pain threshold, or muscle thickness.",
+   "title": "Stronger Through the Transition: Evaluating the Effect of Creatine and Resistance Training on Body Composition, Strength, and Sleep in Perimenopause",
+   "summary": "HIRT improved muscle outcomes, with CM adding 0.38 kg to LST and 148.6 lbs to strength.",
    "image": null,
-   "url": "https://doi.org/10.20944/preprints202610.1330.v1",
+   "url": "https://doi.org/10.20944/preprints202610.1273.v1",
    "source": "Preprints.org",
    "date": "2026-10-14",
    "tags": [
-    "Essai randomisé",
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.20944/preprints202610.1330.v1",
+    "url": "https://doi.org/10.20944/preprints202610.1273.v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "doi:10.20944/preprints202610.1465.v1",
+   "kind": "paper",
+   "title": "Blood Flow Restriction Training in Older Adults with Cancer: Rationale, Clinical Applications and Future Perspectives",
+   "summary": "Cancer predominantly affects older adults, who frequently present with frailty, sarcopenia, cachexia, multimorbidity, and functional decline that limit tolerance to conventional exercise interventions.",
+   "image": null,
+   "url": "https://doi.org/10.20944/preprints202610.1465.v1",
+   "source": "Preprints.org",
+   "date": "2026-10-15",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.20944/preprints202610.1465.v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-inflammation-elevated-earliest-stage-cardiovascular.html",
+   "kind": "vulga",
+   "title": "Inflammation is already elevated at the earliest stage of cardiovascular-kidney-metabolic syndrome",
+   "summary": "A new analysis of U.S. national health data finds that high-sensitivity C-reactive protein (hs-CRP), a blood marker of inflammation, rises across the stages of cardiovascular-kidney-metabolic (CKM) syndrome, with the largest increase at the earliest stage.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/cardiovascular-kidney.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-inflammation-elevated-earliest-stage-cardiovascular.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-14",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition"
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11191686/v1",
+   "kind": "paper",
+   "title": "Empagliflozin Improves Muscle Weakness in a Patient with Suspected Glycogen Storage Myopathy: A Case Report",
+   "summary": "Objective To describe the clinical course of a patient with chronic progressive muscle weakness and intramyocellular glycogen deposition who received empagliflozin. Methods We present a case of a young male patient with chronic progressive proximal limb weakness, exercise intolerance, and supine dyspnea.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11191686/v1",
+   "source": "Research Square",
+   "date": "2026-10-16",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11191686/v1",
     "label": "Texte intégral gratuit"
    },
    "domain": "nutrition"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-brain-injury-guidelines.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-body-hour-headaches.html",
    "kind": "vulga",
-   "title": "Brain injury care guidelines for first responders released",
-   "summary": "Over 50 experts—clinicians, researchers, policymakers, first responders and representatives from agencies that employ and advocate for them—have reached consensus on the first recommendations for the recognition, diagnosis and management of traumatic brain injury in first responders. Publishing today (Oct.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-responder.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-brain-injury-guidelines.html",
+   "title": "Body data could provide a 24-hour warning for headaches",
+   "summary": "Some people who suffer a concussion struggle with headaches and fatigue afterward. These symptoms follow a consistent pattern that could be used to warn the patient a full day before they set in.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/headache-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-body-hour-headaches.html",
    "source": "Medical Xpress",
    "date": "2026-10-17",
    "tags": [
@@ -306,30 +303,30 @@
    "domain": "neuro"
   },
   {
-   "id": "doi:10.1073/pnas.2612539123",
+   "id": "doi:10.1126/sciadv.aef5666",
    "kind": "paper",
-   "title": "Double periodicity of the AnkyrinG-associated complex in the axon initial segment",
-   "summary": "The axon initial segment (AIS), situated within the first 20 to 60 µm of the axon, is essential for action potential generation and maintenance of axonal identity [M. N. Rasband, Nat. Rev. Neurosci. 11 , 552–562 (2010)].",
+   "title": "Spectral tuning and signaling of diverse and far red–sensitive rhodopsins in mantis shrimp eyes",
+   "summary": "Stomatopod crustaceans (mantis shrimps) have extraordinary eyes with unmatched visual rhodopsin diversity, but their potential for broad color detection remains unclear. Here, we report that 17 rhodopsins, mostly from the midband eye region, are involved in color sensing and functionally diverse signaling via Gq/Gi coupling and describe…",
    "image": null,
-   "url": "https://doi.org/10.1073/pnas.2612539123",
-   "source": "Proceedings of the National Academy of Sciences",
-   "date": "2026-10-12",
+   "url": "https://doi.org/10.1126/sciadv.aef5666",
+   "source": "Science Advances",
+   "date": "2026-10-14",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1073/pnas.2612539123",
+    "url": "https://doi.org/10.1126/sciadv.aef5666",
     "label": "Texte intégral gratuit"
    },
    "domain": "neuro"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-pmospcos-linked-alzheimer-disease-dementia.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html",
    "kind": "vulga",
-   "title": "PMOS/PCOS may be linked to Alzheimer's disease and dementia",
-   "summary": "Alzheimer's disease and dementia may be more common in women with polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), according to a review of existing evidence published in the Journal of the Endocrine Society.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/dementia-5.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-pmospcos-linked-alzheimer-disease-dementia.html",
+   "title": "Reversing age by reprogramming gene expression networks",
+   "summary": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but are also thought of as levers that, if successfully targeted, could help turn back the aging clock and result in tissue rejuvenation.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/reversing-age-by-repro.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html",
    "source": "Medical Xpress",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "tags": [
     "Vulgarisation"
    ],
@@ -337,30 +334,30 @@
    "domain": "longevite"
   },
   {
-   "id": "doi:10.64898/2026.10.11.758308",
+   "id": "doi:10.20944/preprints202610.1432.v1",
    "kind": "paper",
-   "title": "Charting sex divergence in the human brain across the lifespan",
-   "summary": "Biological sex fundamentally shapes human brain organization, but sex-specific normative neuroanatomical trajectories across the lifespan remain largely uncharted. Here, we constructed independent, sex-specific lifespan brain charts using structural neuroimaging data from 59,915 healthy individuals (29,760 males and 30,155 females)…",
+   "title": "Tennis Participation Across the Lifespan: Functional and Biological Adaptations Relevant to Healthy Aging",
+   "summary": "Maintaining physiological function, mobility, and independence throughout aging remains a major challenge in exercise and health sciences. Physical activity is widely recognized as a key determinant of healthy aging, yet different sports may confer distinct biological benefits.",
    "image": null,
-   "url": "https://doi.org/10.64898/2026.10.11.758308",
-   "source": "bioRxiv",
-   "date": "2026-10-14",
+   "url": "https://doi.org/10.20944/preprints202610.1432.v1",
+   "source": "Preprints.org",
+   "date": "2026-10-15",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.64898/2026.10.11.758308",
+    "url": "https://doi.org/10.20944/preprints202610.1432.v1",
     "label": "Texte intégral gratuit"
    },
    "domain": "longevite"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+   "id": "url:https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
    "kind": "vulga",
-   "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
-   "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-error-correction-t.jpg",
-   "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+   "title": "Lone, starless cloud may be a 'dark' galaxy",
+   "summary": "Astronomers using China's FAST radio telescope have discovered a compact cloud of hydrogen with no visible stars or galaxy around it. This could be one of the strongest candidates yet for an isolated \"dark galaxy,\" containing nearly 500,000 times the sun's mass in neutral hydrogen.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-lone-starless-cloud.jpg",
+   "url": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
    "source": "Phys.org",
    "date": "2026-10-17",
    "tags": [
@@ -370,28 +367,28 @@
    "domain": "physique"
   },
   {
-   "id": "doi:10.3847/1538-4357/aea207",
+   "id": "doi:10.3847/1538-4357/aea838",
    "kind": "paper",
-   "title": "Optimizing Photometric Redshift Training Sets. I. Efficient Compression of the Galaxy Color–Redshift Relation with UMAP",
-   "summary": "Spectroscopic datasets are essential for training and calibrating photometric redshift (photo- z ) methods. However, spectroscopic redshifts (spec- z ’s) constitute a biased and sparse sampling of the photometric galaxy population, which creates difficulties for the common grid-based approach for mapping color to redshift using…",
+   "title": "Laboratory Measurements of Energy Partitioning and Anomalous Electron Heating in Magnetized, Perpendicular Collisionless Shocks",
+   "summary": "We present laboratory results on energy partitioning from supercritical, magnetized collisionless shock experiments ( M A ∼ 8, M ms ∼ 4). We report the first observation of fully developed laboratory shocks that evolve for more than seven upstream ion gyroperiods and have a downstream region that extends for more than four shocked ion…",
    "image": null,
-   "url": "https://doi.org/10.3847/1538-4357/aea207",
+   "url": "https://doi.org/10.3847/1538-4357/aea838",
    "source": "The Astrophysical Journal",
-   "date": "2026-10-13",
+   "date": "2026-10-14",
    "tags": [],
    "oa": {
-    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aea207/pdf",
+    "url": "https://doi.org/10.3847/1538-4357/aea838",
     "label": "Texte intégral gratuit"
    },
    "domain": "physique"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-natural-gas-midwest-city-leaks.html",
+   "id": "url:https://phys.org/news/2026-10-social-media-young-people-mental.html",
    "kind": "vulga",
-   "title": "About 2% of natural gas supplied to a Midwest city leaks into the atmosphere",
-   "summary": "Most natural gas leakage in Indianapolis likely originates from homes and other buildings, not exterior pipelines and large-scale distribution infrastructure that deliver the fossil fuel, according to Penn State researchers who assessed nearly a decade of data.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-few-very-tall-buildi.jpg",
-   "url": "https://phys.org/news/2026-10-natural-gas-midwest-city-leaks.html",
+   "title": "Can social media bans protect young people's mental health? Early research suggests that bans aren't the answer",
+   "summary": "The year 2026 has been an expensive one for social media platforms. Since March, YouTube and Meta, the parent company of Instagram and Facebook, have settled or paid out in multiple lawsuits totaling more than $17 billion for allegedly acting negligently, deliberately designing their platforms to hook kids and misleading the public about…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/teen-scrolling-on-phon.jpg",
+   "url": "https://phys.org/news/2026-10-social-media-young-people-mental.html",
    "source": "Phys.org",
    "date": "2026-10-16",
    "tags": [
@@ -401,12 +398,12 @@
    "domain": "exotique"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-schools-weight-based-bullying.html",
+   "id": "url:https://phys.org/news/2026-10-essential-oil-sprays-cockroaches-contact.html",
    "kind": "vulga",
-   "title": "When schools fail to act, weight-based bullying can continue",
-   "summary": "Young people who experience bullying because of their weight feel that their schools do not take the problem seriously enough. In some cases, they change their own behavior to avoid harassment, according to a new study from Lund University.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/bullying-1.jpg",
-   "url": "https://phys.org/news/2026-10-schools-weight-based-bullying.html",
+   "title": "Essential oil sprays kill cockroaches on contact but offer little lasting control",
+   "summary": "A German cockroach races across a kitchen floor. Someone grabs a bottle of essential oil spray, soaks the insect and watches it die. The product worked, but a new University of Kentucky study suggests the larger infestation probably did not notice.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/uk-study-finds-essenti.jpg",
+   "url": "https://phys.org/news/2026-10-essential-oil-sprays-cockroaches-contact.html",
    "source": "Phys.org",
    "date": "2026-10-16",
    "tags": [
@@ -416,14 +413,14 @@
    "domain": "exotique"
   },
   {
-   "id": "url:https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012",
+   "id": "url:https://techxplore.com/news/2026-10-ai-mexico-legions-children.html",
    "kind": "vulga",
-   "title": "Is ‘Attention’ the Essence of Intelligence?",
-   "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Default.webp",
-   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-   "source": "Quanta Magazine",
-   "date": "2026-10-12",
+   "title": "Using AI to help find Mexico's legions of missing children",
+   "summary": "Veronica Rosas is one of tens of thousands of Mexican mothers looking for a child who has disappeared into a vortex of violence fueled by brutal cartel turf wars.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-mexican-soldier-and.jpg",
+   "url": "https://techxplore.com/news/2026-10-ai-mexico-legions-children.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-16",
    "tags": [
     "Vulgarisation"
    ],
