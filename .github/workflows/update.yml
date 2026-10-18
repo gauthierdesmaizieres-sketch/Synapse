@@ -1,0 +1,37 @@
+name: Nouvelle édition
+
+on:
+  schedule:
+    - cron: "0 5 * * 1,3,5"   # lundi, mercredi, vendredi à 5h UTC (6-7h en France)
+  workflow_dispatch:          # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: edition
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collecter les articles
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}          # optionnel
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }} # optionnel
+        run: python collector/collect.py
+
+      - name: Publier l'édition
+        run: |
+          git config user.name "synapse-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "Édition du $(date -u +%Y-%m-%d)"
+          git push

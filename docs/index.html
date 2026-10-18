@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Synapse</title>
+  <meta name="description" content="Ton fil d'actualité scientifique : nouveaux papiers et découvertes, 3 fois par semaine.">
+  <meta name="theme-color" content="#0b1020" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <img src="icon.svg" alt="" width="28" height="28">
+      <h1>Synapse</h1>
+    </div>
+    <div class="edition">
+      <label for="edition" class="sr">Édition</label>
+      <select id="edition" aria-label="Choisir une édition"></select>
+      <span id="progress" class="progress"></span>
+    </div>
+  </header>
+
+  <nav id="filters" class="filters" aria-label="Filtrer par domaine"></nav>
+
+  <main id="feed" class="feed" aria-live="polite">
+    <p class="empty">Chargement…</p>
+  </main>
+
+  <footer class="foot">
+    Sources : Phys.org, Medical Xpress, Quanta, Europe PMC, OpenAlex (+ Unpaywall).<br>
+    Les badges « Texte intégral gratuit » ne pointent que vers des versions légales en libre accès.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
