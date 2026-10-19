@@ -108,4 +108,5 @@ TOP_JOURNALS = [
 LOOKBACK_DAYS = 7        # fenêtre de recherche au premier lancement
 MAX_EDITIONS = 30        # éditions conservées dans l'historique
 SUMMARY_CHARS = 340      # longueur max d'une description
-GEMINI_MODEL = "gemini-3.8-flash"  # palier gratuit de l'API Gemini (secret GEMINI_API_KEY)
+# palier gratuit de l'API Gemini (secret GEMINI_API_KEY), essayés dans l'ordre
+GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash-lite"]

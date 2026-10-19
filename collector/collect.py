@@ -305,15 +305,22 @@ def ai_summaries(items):
         "contents": [{"parts": [{"text": AI_PROMPT.format(n=len(items), articles=articles)}]}],
         "generationConfig": {"responseMimeType": "application/json"},
     }).encode()
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{config.GEMINI_MODEL}:generateContent"
-    raw = fetch(url, data=body, timeout=120,
-                headers={"Content-Type": "application/json", "x-goog-api-key": key})
-    try:
-        text = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
-        return apply_ai(items, json.loads(text))
-    except (TypeError, ValueError, KeyError, IndexError) as e:
-        print(f"  ! résumés IA ignorés : {e}", file=sys.stderr)
-        return None
+    for model in config.GEMINI_MODELS:  # le palier gratuit renvoie souvent 503 (surcharge) : on réessaie puis on change de modèle
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        for wait in (0, 20, 60):
+            time.sleep(wait)
+            raw = fetch(url, data=body, timeout=120, retries=0,
+                        headers={"Content-Type": "application/json", "x-goog-api-key": key})
+            if raw is None:
+                continue
+            try:
+                text = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
+                print(f"  résumés IA : {model}")
+                return apply_ai(items, json.loads(text))
+            except (TypeError, ValueError, KeyError, IndexError) as e:
+                print(f"  ! réponse IA illisible ({model}) : {e}", file=sys.stderr)
+    print("  ! résumés IA ignorés pour cette édition", file=sys.stderr)
+    return None
 
 
 def apply_ai(items, data):
