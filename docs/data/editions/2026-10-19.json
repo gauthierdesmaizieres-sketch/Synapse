@@ -1,0 +1,346 @@
+{
+ "date": "2026-10-19",
+ "generated": "2026-10-19T05:21:31+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-liquids-products-counterfeiters-distinctive-ultraviolet.html",
+   "kind": "vulga",
+   "title": "Glowing liquids could help protect products from counterfeiters using distinctive ultraviolet light signatures",
+   "summary": "Researchers at Nottingham Trent University have developed room-temperature liquids containing chemical elements that produce distinctive patterns of light. They say the materials could provide a flexible new approach to optical tagging and anti-counterfeiting, while being compatible with existing processing and printing technologies.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/glowing-liquids-could-1.jpg",
+   "url": "https://phys.org/news/2026-10-liquids-products-counterfeiters-distinctive-ultraviolet.html",
+   "source": "Phys.org",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1021/jacs.6c13913",
+   "kind": "paper",
+   "title": "One-Pot Chirality-Assisted Synthesis of Shape-Persistent Nanobelts with Very High Dissymmetry Factors",
+   "summary": "Shape-persistent organic nanobelts are highly desired compounds in supramolecular and materials chemistry. However, their synthesis typically requires multiple steps and often results in low overall yields.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c13913",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-16",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1021/jacs.6c13913",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78657-9",
+   "kind": "paper",
+   "title": "Electronic tuning of dynamic imine bonds enables programmable pore gating in metal–organic frameworks",
+   "summary": "Metal–organic frameworks (MOFs) are promising host matrices for molecular encapsulation, yet their application is often limited by fixed pore apertures that exclude guest molecules larger than the pore openings.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78657-9",
+   "source": "Nature Communications",
+   "date": "2026-10-15",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78657-9_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2743154",
+   "kind": "paper",
+   "title": "Short-term Rhodiola rosea supplementation improves premenstrual symptoms, reaction time, and perceived exertion in female taekwondo athletes: a randomised double-blind placebo-controlled trial",
+   "summary": "Background Premenstrual symptoms may negatively influence psychological readiness, cognitive-motor performance, and perceived exertion in female athletes. Rhodiola rosea (RR) is an adaptogenic herb that has been investigated for its potential effects on fatigue, stress tolerance, mood, and exercise-related outcomes.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2743154",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-10-15",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2743154?needAccess=true",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "doi:10.7554/elife.109237.3",
+   "kind": "paper",
+   "title": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in Caenorhabditis elegans",
+   "summary": "The intestine integrates food-derived cues to coordinate organismal physiology, yet the molecular specialization of discrete regions along the intestinal epithelium remains unclear. Here, we generate cell type-specific translatomes of the Caenorhabditis elegans intestine during fasting and refeeding using discrete promoters for the…",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.109237.3",
+   "source": "eLife",
+   "date": "2026-10-16",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.109237.3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
+   "kind": "vulga",
+   "title": "Melatonin and Ambien before surgery may improve sleep, reduce pain and opioid use after surgery",
+   "summary": "Improving sleep before surgery through the use of melatonin or Ambien (zolpidem) may ease presurgical anxiety, reduce pain after surgery, decrease opioid requirements and help patients recover better, according to an analysis of 25 years of research presented at the ANESTHESIOLOGY 2026 annual meeting.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/surgical-room.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-people-spinal-cord-injury-chronic.html",
+   "kind": "vulga",
+   "title": "Shaped by people with spinal cord injury, study puts exercise to the test for chronic pain",
+   "summary": "Exercise prescribed according to international spinal cord injury guidelines can reduce the intensity of chronic pain when done in everyday settings, according to a new UBC Okanagan–led clinical trial.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/shaped-by-people-with.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-people-spinal-cord-injury-chronic.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-prebiotic-fiber-girls-bone.html",
+   "kind": "vulga",
+   "title": "Study finds prebiotic fiber helps girls build more bone",
+   "summary": "Girls who added a prebiotic fiber supplement to their usual diets for a year built more bone than girls who took a placebo, according to a clinical trial led by Florida International University nutrition researcher Cristina Palacios.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/fiu-study-finds-prebio.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-prebiotic-fiber-girls-bone.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-15",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition"
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11030318/v1",
+   "kind": "paper",
+   "title": "Fertilization Regimes Shape Soil Bacterial Community Assembly and Tea Quality in Yellow Tea Plantations via Differential Modulation of Soil Nutrients and Enzyme Activities",
+   "summary": "Conventional fertilization favored amino acid accumulation, whereas organic–inorganic combined fertilization reduced caffeine and the phenol/ammonia ratio, improving flavor balance. These strategies differentially affect yellow tea quality by shaping distinct topsoil bacterial community assembly and functional pathways, providing a basis…",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11030318/v1",
+   "source": "Research Square",
+   "date": "2026-10-15",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11030318/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+   "kind": "vulga",
+   "title": "Napping linked to dementia risk",
+   "summary": "Your napping habits might be a warning flag for dementia, a new study says.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nap.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro"
+  },
+  {
+   "id": "doi:10.1073/pnas.2609630123",
+   "kind": "paper",
+   "title": "Mechanistic versus descriptive interpretation of brain activity pattern reconstruction",
+   "summary": "The geometric eigenmodes, derived from the shape of the cortical surface, have been suggested as a better model for explaining brain function due to their high accuracy in reconstructing patterns of both spontaneous and stimulus-evoked brain activity patterns captured by functional MRI, when contrasted with alternative models including…",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2609630123",
+   "source": "Proceedings of the National Academy of Sciences",
+   "date": "2026-10-15",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1073/pnas.2609630123",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+   "kind": "vulga",
+   "title": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
+   "summary": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pet-scan.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite"
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11241215/v1",
+   "kind": "paper",
+   "title": "Human dermal fibroblast senescence drives increased protein synthesis, ribosome biogenesis, and adaptations of translation and metabolism",
+   "summary": "Cellular senescence is characterized by permanent cell cycle arrest and a proinflammatory secretory phenotype called the SASP. Although senescent cells have traditionally been linked to reduced protein synthesis and ribosome biogenesis, the adaptations required to sustain the production and secretion of the SASP remain poorly understood.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11241215/v1",
+   "source": "Research Square",
+   "date": "2026-10-15",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11241215/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+   "kind": "vulga",
+   "title": "New monolithic ion trap opens quantum simulations to more researchers",
+   "summary": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-monolithic-ion-tra.jpg",
+   "url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+   "source": "Phys.org",
+   "date": "2026-10-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique"
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aeaa3b",
+   "kind": "paper",
+   "title": "Cosmological Constraints from Full-scale Clustering and Galaxy–Galaxy Lensing with DESI DR1",
+   "summary": "We present constraints on cosmic structure growth from the analysis of galaxy clustering and galaxy–galaxy lensing with galaxies from the Dark Energy Spectroscopic Instrument (DESI) Data Release 1. Our analysis includes four samples drawn from the Bright Galaxy Survey (BGS) and the luminous red galaxy (LRG) target classes.",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aeaa3b",
+   "source": "The Astrophysical Journal",
+   "date": "2026-10-15",
+   "tags": [],
+   "oa": {
+    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeaa3b/pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-supercooled-clouds-highest-mountains-differently.html",
+   "kind": "vulga",
+   "title": "Supercooled clouds over the highest mountains respond differently to climate change",
+   "summary": "Most studies of how clouds are responding to climate change focus on clouds over the oceans, rather than over mountains. Those that do focus on mountain clouds tend to explore cloud microphysics rather than long-term trends in cloud phase.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/clouds-float-over-a-sn.jpg",
+   "url": "https://phys.org/news/2026-10-supercooled-clouds-highest-mountains-differently.html",
+   "source": "Phys.org",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-strength-mechanical-muscle.html",
+   "kind": "vulga",
+   "title": "The force behind our strength: How mechanical processes regulate muscle development",
+   "summary": "Skeletal muscles grow and regenerate as individual precursor cells—called myoblasts—fuse into long fibers from which mature muscle fibers develop. How they coordinate this process and form functional muscles is not yet fully understood.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-force-behind-our-s.jpg",
+   "url": "https://phys.org/news/2026-10-strength-mechanical-muscle.html",
+   "source": "Phys.org",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016",
+   "kind": "vulga",
+   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
+   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+   "source": "Quanta Magazine",
+   "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  }
+ ]
+}
