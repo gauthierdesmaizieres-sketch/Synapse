@@ -275,6 +275,55 @@ def add_tldr(papers):
             p["tags"].append("TL;DR")
 
 
+AI_PROMPT = """Tu prépares le fil d'actualité scientifique personnel d'un passionné de chimie, biochimie,
+médicaments et musculation. Voici les {n} articles de l'édition (JSON).
+
+Réponds UNIQUEMENT avec un objet JSON de la forme :
+{{"digest": "...", "items": [{{"i": 0, "resume": "..."}}, ...]}}
+
+- "resume" (un par article, même "i") : 2 phrases en français, 50 mots maximum. Dis ce qui a été
+  découvert et pourquoi c'est intéressant, avec le chiffre clé s'il y en a un. Ton technique pour
+  les domaines chimie et biochimie, vulgarisé mais précis pour les autres. Si c'est une étude
+  animale, in vitro ou un préprint, signale-le en quelques mots.
+- "digest" : 4 à 6 puces (une par ligne, commençant par "• ") qui résument les temps forts de
+  l'édition, pour savoir en 20 secondes ce qui vaut la peine d'être lu.
+N'invente rien qui ne soit pas dans les textes fournis.
+
+Articles :
+{articles}"""
+
+
+def ai_summaries(items):
+    """Résumés en français + digest de l'édition via Gemini (palier gratuit). Sans clé : rien."""
+    key = os.environ.get("GEMINI_API_KEY")
+    if not key or not items:
+        return None
+    articles = json.dumps([{"i": i, "domaine": it["domain"], "type": it["kind"], "titre": it["title"],
+                            "texte": it.get("_abstract") or it["summary"]} for i, it in enumerate(items)],
+                          ensure_ascii=False)
+    body = json.dumps({
+        "contents": [{"parts": [{"text": AI_PROMPT.format(n=len(items), articles=articles)}]}],
+        "generationConfig": {"responseMimeType": "application/json"},
+    }).encode()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{config.GEMINI_MODEL}:generateContent"
+    raw = fetch(url, data=body, timeout=120,
+                headers={"Content-Type": "application/json", "x-goog-api-key": key})
+    try:
+        text = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
+        return apply_ai(items, json.loads(text))
+    except (TypeError, ValueError, KeyError, IndexError) as e:
+        print(f"  ! résumés IA ignorés : {e}", file=sys.stderr)
+        return None
+
+
+def apply_ai(items, data):
+    for r in data.get("items", []):
+        i = r.get("i")
+        if isinstance(i, int) and 0 <= i < len(items) and r.get("resume"):
+            items[i]["ai"] = r["resume"].strip()
+    return (data.get("digest") or "").strip() or None
+
+
 # ---------------------------------------------------------------- papiers : forme commune + score
 
 def make_paper(doi, url, title, abstract, journal, d, types, preprint, oa):
@@ -305,6 +354,7 @@ def make_paper(doi, url, title, abstract, journal, d, types, preprint, oa):
         "summary": summarize_abstract(abstract), "image": None, "url": url,
         "source": journal or "Article", "date": (d or TODAY.isoformat())[:10],
         "tags": tags, "oa": oa, "_score": score + random.random() * 0.5, "_doi": doi,
+        "_abstract": clean(abstract)[:1500],
     }
 
 
@@ -388,9 +438,11 @@ def main():
     papers = [it for it in items if it["kind"] == "paper"]
     enrich_oa(papers)
     add_tldr(papers)
+    digest = ai_summaries(items)
     for it in items:
         it.pop("_score", None)
         it.pop("_doi", None)
+        it.pop("_abstract", None)
 
     if not items:
         print("Aucune carte trouvée, édition non écrite.")
@@ -401,6 +453,7 @@ def main():
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "domains": [{k: d[k] for k in ("id", "label", "emoji", "color")} for d in config.DOMAINS]
         + [{"id": "exotique", "label": "Hors sentiers", "emoji": "🧭", "color": "#a16207"}],
+        "digest": digest,
         "items": items,
     }
     (DATA / "editions" / f"{TODAY}.json").write_text(

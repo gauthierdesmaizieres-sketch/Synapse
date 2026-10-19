@@ -47,6 +47,11 @@ et ouvrir <http://localhost:8765>.
 
 ### Options gratuites
 
+- **Résumés IA en français + « L'essentiel de l'édition »** (Gemini, palier gratuit) : crée une clé sur
+  <https://aistudio.google.com/apikey>, puis ajoute-la dans
+  *Settings → Secrets and variables → Actions → New repository secret* sous le nom `GEMINI_API_KEY`.
+  Sur le palier gratuit, Google peut utiliser les textes envoyés (ici, des abstracts publics).
+
 - **Résumés TL;DR d'une phrase** (IA de Semantic Scholar) : demande une clé gratuite sur
   <https://www.semanticscholar.org/product/api#api-key-form>, puis ajoute-la dans
   *Settings → Secrets and variables → Actions* sous le nom `S2_API_KEY`.

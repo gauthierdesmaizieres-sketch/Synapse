@@ -24,6 +24,7 @@ jobs:
 
       - name: Collecter les articles
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # optionnel : résumés IA en français
           S2_API_KEY: ${{ secrets.S2_API_KEY }}          # optionnel
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }} # optionnel
         run: python collector/collect.py

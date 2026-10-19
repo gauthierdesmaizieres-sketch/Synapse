@@ -79,6 +79,12 @@ body {
   font-weight: 600; display: flex; align-items: center; gap: 8px;
 }
 .section-title::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.digest {
+  grid-column: 1 / -1; background: var(--surface); border: 1px solid var(--line);
+  border-left: 4px solid var(--accent); border-radius: 16px; padding: 14px 16px; box-shadow: var(--shadow);
+}
+.digest h3 { margin: 0 0 6px; font-size: 15px; }
+.digest p { margin: 0; white-space: pre-line; font-size: 14.5px; line-height: 1.6; }
 .empty { grid-column: 1 / -1; color: var(--muted); text-align: center; padding: 48px 0; }
 
 .card {

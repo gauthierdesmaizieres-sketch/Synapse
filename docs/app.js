@@ -81,7 +81,7 @@ function cardHTML(item) {
           ${item.kind !== "paper" ? `<span>·</span><span>${esc(item.source)}</span>` : ""}
         </div>
         <h2>${esc(item.title)}</h2>
-        ${item.summary ? `<p>${esc(item.summary)}</p>` : ""}
+        ${item.ai || item.summary ? `<p>${esc(item.ai || item.summary)}</p>` : ""}
         ${tags.length ? `<div class="tags">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : ""}
       </div>
     </a>
@@ -121,7 +121,9 @@ function renderFeed() {
   } else if (state.filter === "all") {
     const main = items.filter((it) => it.domain !== "exotique");
     const exotic = items.filter((it) => it.domain === "exotique");
-    html = main.map(cardHTML).join("");
+    const digest = state.edition?.digest;
+    html = (digest ? `<section class="digest"><h3>✨ L'essentiel de l'édition</h3><p>${esc(digest)}</p></section>` : "")
+      + main.map(cardHTML).join("");
     if (exotic.length) html += `<h3 class="section-title">🧭 Hors des sentiers battus</h3>` + exotic.map(cardHTML).join("");
   } else {
     html = items.filter((it) => it.domain === state.filter).map(cardHTML).join("");
