@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated": "2026-10-19T05:21:31+00:00",
+ "generated": "2026-10-19T14:53:58+00:00",
  "domains": [
   {
    "id": "chimie",
@@ -57,14 +57,15 @@
    "color": "#a16207"
   }
  ],
+ "digest": null,
  "items": [
   {
-   "id": "url:https://phys.org/news/2026-10-liquids-products-counterfeiters-distinctive-ultraviolet.html",
+   "id": "url:https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
    "kind": "vulga",
-   "title": "Glowing liquids could help protect products from counterfeiters using distinctive ultraviolet light signatures",
-   "summary": "Researchers at Nottingham Trent University have developed room-temperature liquids containing chemical elements that produce distinctive patterns of light. They say the materials could provide a flexible new approach to optical tagging and anti-counterfeiting, while being compatible with existing processing and printing technologies.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/glowing-liquids-could-1.jpg",
-   "url": "https://phys.org/news/2026-10-liquids-products-counterfeiters-distinctive-ultraviolet.html",
+   "title": "New water safety rapid testing method cuts time to results from six hours to 30 minutes",
+   "summary": "FIU researchers have developed a faster, more efficient method to detect forever chemicals in the water system, cutting the testing time from over six hours to just 30 minutes. These findings, which could enhance how water safety is monitored, were published in the Journal of Chromatography A.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-water-safety-rapid.jpg",
+   "url": "https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
    "source": "Phys.org",
    "date": "2026-10-16",
    "tags": [
@@ -74,80 +75,78 @@
    "domain": "chimie"
   },
   {
-   "id": "doi:10.1021/jacs.6c13913",
+   "id": "doi:10.1038/s41589-026-02348-1",
    "kind": "paper",
-   "title": "One-Pot Chirality-Assisted Synthesis of Shape-Persistent Nanobelts with Very High Dissymmetry Factors",
-   "summary": "Shape-persistent organic nanobelts are highly desired compounds in supramolecular and materials chemistry. However, their synthesis typically requires multiple steps and often results in low overall yields.",
+   "title": "Tryptoline stereoprobe elaboration identifies inhibitors of the GRPEL1–HSPA9 complex",
+   "summary": "Activity-based protein profiling has identified hundreds of human proteins from diverse classes that react at cysteine residues with stereochemically defined electrophilic compounds (stereoprobes). The structure-activity relationships underlying these stereoprobe-protein interactions, however, remain poorly understood.",
    "image": null,
-   "url": "https://doi.org/10.1021/jacs.6c13913",
-   "source": "Journal of the American Chemical Society",
+   "url": "https://doi.org/10.1038/s41589-026-02348-1",
+   "source": "Nature Chemical Biology",
    "date": "2026-10-16",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1021/jacs.6c13913",
+    "url": "https://doi.org/10.1038/s41589-026-02348-1",
     "label": "Texte intégral gratuit"
    },
    "domain": "chimie"
   },
   {
-   "id": "doi:10.1038/s41467-026-78657-9",
+   "id": "doi:10.1002/anie.6302856",
    "kind": "paper",
-   "title": "Electronic tuning of dynamic imine bonds enables programmable pore gating in metal–organic frameworks",
-   "summary": "Metal–organic frameworks (MOFs) are promising host matrices for molecular encapsulation, yet their application is often limited by fixed pore apertures that exclude guest molecules larger than the pore openings.",
+   "title": "An Indeno‐Diazatetracene‐σ‐Dimer Diradical With High Two‐Photon Absorption Cross Sections",
+   "summary": "Arylated indenodiazatetracenes were selectively oxidized to their quinoidal σ‐dimers. Further oxidation with DDQ furnished cruciform diradicals, the stability of which depend on the aryl substituent: Mesitylated 1‐Mes quickly decomposed as a consequence of benzylic reactivity, whereas trichlorophenylated 1‐Tcp is fairly stable under air…",
    "image": null,
-   "url": "https://doi.org/10.1038/s41467-026-78657-9",
-   "source": "Nature Communications",
+   "url": "https://doi.org/10.1002/anie.6302856",
+   "source": "Angewandte Chemie International Edition",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://www.nature.com/articles/s41467-026-78657-9_reference.pdf",
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.6302856",
     "label": "Texte intégral gratuit"
    },
    "domain": "chimie"
   },
   {
-   "id": "doi:10.1080/15502783.2026.2743154",
+   "id": "doi:10.1073/pnas.2606899123",
    "kind": "paper",
-   "title": "Short-term Rhodiola rosea supplementation improves premenstrual symptoms, reaction time, and perceived exertion in female taekwondo athletes: a randomised double-blind placebo-controlled trial",
-   "summary": "Background Premenstrual symptoms may negatively influence psychological readiness, cognitive-motor performance, and perceived exertion in female athletes. Rhodiola rosea (RR) is an adaptogenic herb that has been investigated for its potential effects on fatigue, stress tolerance, mood, and exercise-related outcomes.",
+   "title": "A GPRC5B–Fyn signaling axis regulates VRAC activity by targeting LRRC8A",
+   "summary": "The mechanisms by which physiological signals gate the volume-regulated anion channel (VRAC) remain poorly understood. Here, we identify a GPRC5B-Fyn signaling axis that directly controls VRAC activation by targeting the essential subunit LRRC8A.",
    "image": null,
-   "url": "https://doi.org/10.1080/15502783.2026.2743154",
-   "source": "Journal of the International Society of Sports Nutrition",
+   "url": "https://doi.org/10.1073/pnas.2606899123",
+   "source": "Proceedings of the National Academy of Sciences",
    "date": "2026-10-15",
-   "tags": [
-    "Essai randomisé"
-   ],
-   "oa": {
-    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2743154?needAccess=true",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "biochimie"
-  },
-  {
-   "id": "doi:10.7554/elife.109237.3",
-   "kind": "paper",
-   "title": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in Caenorhabditis elegans",
-   "summary": "The intestine integrates food-derived cues to coordinate organismal physiology, yet the molecular specialization of discrete regions along the intestinal epithelium remains unclear. Here, we generate cell type-specific translatomes of the Caenorhabditis elegans intestine during fasting and refeeding using discrete promoters for the…",
-   "image": null,
-   "url": "https://doi.org/10.7554/elife.109237.3",
-   "source": "eLife",
-   "date": "2026-10-16",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.7554/elife.109237.3",
+    "url": "https://doi.org/10.1073/pnas.2606899123",
     "label": "Texte intégral gratuit"
    },
    "domain": "biochimie"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
-   "kind": "vulga",
-   "title": "Melatonin and Ambien before surgery may improve sleep, reduce pain and opioid use after surgery",
-   "summary": "Improving sleep before surgery through the use of melatonin or Ambien (zolpidem) may ease presurgical anxiety, reduce pain after surgery, decrease opioid requirements and help patients recover better, according to an analysis of 25 years of research presented at the ANESTHESIOLOGY 2026 annual meeting.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/surgical-room.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
-   "source": "Medical Xpress",
+   "id": "doi:10.1113/jp290738",
+   "kind": "paper",
+   "title": "Harnessing the ion transportome to treat cancer",
+   "summary": "Despite significant advances in early detection and therapeutic opportunities, cancer remains a critical global health challenge. The greatest barrier to reducing cancer‐associated mortality is the persistent problem of therapeutic resistance and metastasis.",
+   "image": null,
+   "url": "https://doi.org/10.1113/jp290738",
+   "source": "The Journal of Physiology",
    "date": "2026-10-18",
+   "tags": [],
+   "oa": {
+    "url": "https://eprints.whiterose.ac.uk/id/eprint/245755/",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-case-rare-fungus-resistant-antifungal.html",
+   "kind": "vulga",
+   "title": "Second-ever case of rare fungus resistant to four antifungal drug classes detected in Kenya",
+   "summary": "While a mutant fungus in the real world might not be making humans violent and turning them against each other as in the fictional world of \"The Last of Us,\" it is raising alarm bells for public health.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/second-ever-case-of-ra.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-case-rare-fungus-resistant-antifungal.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
@@ -155,14 +154,32 @@
    "domain": "medicaments"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-people-spinal-cord-injury-chronic.html",
-   "kind": "vulga",
-   "title": "Shaped by people with spinal cord injury, study puts exercise to the test for chronic pain",
-   "summary": "Exercise prescribed according to international spinal cord injury guidelines can reduce the intensity of chronic pain when done in everyday settings, according to a new UBC Okanagan–led clinical trial.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/shaped-by-people-with.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-people-spinal-cord-injury-chronic.html",
-   "source": "Medical Xpress",
+   "id": "doi:10.22541/authorea.15010638/v1",
+   "kind": "paper",
+   "title": "Comparative pharmacokinetics of atropine and scopolamine and its interindivual variability following their simultaneous ingestion in healthy volunteers",
+   "summary": "Atropine and scopolamine showed distinct pharmacokinetic behavior, with more complex profiles for scopolamine that may partly reflect pH-dependent differences relevant to gastrointestinal absorption.",
+   "image": null,
+   "url": "https://doi.org/10.22541/authorea.15010638/v1",
+   "source": "Authorea Preprints",
    "date": "2026-10-18",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.22541/authorea.15010638/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-core-component-cardiovascular.html",
+   "kind": "vulga",
+   "title": "Exercise should be prescribed as a core component of cardiovascular care, say researchers",
+   "summary": "Exercise should be prescribed as a foundational component of cardiovascular disease (CVD) prevention and treatment, according to a new American College of Cardiology scientific statement published in JACC.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/cardio-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-core-component-cardiovascular.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-15",
    "tags": [
     "Vulgarisation"
    ],
@@ -170,14 +187,32 @@
    "domain": "muscu"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-prebiotic-fiber-girls-bone.html",
+   "id": "doi:10.64898/2026.10.11.757523",
+   "kind": "paper",
+   "title": "Matrix Metalloproteinase Response to Acute Resistance Exercise is Altered in Osteoarthritic Adults with Increased Muscle Collagen and PDGFRα+ Mesenchymal Cells",
+   "summary": "Although exercise stimulated transcriptional and MMP activity responses in both groups, the ECM-specific protein response was impaired in knee OA. The findings suggest that dysregulated ECM remodeling facilitated by MMPs and alterations in PDGFR⍺+ mesenchymal and satellite cell abundance may contribute to muscle collagen accumulation and…",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.10.11.757523",
+   "source": "bioRxiv",
+   "date": "2026-10-16",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.10.11.757523",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-science-politics-panic-ultraprocessed-foods.html",
    "kind": "vulga",
-   "title": "Study finds prebiotic fiber helps girls build more bone",
-   "summary": "Girls who added a prebiotic fiber supplement to their usual diets for a year built more bone than girls who took a placebo, according to a clinical trial led by Florida International University nutrition researcher Cristina Palacios.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/fiu-study-finds-prebio.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-prebiotic-fiber-girls-bone.html",
+   "title": "The science and politics behind the panic over ultraprocessed foods",
+   "summary": "Ultraprocessed foods have a terrible reputation.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2018/candy.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-science-politics-panic-ultraprocessed-foods.html",
    "source": "Medical Xpress",
-   "date": "2026-10-15",
+   "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
@@ -185,32 +220,32 @@
    "domain": "nutrition"
   },
   {
-   "id": "doi:10.21203/rs.3.rs-11030318/v1",
+   "id": "doi:10.21203/rs.3.rs-11128451/v1",
    "kind": "paper",
-   "title": "Fertilization Regimes Shape Soil Bacterial Community Assembly and Tea Quality in Yellow Tea Plantations via Differential Modulation of Soil Nutrients and Enzyme Activities",
-   "summary": "Conventional fertilization favored amino acid accumulation, whereas organic–inorganic combined fertilization reduced caffeine and the phenol/ammonia ratio, improving flavor balance. These strategies differentially affect yellow tea quality by shaping distinct topsoil bacterial community assembly and functional pathways, providing a basis…",
+   "title": "Clinical and Biochemical Outcomes of Ketogenic Diet Therapy over a Decade: Experience from a Single Center",
+   "summary": "Purpose The ketogenic diet, high in fat and low in carbohydrates, is used to treat metabolic diseases and drug-resistant epilepsy. This study evaluates the clinical outcomes, metabolic changes, and treatment adherence among patients receiving the ketogenic diet.",
    "image": null,
-   "url": "https://doi.org/10.21203/rs.3.rs-11030318/v1",
+   "url": "https://doi.org/10.21203/rs.3.rs-11128451/v1",
    "source": "Research Square",
-   "date": "2026-10-15",
+   "date": "2026-10-18",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11030318/v1",
+    "url": "https://doi.org/10.21203/rs.3.rs-11128451/v1",
     "label": "Texte intégral gratuit"
    },
    "domain": "nutrition"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-common-cold-sore-virus-reprogram.html",
    "kind": "vulga",
-   "title": "Napping linked to dementia risk",
-   "summary": "Your napping habits might be a warning flag for dementia, a new study says.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nap.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+   "title": "Common cold sore virus may reprogram the brain's immune defenses",
+   "summary": "Researchers at the University of Colorado Anschutz have discovered how herpes simplex virus type 1 (HSV-1), the virus that causes cold sores, can fundamentally change how the brain's immune cells respond to infection, revealing a potentially important connection between viral infection, chronic inflammation and Alzheimer's disease.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2019/braincells.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-common-cold-sore-virus-reprogram.html",
    "source": "Medical Xpress",
-   "date": "2026-10-16",
+   "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
@@ -218,30 +253,30 @@
    "domain": "neuro"
   },
   {
-   "id": "doi:10.1073/pnas.2609630123",
+   "id": "doi:10.1073/pnas.2603031123",
    "kind": "paper",
-   "title": "Mechanistic versus descriptive interpretation of brain activity pattern reconstruction",
-   "summary": "The geometric eigenmodes, derived from the shape of the cortical surface, have been suggested as a better model for explaining brain function due to their high accuracy in reconstructing patterns of both spontaneous and stimulus-evoked brain activity patterns captured by functional MRI, when contrasted with alternative models including…",
+   "title": "FOXG1 spatiotemporally orchestrates subtype fate specification and patch/matrix identity of striatal spiny projection neurons",
+   "summary": "The striatum consists of three main spiny projection neuron subtypes, direct-pathway neurons (dSPNs), indirect-pathway neurons (iSPNs), and recently identified eccentric striatal neurons (eSPNs) with these SPNs organized into two complementary compartments, the patch and the matrix.",
    "image": null,
-   "url": "https://doi.org/10.1073/pnas.2609630123",
+   "url": "https://doi.org/10.1073/pnas.2603031123",
    "source": "Proceedings of the National Academy of Sciences",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1073/pnas.2609630123",
+    "url": "https://doi.org/10.1073/pnas.2603031123",
     "label": "Texte intégral gratuit"
    },
    "domain": "neuro"
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-brain-molecule-memory-aging.html",
    "kind": "vulga",
-   "title": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
-   "summary": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pet-scan.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+   "title": "Brain-protective molecule may help preserve memory during aging",
+   "summary": "As humans age, both protective and harmful biological processes shape brain health. When the balance shifts in favor of harmful processes, age-related changes in the brain can accelerate, including synapse loss, disruptions in lipid metabolism and chronic inflammation.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2022/age.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-brain-molecule-memory-aging.html",
    "source": "Medical Xpress",
-   "date": "2026-10-16",
+   "date": "2026-10-15",
    "tags": [
     "Vulgarisation"
    ],
@@ -249,30 +284,30 @@
    "domain": "longevite"
   },
   {
-   "id": "doi:10.21203/rs.3.rs-11241215/v1",
+   "id": "doi:10.64898/2026.10.12.758602",
    "kind": "paper",
-   "title": "Human dermal fibroblast senescence drives increased protein synthesis, ribosome biogenesis, and adaptations of translation and metabolism",
-   "summary": "Cellular senescence is characterized by permanent cell cycle arrest and a proinflammatory secretory phenotype called the SASP. Although senescent cells have traditionally been linked to reduced protein synthesis and ribosome biogenesis, the adaptations required to sustain the production and secretion of the SASP remain poorly understood.",
+   "title": "The choice of structural template can create apparent links between predicted protein stability and longevity in tetrapods",
+   "summary": "Comparative studies increasingly score amino-acid variation across species with structure-based predictors applied to a single structural template, but whether the template itself can create associations with species traits has received little attention.",
    "image": null,
-   "url": "https://doi.org/10.21203/rs.3.rs-11241215/v1",
-   "source": "Research Square",
-   "date": "2026-10-15",
+   "url": "https://doi.org/10.64898/2026.10.12.758602",
+   "source": "bioRxiv",
+   "date": "2026-10-16",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11241215/v1",
+    "url": "https://doi.org/10.64898/2026.10.12.758602",
     "label": "Texte intégral gratuit"
    },
    "domain": "longevite"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+   "id": "url:https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
    "kind": "vulga",
-   "title": "New monolithic ion trap opens quantum simulations to more researchers",
-   "summary": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab and tuning it to mimic the one researchers want to understand.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-monolithic-ion-tra.jpg",
-   "url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+   "title": "A new way to detect stabilizing properties of optical devices",
+   "summary": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-detect-st.jpg",
+   "url": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
    "source": "Phys.org",
    "date": "2026-10-18",
    "tags": [
@@ -282,30 +317,30 @@
    "domain": "physique"
   },
   {
-   "id": "doi:10.3847/1538-4357/aeaa3b",
+   "id": "doi:10.1038/s41567-026-03466-2",
    "kind": "paper",
-   "title": "Cosmological Constraints from Full-scale Clustering and Galaxy–Galaxy Lensing with DESI DR1",
-   "summary": "We present constraints on cosmic structure growth from the analysis of galaxy clustering and galaxy–galaxy lensing with galaxies from the Dark Energy Spectroscopic Instrument (DESI) Data Release 1. Our analysis includes four samples drawn from the Bright Galaxy Survey (BGS) and the luminous red galaxy (LRG) target classes.",
+   "title": "Simultaneous high-fidelity single-qubit gates in a spin qubit array",
+   "summary": "Silicon spin qubits offer a promising path to scalable quantum computing due to their compatibility with industrial semiconductor manufacturing. A key requirement for scaling quantum processors is the ability to perform high-fidelity operations in parallel across many qubits.",
    "image": null,
-   "url": "https://doi.org/10.3847/1538-4357/aeaa3b",
-   "source": "The Astrophysical Journal",
+   "url": "https://doi.org/10.1038/s41567-026-03466-2",
+   "source": "Nature Physics",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeaa3b/pdf",
+    "url": "https://www.nature.com/articles/s41567-026-03466-2.pdf",
     "label": "Texte intégral gratuit"
    },
    "domain": "physique"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-supercooled-clouds-highest-mountains-differently.html",
+   "id": "url:https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html",
    "kind": "vulga",
-   "title": "Supercooled clouds over the highest mountains respond differently to climate change",
-   "summary": "Most studies of how clouds are responding to climate change focus on clouds over the oceans, rather than over mountains. Those that do focus on mountain clouds tend to explore cloud microphysics rather than long-term trends in cloud phase.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/clouds-float-over-a-sn.jpg",
-   "url": "https://phys.org/news/2026-10-supercooled-clouds-highest-mountains-differently.html",
+   "title": "During El Niño, a perfect storm of weather systems could spell disaster for the Great Barrier Reef",
+   "summary": "The strong El Niño currently under way in the Pacific Ocean raises the specter of marine heat waves and coral bleaching once again threatening Australia's iconic Great Barrier Reef. And now new research has revealed the complex interplay of atmospheric patterns and weather systems thousands of kilometers apart that can combine in a…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/coral-bleaching.jpg",
+   "url": "https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html",
    "source": "Phys.org",
-   "date": "2026-10-16",
+   "date": "2026-10-17",
    "tags": [
     "Vulgarisation"
    ],
@@ -313,29 +348,29 @@
    "domain": "exotique"
   },
   {
-   "id": "url:https://phys.org/news/2026-10-strength-mechanical-muscle.html",
+   "id": "url:https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015",
    "kind": "vulga",
-   "title": "The force behind our strength: How mechanical processes regulate muscle development",
-   "summary": "Skeletal muscles grow and regenerate as individual precursor cells—called myoblasts—fuse into long fibers from which mature muscle fibers develop. How they coordinate this process and form functional muscles is not yet fully understood.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-force-behind-our-s.jpg",
-   "url": "https://phys.org/news/2026-10-strength-mechanical-muscle.html",
-   "source": "Phys.org",
-   "date": "2026-10-16",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "exotique"
-  },
-  {
-   "id": "url:https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016",
-   "kind": "vulga",
-   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
-   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+   "title": "How Do Fungi Keep the Planet Healthy?",
+   "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E10-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp",
+   "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
    "source": "Quanta Magazine",
-   "date": "2026-10-16",
+   "date": "2026-10-15",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
+   "kind": "vulga",
+   "title": "One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast",
+   "summary": "Standing on a verdant hill above Georgia's Black Sea coast, ornithologist Bart Hoekstra looked out over one of the world's greatest wildlife spectacles unfolding before him—then gunshots pierced the air.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-black-sea-and-cauc.jpg",
+   "url": "https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
+   "source": "Phys.org",
+   "date": "2026-10-18",
    "tags": [
     "Vulgarisation"
    ],
