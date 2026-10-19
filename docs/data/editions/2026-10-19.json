@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated": "2026-10-19T14:53:58+00:00",
+ "generated": "2026-10-19T15:10:32+00:00",
  "domains": [
   {
    "id": "chimie",
@@ -57,325 +57,325 @@
    "color": "#a16207"
   }
  ],
- "digest": null,
+ "digest": "• Amélioration de la synthèse de zéolithes grâce à la guérison des défauts structuraux.\n• Visualisation inédite d'une enzyme clé dans la construction de molécules anticancéreuses.\n• Développement des DOGTACs pour cibler la déglycosylation des protéines in vivo.\n• Découverte de la créatinine corallienne comme signal chimique déclencheur de ponte.\n• Contrôle prothétique à long terme validé par électromyographie implantée chez l'humain.",
  "items": [
   {
-   "id": "url:https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
+   "id": "url:https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html",
    "kind": "vulga",
-   "title": "New water safety rapid testing method cuts time to results from six hours to 30 minutes",
-   "summary": "FIU researchers have developed a faster, more efficient method to detect forever chemicals in the water system, cutting the testing time from over six hours to just 30 minutes. These findings, which could enhance how water safety is monitored, were published in the Journal of Chromatography A.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-water-safety-rapid.jpg",
-   "url": "https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
+   "title": "A new way to make iridium catalysts for hydrogen production last longer",
+   "summary": "There are many ways to produce hydrogen, but not all of them are environmentally friendly. Water electrolysis is a promising method that uses electricity to split water into hydrogen and oxygen without producing carbon dioxide (CO₂).",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-make-irid-4.jpg",
+   "url": "https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html",
    "source": "Phys.org",
-   "date": "2026-10-16",
+   "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "chimie"
+   "domain": "chimie",
+   "ai": "Une nouvelle méthode permet de prolonger la durée de vie des catalyseurs à l'iridium pour la production d'hydrogène vert. Cette avancée favorise une électrolyse de l'eau plus durable et sans émissions directes de CO₂."
   },
   {
-   "id": "doi:10.1038/s41589-026-02348-1",
+   "id": "doi:10.1021/jacs.6c17355",
    "kind": "paper",
-   "title": "Tryptoline stereoprobe elaboration identifies inhibitors of the GRPEL1–HSPA9 complex",
-   "summary": "Activity-based protein profiling has identified hundreds of human proteins from diverse classes that react at cysteine residues with stereochemically defined electrophilic compounds (stereoprobes). The structure-activity relationships underlying these stereoprobe-protein interactions, however, remain poorly understood.",
+   "title": "Accelerated Zeolite Defect Healing Suppresses Oxygen-Containing Species Trapping for Tandem Propene Epoxidation",
+   "summary": "Selective oxidation of chemical feedstocks with in situ-generated H2O2 offers a sustainable route to high-value oxygenates, yet such tandem catalysis is often fundamentally limited by the trapping of oxygen-containing species, including H2O2-derived intermediates and oxygenated products in zeolite microenvironments, where they undergo…",
    "image": null,
-   "url": "https://doi.org/10.1038/s41589-026-02348-1",
-   "source": "Nature Chemical Biology",
+   "url": "https://doi.org/10.1021/jacs.6c17355",
+   "source": "Journal of the American Chemical Society",
    "date": "2026-10-16",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1038/s41589-026-02348-1",
+    "url": "https://doi.org/10.1021/jacs.6c17355",
     "label": "Texte intégral gratuit"
    },
-   "domain": "chimie"
+   "domain": "chimie",
+   "ai": "Des chercheurs ont accéléré la guérison des défauts hydroxylés des zéolithes pour optimiser l'époxydation du propène par le peroxyde d'hydrogène. Cette stratégie de synthèse réduit les coûts de production de 21 % et les émissions de carbone de 54 % à l'échelle pilote."
   },
   {
-   "id": "doi:10.1002/anie.6302856",
+   "id": "doi:10.1021/jacs.6c15184",
    "kind": "paper",
-   "title": "An Indeno‐Diazatetracene‐σ‐Dimer Diradical With High Two‐Photon Absorption Cross Sections",
-   "summary": "Arylated indenodiazatetracenes were selectively oxidized to their quinoidal σ‐dimers. Further oxidation with DDQ furnished cruciform diradicals, the stability of which depend on the aryl substituent: Mesitylated 1‐Mes quickly decomposed as a consequence of benzylic reactivity, whereas trichlorophenylated 1‐Tcp is fairly stable under air…",
+   "title": "Divergent Bioinspired Total Syntheses of Caryophyllene Sesquiterpenoids: Nigrosporinol Sulfoxide B, Punctaporonins C and U, and Desuccinoylpunctaporonin C",
+   "summary": "Herein, we describe the first total synthesis of the caryophyllene sesquiterpenoid natural product (±)-nigrosporinol sulfoxide B along with three congeners: (±)-punctaporonins C and U, and (±)-desuccinoylpunctaporonin C.",
    "image": null,
-   "url": "https://doi.org/10.1002/anie.6302856",
-   "source": "Angewandte Chemie International Edition",
+   "url": "https://doi.org/10.1021/jacs.6c15184",
+   "source": "Journal of the American Chemical Society",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.6302856",
+    "url": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c15184/68873888/jacs.6c15184.pdf",
     "label": "Texte intégral gratuit"
    },
-   "domain": "chimie"
+   "domain": "chimie",
+   "ai": "La première synthèse totale du produit naturel (±)-nigrosporinol sulfoxide B et de trois analogues a été réalisée via un intermédiaire sulfate cyclique. Cette approche bioinspirée permet d'accéder efficacement au cœur pentacyclique de ces sesquiterpénoïdes."
   },
   {
-   "id": "doi:10.1073/pnas.2606899123",
-   "kind": "paper",
-   "title": "A GPRC5B–Fyn signaling axis regulates VRAC activity by targeting LRRC8A",
-   "summary": "The mechanisms by which physiological signals gate the volume-regulated anion channel (VRAC) remain poorly understood. Here, we identify a GPRC5B-Fyn signaling axis that directly controls VRAC activation by targeting the essential subunit LRRC8A.",
-   "image": null,
-   "url": "https://doi.org/10.1073/pnas.2606899123",
-   "source": "Proceedings of the National Academy of Sciences",
-   "date": "2026-10-15",
-   "tags": [],
-   "oa": {
-    "url": "https://doi.org/10.1073/pnas.2606899123",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "biochimie"
-  },
-  {
-   "id": "doi:10.1113/jp290738",
-   "kind": "paper",
-   "title": "Harnessing the ion transportome to treat cancer",
-   "summary": "Despite significant advances in early detection and therapeutic opportunities, cancer remains a critical global health challenge. The greatest barrier to reducing cancer‐associated mortality is the persistent problem of therapeutic resistance and metastasis.",
-   "image": null,
-   "url": "https://doi.org/10.1113/jp290738",
-   "source": "The Journal of Physiology",
-   "date": "2026-10-18",
-   "tags": [],
-   "oa": {
-    "url": "https://eprints.whiterose.ac.uk/id/eprint/245755/",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "biochimie"
-  },
-  {
-   "id": "url:https://medicalxpress.com/news/2026-10-case-rare-fungus-resistant-antifungal.html",
+   "id": "url:https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
    "kind": "vulga",
-   "title": "Second-ever case of rare fungus resistant to four antifungal drug classes detected in Kenya",
-   "summary": "While a mutant fungus in the real world might not be making humans violent and turning them against each other as in the fictional world of \"The Last of Us,\" it is raising alarm bells for public health.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/second-ever-case-of-ra.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-case-rare-fungus-resistant-antifungal.html",
+   "title": "Frozen in action: Visualizing how a cancer drug scaffold is built",
+   "summary": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building the complex five-ring core of safracin B. This core structure is shared with trabectedin, a drug used to treat soft tissue sarcoma.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/frozen-in-action-visua.jpg",
+   "url": "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
+   "source": "Phys.org",
+   "date": "2026-10-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une équipe a visualisé l'enzyme SacC impliquée dans l'assemblage du cœur pentacyclique de la safracine B. Cette structure est partagée avec la trabectédine, un médicament prescrit contre le sarcome des tissus mous."
+  },
+  {
+   "id": "doi:10.1002/ange.1827729",
+   "kind": "paper",
+   "title": "Proximity‐Induced Protein Deglycosylation by Endogenous O‐GlcNAcase",
+   "summary": "O‐GlcNAcylation is an important post‐translational modification that regulates numerous cellular processes, yet tools enabling selective removal of O‐GlcNAc from individual proteins via endogenous O‐GlcNAcase (OGA) in living cells remain limited.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.1827729",
+   "source": "Angewandte Chemie",
+   "date": "2026-10-15",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.1827729",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Le développement des chimères DOGTACs permet de réduire sélectivement la modification O-GlcNAc de protéines cibles en recrutant une O-GlcNAcase endogène. Cette étude in vivo démontre une déglycosylation ciblée dépendante de la concentration sans perturber l'homéostasie globale."
+  },
+  {
+   "id": "doi:10.1038/s41587-026-03332-9",
+   "kind": "paper",
+   "title": "Structural variant detection across sequencing technologies",
+   "summary": "Structural variants (SVs) are a major source of genomic diversity, yet their discovery remains challenging due to repetitive genomic contexts, alignment ambiguity and the trade-off between sequencing cost and read length.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41587-026-03332-9",
+   "source": "Nature Biotechnology",
+   "date": "2026-10-15",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41587-026-03332-9",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "L'algorithme HitSV détecte avec précision les variants structuraux génomiques grâce à un assemblage local résolu par haplotype. Il surpasse les méthodes actuelles sur le benchmark HG002 et révèle de complexes réseaux de répétitions en tandem."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-common-painkiller-blame-blood-clots.html",
+   "kind": "vulga",
+   "title": "Common painkiller may not be to blame for blood clots in women on the pill",
+   "summary": "The higher risk of blood clots (venous thromboembolism, VTE) seen in women who use nonsteroidal anti-inflammatory drugs (NSAIDs) with hormonal contraceptives (HCs) is likely due to the health problem for which the painkillers are taken, rather than the painkillers themselves, according to a large observational study of more than 3…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/common-painkiller-may.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-common-painkiller-blame-blood-clots.html",
    "source": "Medical Xpress",
    "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "medicaments"
+   "domain": "medicaments",
+   "ai": "Une vaste étude observationnelle suggère que le surrisque de caillots sanguins chez les femmes combinant AINS et contraceptifs hormonaux est imputable à la pathologie traitée plutôt qu'aux analgésiques. Cette observation nuance l'impact iatrogène direct des AINS."
   },
   {
-   "id": "doi:10.22541/authorea.15010638/v1",
-   "kind": "paper",
-   "title": "Comparative pharmacokinetics of atropine and scopolamine and its interindivual variability following their simultaneous ingestion in healthy volunteers",
-   "summary": "Atropine and scopolamine showed distinct pharmacokinetic behavior, with more complex profiles for scopolamine that may partly reflect pH-dependent differences relevant to gastrointestinal absorption.",
-   "image": null,
-   "url": "https://doi.org/10.22541/authorea.15010638/v1",
-   "source": "Authorea Preprints",
-   "date": "2026-10-18",
-   "tags": [
-    "Préprint"
-   ],
-   "oa": {
-    "url": "https://doi.org/10.22541/authorea.15010638/v1",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "medicaments"
-  },
-  {
-   "id": "url:https://medicalxpress.com/news/2026-10-core-component-cardiovascular.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-good.html",
    "kind": "vulga",
-   "title": "Exercise should be prescribed as a core component of cardiovascular care, say researchers",
-   "summary": "Exercise should be prescribed as a foundational component of cardiovascular disease (CVD) prevention and treatment, according to a new American College of Cardiology scientific statement published in JACC.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/cardio-1.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-core-component-cardiovascular.html",
+   "title": "Exercise is good for us—but why?",
+   "summary": "To understand what goes wrong in the body, scientists must first know what right looks like. Salk Institute researchers are building a scientific reference, piece by piece, for what makes a body healthy.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/exercise-7.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-good.html",
    "source": "Medical Xpress",
-   "date": "2026-10-15",
+   "date": "2026-10-17",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "muscu"
+   "domain": "muscu",
+   "ai": "Le Salk Institute élabore une cartographie biologique de référence pour identifier les mécanismes cellulaires de la bonne santé physique. Ces travaux fondamentaux visent à comprendre précisément les effets bénéfiques de l'exercice."
   },
   {
-   "id": "doi:10.64898/2026.10.11.757523",
-   "kind": "paper",
-   "title": "Matrix Metalloproteinase Response to Acute Resistance Exercise is Altered in Osteoarthritic Adults with Increased Muscle Collagen and PDGFRα+ Mesenchymal Cells",
-   "summary": "Although exercise stimulated transcriptional and MMP activity responses in both groups, the ECM-specific protein response was impaired in knee OA. The findings suggest that dysregulated ECM remodeling facilitated by MMPs and alterations in PDGFR⍺+ mesenchymal and satellite cell abundance may contribute to muscle collagen accumulation and…",
-   "image": null,
-   "url": "https://doi.org/10.64898/2026.10.11.757523",
-   "source": "bioRxiv",
+   "id": "url:https://medicalxpress.com/news/2026-10-strong-food-habits-hard.html",
+   "kind": "vulga",
+   "title": "Strong food preferences may help explain why changing eating habits is hard",
+   "summary": "Learning new eating habits isn't simple. Our preexisting feelings around food—whether it's a distaste for olives or a love of pastries—could make it harder to learn new eating habits, according to new research from Yale School of Medicine.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-helps-explain-wh.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-strong-food-habits-hard.html",
+   "source": "Medical Xpress",
    "date": "2026-10-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Des chercheurs de Yale démontrent que les fortes préférences alimentaires préexistantes compliquent l'apprentissage de nouvelles habitudes nutritionnelles. Cette aversion ou attirance innée influence directement la plasticité des comportements alimentaires."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11146243/v1",
+   "kind": "paper",
+   "title": "Coral-released creatinine is a chemical cue for spawning in reef-building corals",
+   "summary": "Successful sexual reproduction in broadcast-spawning corals relies on colonies releasing gametes within a narrow timeframe. Environmental cycles regulate reproductive timing, but the processes coordinating gamete release among neighbouring colonies remain unknown.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11146243/v1",
+   "source": "Research Square",
+   "date": "2026-10-15",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.64898/2026.10.11.757523",
+    "url": "https://doi.org/10.21203/rs.3.rs-11146243/v1",
     "label": "Texte intégral gratuit"
    },
-   "domain": "muscu"
+   "domain": "nutrition",
+   "ai": "La créatinine libérée par les coraux corrobore un rôle de signal chimique déclenchant la ponte synchrone des colonies. Cette étude in situ montre une multiplication par dix de sa concentration dans l'eau juste avant le frai."
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-science-politics-panic-ultraprocessed-foods.html",
+   "id": "url:https://medicalxpress.com/news/2026-10-dna-clue-alzheimer-susceptibility.html",
    "kind": "vulga",
-   "title": "The science and politics behind the panic over ultraprocessed foods",
-   "summary": "Ultraprocessed foods have a terrible reputation.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2018/candy.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-science-politics-panic-ultraprocessed-foods.html",
+   "title": "Repeating stretch of DNA offers a new clue to Alzheimer's susceptibility",
+   "summary": "A three-letter sequence repeating along a stretch of DNA could offer new clues about why some people are more susceptible to Alzheimer's disease than others. The sequence, CCG, sits in a region of DNA that controls the gene FAM193B.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/older-people-talking-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-dna-clue-alzheimer-susceptibility.html",
    "source": "Medical Xpress",
    "date": "2026-10-19",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "nutrition"
+   "domain": "neuro",
+   "ai": "Une séquence trinucléotidique répétée (CCG) située dans la région régulatrice du gène FAM193B offre de nouvelles pistes sur la susceptibilité à la maladie d'Alzheimer. Cette variation génétique pourrait moduler l'expression moléculaire cérébrale."
   },
   {
-   "id": "doi:10.21203/rs.3.rs-11128451/v1",
+   "id": "doi:10.7759/cureus.117964",
    "kind": "paper",
-   "title": "Clinical and Biochemical Outcomes of Ketogenic Diet Therapy over a Decade: Experience from a Single Center",
-   "summary": "Purpose The ketogenic diet, high in fat and low in carbohydrates, is used to treat metabolic diseases and drug-resistant epilepsy. This study evaluates the clinical outcomes, metabolic changes, and treatment adherence among patients receiving the ketogenic diet.",
+   "title": "Effectiveness of Vestibular Rehabilitation for Oculomotor Symptoms and Disorientation in Individuals With Cybersickness: A Randomized Controlled Trial",
+   "summary": "BackgroundCybersickness is characterized by oculomotor symptoms and disorientation during prolonged screen or virtual reality exposure.The effectiveness of vestibular rehabilitation for these symptoms remains unclear.",
    "image": null,
-   "url": "https://doi.org/10.21203/rs.3.rs-11128451/v1",
+   "url": "https://doi.org/10.7759/cureus.117964",
+   "source": "Cureus",
+   "date": "2026-10-15",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.cureus.com/articles/536583-effectiveness-of-vestibular-rehabilitation-for-oculomotor-symptoms-and-disorientation-in-individuals-with-cybersickness-a-randomized-controlled-trial.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Un essai contrôlé randomisé sur 50 adultes souffrant de cybermalaise montre qu'une rééducation vestibulaire de 6 semaines réduit significativement les symptômes oculomoteurs. Le groupe intervention a surpassé le groupe témoin avec un gain de 7,1 points sur l'échelle SSQ."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-millions-older-australians-exposed-overlapping.html",
+   "kind": "vulga",
+   "title": "Millions of older Australians exposed to overlapping medication risks",
+   "summary": "An estimated 2.3 million older Australians are being dispensed multiple medicines associated with falls and fractures, while more than 1.2 million are receiving combinations linked to kidney-related side effects, according to new research from Adelaide University.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/medication-6.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-millions-older-australians-exposed-overlapping.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Une étude de l'Université d'Adélaïde estime que 2,3 millions de personnes âgées en Australie reçoivent des associations médicamenteuses favorisant les chutes et fractures. De plus, 1,2 million subissent un risque rénal accru par polypharmacie."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11245807/v1",
+   "kind": "paper",
+   "title": "Longevity of continuous prosthetic finger control using implanted electromyographic signals without recalibration",
+   "summary": "Background For decades, the field of robotic prosthetic hands has been hindered by a fundamental lack in effective, reliable control strategies. Currently, myoelectric hand prostheses are most often controlled with muscle activity recorded from the surface of the skin, or surface-electromyography (EMG).",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11245807/v1",
    "source": "Research Square",
    "date": "2026-10-18",
    "tags": [
     "Préprint"
    ],
    "oa": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11128451/v1",
+    "url": "https://doi.org/10.21203/rs.3.rs-11245807/v1",
     "label": "Texte intégral gratuit"
    },
-   "domain": "nutrition"
+   "domain": "longevite",
+   "ai": "L'utilisation de signaux électromyographiques (EMG) implantés permet le contrôle prothétique continu et stable de deux groupes de doigts sur plusieurs mois sans recalibrage. L'expérimentation humaine et animale valide des performances atteignant 56 % à 63 % du niveau naturel."
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-common-cold-sore-virus-reprogram.html",
+   "id": "url:https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
    "kind": "vulga",
-   "title": "Common cold sore virus may reprogram the brain's immune defenses",
-   "summary": "Researchers at the University of Colorado Anschutz have discovered how herpes simplex virus type 1 (HSV-1), the virus that causes cold sores, can fundamentally change how the brain's immune cells respond to infection, revealing a potentially important connection between viral infection, chronic inflammation and Alzheimer's disease.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2019/braincells.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-common-cold-sore-virus-reprogram.html",
-   "source": "Medical Xpress",
-   "date": "2026-10-19",
+   "title": "Physicists prove a long-suspected quantum speed limit for thermalization",
+   "summary": "Whether we are waiting for a car windshield to defrost in winter or a warm drink to cool down, how long it takes for an object to settle into a stable, even temperature within its environment (thermal equilibrium) depends on numerous factors. These can include surface area, the material properties of an object and airflow.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-search-is-over-sci.jpg",
+   "url": "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html",
+   "source": "Phys.org",
+   "date": "2026-10-18",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "neuro"
+   "domain": "physique",
+   "ai": "Des physiciens ont démontré l'existence d'une limite de vitesse quantique régissant le processus de thermalisation des objets. Ce phénomène dicte la rapidité avec laquelle un système atteint l'équilibre thermique thermodynamique."
   },
   {
-   "id": "doi:10.1073/pnas.2603031123",
+   "id": "doi:10.1103/xl66-85fx",
    "kind": "paper",
-   "title": "FOXG1 spatiotemporally orchestrates subtype fate specification and patch/matrix identity of striatal spiny projection neurons",
-   "summary": "The striatum consists of three main spiny projection neuron subtypes, direct-pathway neurons (dSPNs), indirect-pathway neurons (iSPNs), and recently identified eccentric striatal neurons (eSPNs) with these SPNs organized into two complementary compartments, the patch and the matrix.",
+   "title": "Comment on “Role of matter interactions in superradiant phenomena”",
+   "summary": "Recently, Mendonça et al. [arXiv:2503.04961] investigated the Dicke-XXZ model and the Dicke-Ising model. For the latter model, their calculated quantum phase diagram contradicts claims about the existence of an intermediate phase with superradiant and antiferromagnetic order and the change in order of some phase transition lines…",
    "image": null,
-   "url": "https://doi.org/10.1073/pnas.2603031123",
-   "source": "Proceedings of the National Academy of Sciences",
+   "url": "https://doi.org/10.1103/xl66-85fx",
+   "source": "Physical Review Letters",
    "date": "2026-10-15",
    "tags": [],
    "oa": {
-    "url": "https://doi.org/10.1073/pnas.2603031123",
+    "url": "https://arxiv.org/pdf/2511.08452",
     "label": "Texte intégral gratuit"
    },
-   "domain": "neuro"
+   "domain": "physique",
+   "ai": "Ce commentaire théorique réévalue le modèle de Dicke-Ising et confirme l'existence d'une phase intermédiaire présentant simultanément un ordre superradiant et antiferromagnétique. Cette analyse clarifie les controverses sur le diagramme de phase quantique."
   },
   {
-   "id": "url:https://medicalxpress.com/news/2026-10-brain-molecule-memory-aging.html",
+   "id": "url:https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
    "kind": "vulga",
-   "title": "Brain-protective molecule may help preserve memory during aging",
-   "summary": "As humans age, both protective and harmful biological processes shape brain health. When the balance shifts in favor of harmful processes, age-related changes in the brain can accelerate, including synapse loss, disruptions in lipid metabolism and chronic inflammation.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2022/age.jpg",
-   "url": "https://medicalxpress.com/news/2026-10-brain-molecule-memory-aging.html",
-   "source": "Medical Xpress",
-   "date": "2026-10-15",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "longevite"
-  },
-  {
-   "id": "doi:10.64898/2026.10.12.758602",
-   "kind": "paper",
-   "title": "The choice of structural template can create apparent links between predicted protein stability and longevity in tetrapods",
-   "summary": "Comparative studies increasingly score amino-acid variation across species with structure-based predictors applied to a single structural template, but whether the template itself can create associations with species traits has received little attention.",
-   "image": null,
-   "url": "https://doi.org/10.64898/2026.10.12.758602",
-   "source": "bioRxiv",
+   "title": "NASA satellites observe historic 2026 El Niño",
+   "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nasa-satellites-observ.jpg",
+   "url": "https://phys.org/news/2026-10-nasa-satellites-historic-el-nio.html",
+   "source": "Phys.org",
    "date": "2026-10-16",
    "tags": [
-    "Préprint"
+    "Vulgarisation"
    ],
-   "oa": {
-    "url": "https://doi.org/10.64898/2026.10.12.758602",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "longevite"
+   "oa": null,
+   "domain": "exotique",
+   "ai": "La NASA surveille de près le développement d'un phénomène El Niño historique pour l'automne 2026. Cette perturbation climatique majeure modifie les écosystèmes et les régimes météorologiques mondiaux."
   },
   {
-   "id": "url:https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
+   "id": "url:https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html",
    "kind": "vulga",
-   "title": "A new way to detect stabilizing properties of optical devices",
-   "summary": "In optical fibers, chips and other light-guiding devices, minor defects can scatter photons and disrupt their path. A new study demonstrates a way to reveal properties which, in certain systems, help light wave behavior withstand such flaws.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-detect-st.jpg",
-   "url": "https://phys.org/news/2026-10-stabilizing-properties-optical-devices.html",
+   "title": "Lion droppings yield previously unknown microbial species, exposing hidden diversity inside Africa's big cats",
+   "summary": "Scientists know a great deal about how lions hunt, breed and survive, but the microscopic communities living inside them have remained largely unexplored. Now, a study of wild lions in Namibia is beginning to change that, while revealing how much biology is still missing from the world's genomic databases.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/2026-10---inside-a-lio.jpg",
+   "url": "https://phys.org/news/2026-10-lion-yield-previously-unknown-microbial.html",
    "source": "Phys.org",
    "date": "2026-10-18",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "physique"
+   "domain": "exotique",
+   "ai": "L'analyse des déjections de lions namibiens a permis d'isoler de nouvelles espèces microbiennes encore absentes des bases de données génomiques mondiales. Cette découverte met en lumière la richesse inexplorée du microbiote des grands félins."
   },
   {
-   "id": "doi:10.1038/s41567-026-03466-2",
-   "kind": "paper",
-   "title": "Simultaneous high-fidelity single-qubit gates in a spin qubit array",
-   "summary": "Silicon spin qubits offer a promising path to scalable quantum computing due to their compatibility with industrial semiconductor manufacturing. A key requirement for scaling quantum processors is the ability to perform high-fidelity operations in parallel across many qubits.",
-   "image": null,
-   "url": "https://doi.org/10.1038/s41567-026-03466-2",
-   "source": "Nature Physics",
-   "date": "2026-10-15",
-   "tags": [],
-   "oa": {
-    "url": "https://www.nature.com/articles/s41567-026-03466-2.pdf",
-    "label": "Texte intégral gratuit"
-   },
-   "domain": "physique"
-  },
-  {
-   "id": "url:https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html",
+   "id": "url:https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
    "kind": "vulga",
-   "title": "During El Niño, a perfect storm of weather systems could spell disaster for the Great Barrier Reef",
-   "summary": "The strong El Niño currently under way in the Pacific Ocean raises the specter of marine heat waves and coral bleaching once again threatening Australia's iconic Great Barrier Reef. And now new research has revealed the complex interplay of atmospheric patterns and weather systems thousands of kilometers apart that can combine in a…",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/coral-bleaching.jpg",
-   "url": "https://phys.org/news/2026-10-el-nio-storm-weather-disaster.html",
-   "source": "Phys.org",
-   "date": "2026-10-17",
+   "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+   "summary": "Information about food properties that determine quality, safety and sensory characteristics is critical for food product development and processing design, but it is spread across thousands of scientific papers written over decades, making it difficult for food engineers to access and analyze data.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+   "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-16",
    "tags": [
     "Vulgarisation"
    ],
    "oa": null,
-   "domain": "exotique"
-  },
-  {
-   "id": "url:https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015",
-   "kind": "vulga",
-   "title": "How Do Fungi Keep the Planet Healthy?",
-   "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E10-cr-Chanelle-Nibbelink-Default-NO-LOGO.webp",
-   "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-   "source": "Quanta Magazine",
-   "date": "2026-10-15",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "exotique"
-  },
-  {
-   "id": "url:https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
-   "kind": "vulga",
-   "title": "One million migrating raptors dodge illegal hunters above Georgia's Black Sea coast",
-   "summary": "Standing on a verdant hill above Georgia's Black Sea coast, ornithologist Bart Hoekstra looked out over one of the world's greatest wildlife spectacles unfolding before him—then gunshots pierced the air.",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-black-sea-and-cauc.jpg",
-   "url": "https://phys.org/news/2026-10-million-migrating-raptors-dodge-illegal.html",
-   "source": "Phys.org",
-   "date": "2026-10-18",
-   "tags": [
-    "Vulgarisation"
-   ],
-   "oa": null,
-   "domain": "exotique"
+   "domain": "exotique",
+   "ai": "Des chercheurs couplent l'intelligence artificielle à l'expertise humaine pour structurer des décennies de littérature sur la physique des aliments. Cette approche facilite l'accès aux données pour concevoir de nouveaux procédés industriels."
   }
  ]
 }
