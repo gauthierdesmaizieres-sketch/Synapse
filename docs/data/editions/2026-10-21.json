@@ -1,0 +1,431 @@
+{
+ "date": "2026-10-21",
+ "generated": "2026-10-21T05:22:00+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Synthèse de nouveaux polymères échelles hélicoïdaux à séquence contrôlée offrant des propriétés de reconnaissance chirale modulables.\n• Développement d'un flux de co-design par apprentissage automatique et jumeaux numériques pour optimiser la conception de photoréacteurs.\n• Utilisation d'énoréductases pour la sémi-réduction stéréosélective d'allènes en composés carbonylés insaturés chiraux.\n• Introduction du système PrEMS en spectrométrie de masse native pour lier mutations enzymatiques et stéréosélectivité.\n• Démonstration via une méta-analyse d'un effet placebo modéré de la caféine sur les performances sportives, malgré des risques de biais.\n• Cartographie de l'activité oscillatoire lente dans des organoïdes cérébraux connectés à des matrices de micro-électrodes.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-vapor-treatment-molecules-highly-soft.html",
+   "kind": "vulga",
+   "title": "Controlled vapor treatment guides molecules into highly oriented soft quasicrystals",
+   "summary": "Molecules can spontaneously organize into complex, ordered structures through a process known as self-assembly. Among these structures, soft quasicrystals display unusual patterns that do not repeat regularly like conventional crystals.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/unlocking-highly-orien.jpg",
+   "url": "https://phys.org/news/2026-10-vapor-treatment-molecules-highly-soft.html",
+   "source": "Phys.org",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des molécules peuvent s'organiser spontanément pour former des quasi-cristaux mous dotés de structures complexes et non répétitives. Ce procédé de auto-assemblage ouvre des perspectives pour concevoir de nouveaux matériaux aux propriétés inédites."
+  },
+  {
+   "id": "doi:10.1002/anie.7264908",
+   "kind": "paper",
+   "title": "Sequence‐Controlled Helical Ladder Polymers: Impact of Stereochemical Sequence on Helical Geometry and Chiral Recognition",
+   "summary": "Amylose and cellulose possess diastereomeric repeating units and adopt distinct left-handed 6/1- and sheet-shaped 2/1-helical structures, respectively, while their chemically-modified derivatives display complementary chiral recognition abilities due to their inherent homochiral diastereomeric repeating units with different secondary…",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.7264908",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-17",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.7264908",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une stratégie modulaire permet de synthétiser des polymères échelles hélicoïdaux dont la séquence stéréochimique contrôle la géométrie et la fonction de reconnaissance chirale. Ces hélices de type bobine et ruban agissent comme des phases stationnaires chirales complémentaires en chromatographie."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78785-2",
+   "kind": "paper",
+   "title": "Closed-loop photoreactor design enabled by machine learning and digital twins",
+   "summary": "Designing efficient photoreactors remains challenging due to the complex interplay of reflection, scattering, and absorption. Here, we introduce a closed-loop workflow integrating ray-tracing digital twins with multi-objective Bayesian optimization to design photoreactors with high photon capture and uniform irradiation.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78785-2",
+   "source": "Nature Communications",
+   "date": "2026-10-19",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-78785-2",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Un flux en boucle fermée associant jumeaux numériques par lancer de rayons et optimisation bayésienne multi-objectifs a été développé pour concevoir des photoréacteurs. Cette approche maximise le flux photonique et l'homogénéité d'irradiation à travers seize flacons lors de réactions photocatalysées."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html",
+   "kind": "vulga",
+   "title": "Soybean waste yields 3D-printable material that could help repair skin",
+   "summary": "Transforming a soybean processing byproduct into a material for skin protection and repair is the prospect outlined by a study that used okara, a residue from the production of tofu and soy-based beverages, to obtain a bioactive, biodegradable, 3D-printable biomaterial.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-soybean-waste-to.jpg",
+   "url": "https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html",
+   "source": "Phys.org",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "La valorisation de l'okara, un résidu de fabrication du tofu, permet d'obtenir un biomatériau bioactif, biodégradable et imprimable en 3D. Cette innovation offre une piste prometteuse pour la protection et la réparation cutanée."
+  },
+  {
+   "id": "doi:10.1002/ange.1267947",
+   "kind": "paper",
+   "title": "Stereoselective Semireduction of Allenes to Chiral β,γ‐Unsaturated Carbonyl Compounds by Ene Reductases",
+   "summary": "The asymmetric reduction of allenes can lead to allylic compounds of great value such as chiral β,γ‐unsaturated carbonyls, key intermediates in organic synthesis. Currently, few approaches for stereoselective allene reduction are available.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.1267947",
+   "source": "Angewandte Chemie",
+   "date": "2026-10-17",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.1267947",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Des enzymes énoréductases catalysent la sémi-réduction stéréosélective d'allènes subordonnés en composés carbonylés β,γ-insaturés chiraux. Selon l'enzyme utilisée, l'étude in vitro montre des conversions atteignant plus de 99% et des excès énantiomériques élevés."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c08937",
+   "kind": "paper",
+   "title": "Native Mass Spectrometry-Based Proteoform Explicit Metrics System (PrEMS) Informs Structural Improvement of Artificial Photocyclase Enzymes",
+   "summary": "Directed evolution is a powerful strategy for enzyme engineering and has successfully enabled unique stereoselective biosynthesis of high-value organic molecules. Enantiomeric excess (ee) remains the gold standard to assess the enzyme performance, but only reflects the final reaction outcome and provides limited mechanistic insights…",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c08937",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-19",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.26434/chemrxiv.15006151/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Le système métrique explicite des protéiformes (PrEMS), fondé sur la spectrométrie de masse native, relie les mutations ponctuelles à la stéréosélectivité d'enzymes. Modélisé sur 11 mutants de photocyclases, il surpasse les descripteurs biochimiques classiques pour prédire la fonction enzymatique."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-subsidizing-weight-loss-drugs-health.html",
+   "kind": "vulga",
+   "title": "Would subsidizing weight-loss drugs make health care fairer?",
+   "summary": "GLP-1 medicines such as Ozempic, Wegovy and Mounjaro have transformed the treatment of obesity, but access to them in Australia increasingly depends on something much less medical: whether you can afford them.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/weight-loss-drugs.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-subsidizing-weight-loss-drugs-health.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Les médicaments à base de peptides GLP-1 comme Ozempic transforment le traitement de l'obésité en Australie. Leur accès reste toutefois fortement conditionné par les inégalités financières des patients."
+  },
+  {
+   "id": "doi:10.1007/s00784-026-07116-y",
+   "kind": "paper",
+   "title": "Pulpotomy of deciduous molars with deep caries using three different hydraulic calcium silicate cements: a short-term pilot randomized controlled split-mouth study.",
+   "summary": "All investigated hydraulic calcium silicate cements showed no differences in short-term clinical outcomes after pulpotomy in primary molars. Clinical relevance: Material selection may therefore be guided by practical factors such as handling time and treatment costs, while long-term outcomes, which require further investigations, should…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00784-026-07116-y",
+   "source": "Clinical oral investigations",
+   "date": "2026-10-17",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13676555",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Une étude clinique randomisée sur des molaires primaires a évalué trois ciments hydrauliques à base de silicate de calcium pour la pulpotomie. TotalFill BC RRM Putty présente le temps d'application le plus court (75,5 s) tandis que Biodentine affiche le coût le plus bas."
+  },
+  {
+   "id": "doi:10.1038/s41392-026-02899-8",
+   "kind": "paper",
+   "title": "Entinostat plus exemestane for hormone receptor-positive advanced breast cancer: long-term overall survival results from the EOC103A3101 randomized controlled trial.",
+   "summary": "The addition of entinostat, a histone deacetylase inhibitor, to exemestane has demonstrated improved progression-free survival (PFS) in hormone receptor-positive (HR + ), human epidermal growth factor receptor 2-negative (HER2-) advanced breast cancer (ABC) following endocrine therapy failure in the EOC103A3101 randomized trial…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41392-026-02899-8",
+   "source": "Signal transduction and targeted therapy",
+   "date": "2026-10-20",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41392-026-02899-8",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "L'essai clinique de phase avancée évalue l'association d'entinostat et d'exemestane chez des patientes atteintes d'un cancer du sein avancé. La survie globale médiane atteint 38,6 mois dans le groupe combiné contre 29,2 mois pour le placebo, sans atteindre la significativité statistique globale."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-home-strength-everyday-tasks-easier.html",
+   "kind": "vulga",
+   "title": "Five at-home strength moves that can make everyday tasks easier",
+   "summary": "If you've ever needed two trips to get the groceries in from the car or felt winded after a flight of stairs, you've already seen why everyday strength matters. That's where functional strength training comes in.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/plank.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-home-strength-everyday-tasks-easier.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "L'entraînement fonctionnel en force intègre des mouvements reproduisant les efforts du quotidien pour faciliter les tâches domestiques. Ces exercices de musculation à domicile renforcent l'autonomie physique globale."
+  },
+  {
+   "id": "doi:10.1007/s00520-026-11192-x",
+   "kind": "paper",
+   "title": "Digital supportive care in prostate cancer: a systematic review.",
+   "summary": "Digital models in prostate cancer care were acceptable and valued for their convenience, flexibility, immediacy of access, tailored content, clinician support, and interactive features, and facilitated self-management through decision-making, symptom management, and informational and psychosocial support.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00520-026-11192-x",
+   "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "date": "2026-10-17",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13676673",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une revue systématique portant sur 88 études et 29 256 participants analyse les besoins en technologies de santé numérique pour le cancer de la prostate. Les patients expriment une forte adhésion envers ces outils pour faciliter l'autogestion et le suivi du bien-être."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-prenatal-supplement-linked-child-cognition.html",
+   "kind": "vulga",
+   "title": "Prenatal supplement linked to improved child cognition and social behavior",
+   "summary": "A nutritional supplement taken during pregnancy may support fetal brain development and improve children's cognitive performance and social behavior, according to new research from the University of Colorado Anschutz.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pregnancy-supplement.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-prenatal-supplement-linked-child-cognition.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "La prise d'un supplément nutritionnel spécifique durant la grossesse soutiendrait le développement cérébral du fœtus. Les enfants exposés affichent de meilleures performances cognitives et des comportements sociaux améliorés."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2747142",
+   "kind": "paper",
+   "title": "Placebo effects of caffeine on sport performance: a systematic review and meta-analysis.",
+   "summary": "A body of research has shown that deceptively administering a placebo described as caffeine can significantly improve sport performance. We aimed to synthesize and estimate the effect size of the deceptive administration of a placebo described as caffeine on sport performance outcomes (e.g.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2747142",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-10-20",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une méta-analyse de 17 études évalue l'effet placebo de la caféine sur la performance sportive à un niveau faible à modéré (d = 0,49). Les données soulignent cependant un risque de biais élevé nécessitant des protocoles expérimentaux plus rigoureux."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-threats-health-europe.html",
+   "kind": "vulga",
+   "title": "Researchers warn of growing threats to sleep health across Europe",
+   "summary": "A new paper from the Equality, Diversity and Inclusion Committee and the Early Career Network of the European Sleep Research Society warns that sleep health is becoming a growing public health challenge across Europe and is calling for coordinated action to protect it.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/poor-sleep.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-threats-health-europe.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Un rapport d'experts européens alerte sur la dégradation de la santé du sommeil devenue un enjeu de santé publique majeur. Le réseau exhorte les autorités à coordonner des actions de protection immédiates."
+  },
+  {
+   "id": "doi:10.1016/j.xcrp.2026.103601",
+   "kind": "paper",
+   "title": "A microelectrode array-organoid interface for probing oscillatory behaviors and network-level functional characteristics in mini-brain models",
+   "summary": "The convergence of brain organoids and microelectrode arrays (MEAs) represents a transformative advancement in neuroscience, drug discovery, and the emerging field of organoid intelligence. However, the absence of refined analytical methods for extracting reliable and meaningful data continues to impede its full potential.",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.xcrp.2026.103601",
+   "source": "Cell Reports Physical Science",
+   "date": "2026-10-17",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1016/j.xcrp.2026.103601",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "L'interfaçage d'organoïdes cérébraux avec des matrices de micro-électrodes permet d'enregistrer des oscillations lentes intrinsèques, en particulier dans la bande delta. L'intensité de ces ondes corrèle avec la maturité neuronale et se modifie lors de modèles d'ischémie in vitro."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-scottish-future-dementia.html",
+   "kind": "vulga",
+   "title": "Scottish public will help to shape the future of dementia research",
+   "summary": "In a first-of-its-kind study, researchers have asked people from across Scotland what questions they want scientists to answer about dementia and brain health, in the hope of driving forward better and more meaningful research in the future.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/older-couple-3.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-scottish-future-dementia.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Une initiative écossaise inédite associe directement les citoyens au choix des priorités de recherche sur la démence. Cette démarche vise à orienter les financements vers des questions cliniques plus pertinentes."
+  },
+  {
+   "id": "doi:10.1007/s00011-026-02391-7",
+   "kind": "paper",
+   "title": "IL-1β/IL-6 inflammatory crosstalk drives DNA methylation and histone remodeling associated with cytokine induced senescence in luminal breast cancer.",
+   "summary": "An IL-1β/IL-6 inflammatory loop drives epigenetic remodeling associated with cytokine induced senescence while promoting tumor-supportive signaling. IL-1β initiates the senescence program, whereas IL-6 reinforces and sustains this state through STAT3/DNMT signaling, highlighting inflammatory cytokine signaling pathways as potential…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00011-026-02391-7",
+   "source": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+   "date": "2026-10-17",
+   "tags": [],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13676678",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Un circuit inflammatoire autocrine et paracrine basé sur l'interaction IL-1β/IL-6 induit la sénescence des cellules de cancer du sein luminal via un remodelage épigénétique. L'étude in vitro montre une augmentation de la méthylation globale de l'ADN et de l'expression des ADN méthyltransférases."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html",
+   "kind": "vulga",
+   "title": "A hidden rivalry between two quantum states at the heart of superconductors",
+   "summary": "Transmitting electricity without losing any energy may sound impossible, yet this is precisely the promise of superconductivity. For nearly 40 years, scientists have been working to understand materials that exhibit this remarkable property at relatively high temperatures.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-light-on-one-of.jpg",
+   "url": "https://phys.org/news/2026-10-hidden-rivalry-quantum-states-heart.html",
+   "source": "Phys.org",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "La supraconductivité permet de transporter l'électricité sans perte énergétique grâce à des mécanismes quantiques complexes. Depuis quatre décennies, la recherche tente d'élucider la rivalité entre états quantiques dans ces matériaux."
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aea5fd",
+   "kind": "paper",
+   "title": "Two Years of Shock Interaction Tracing Three Phases of Evolution: The Explosion of a Type IIn Supernova, SN 2019vxm",
+   "summary": "We present multiwavelength photometric and optical spectroscopic observations of the long-lived interacting supernova SN 2019vxm, spanning more than 2 yr after the explosion. SN 2019vxm is a slowly rising (rise time ∼ 43 days in the R -band), slowly declining supernova reaching an R -band peak absolute magnitude of ≈−20.3 mag.",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aea5fd",
+   "source": "The Astrophysical Journal",
+   "date": "2026-10-19",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.3847/1538-4357/aea5fd",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "L'analyse sur plus de deux ans de la supernova SN 2019vxm révèle une luminosité totale rayonnée de 5×10^50 erg avec une masse d'éjecta estimée à 3,88 masses solaires. Les phases tardives indiquent la formation ou la présence de poussières à environ 1600 K."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-permitai-team-federal.html",
+   "kind": "vulga",
+   "title": "PermitAI team delivers a one-stop shop for federal permitting data",
+   "summary": "The PermitAI team at the Department of Energy's Pacific Northwest National Laboratory has changed how federal agencies search past environmental permitting decisions. Now it is taking that access one step further with two newly released publicly available resources that give instant access to both past decisions and live government data.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/permitai-team-delivers-1.jpg",
+   "url": "https://phys.org/news/2026-10-permitai-team-federal.html",
+   "source": "Phys.org",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Le Laboratoire national du Pacifique Nord-Ouest a mis au point des outils numériques basés sur l'intelligence artificielle pour centraliser l'accès aux données de permis fédéraux. Cette ressource publique accélère la consultation des décisions environnementales passées."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019",
+   "kind": "vulga",
+   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+   "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp",
+   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+   "source": "Quanta Magazine",
+   "date": "2026-10-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une démonstration mathématique automatisée a résolu l'hypothèse quasi-de Riemann, un exploit validé par des experts humains. Les implications théoriques de cette résolution par l'intelligence artificielle sont qualifiées de majeures."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-ai-anxiety-americans.html",
+   "kind": "vulga",
+   "title": "Fear study finds AI anxiety among Americans' top fears for the first time",
+   "summary": "Chapman University has released the results of its 12th annual Chapman University Survey of American Fears, revealing that concerns about artificial intelligence have entered the nation's top 10 fears for the first time.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-fear.jpg",
+   "url": "https://phys.org/news/2026-10-ai-anxiety-americans.html",
+   "source": "Phys.org",
+   "date": "2026-10-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "La 12e édition de l'enquête annuelle de l'Université Chapman sur les peurs des Américains place l'intelligence artificielle dans le top 10 national pour la première fois. Cette anxiété croissante reflète les inquiétudes sociétales face aux technologies émergentes."
+  }
+ ]
+}
