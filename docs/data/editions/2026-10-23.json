@@ -1,0 +1,435 @@
+{
+ "date": "2026-10-23",
+ "generated": "2026-10-23T05:20:26+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Dépolymérisation du plastique : l'hydrure de potassium dégrade le polystyrène en alkylbenzènes dès 130 °C avec 93,2 % de rendement.\n• Diabète et muscle : la protéine mitochondriale Miro1 induit l'insulinorésistance musculaire, mais l'entraînement physique permet de corriger cette accumulation.\n• Musculation et santé : huit semaines de musculation améliorent significativement le sommeil et la qualité de vie en cas d'apnée obstructive.\n• Nutrition sportive : la prise de 40 g de protéines lentes au coucher ne perturbe ni le sommeil ni la récupération chez les athlètes.\n• Fiabilité génomique : les analyses TWAS affichent jusqu'à 33 % de faux sens d'effet sur les traits complexes.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-potentially-metals-cellulose-food-packaging.html",
+   "kind": "vulga",
+   "title": "New test measures potentially harmful metals in cellulose food packaging",
+   "summary": "A technique for detecting potentially harmful metals in regenerated cellulose food packaging is discussed in the International Journal of Environment and Pollution. The new tool can be used for safety assessments of materials increasingly used as alternatives to conventional plastics.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/food-packaging.jpg",
+   "url": "https://phys.org/news/2026-10-potentially-metals-cellulose-food-packaging.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Un nouveau test analytique permet de détecter les métaux potentiellement toxiques dans les emballages alimentaires en cellulose régénérée. Cet outil améliore l'évaluation toxicologique de ces substituts émergents aux plastiques conventionnels."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c14482",
+   "kind": "paper",
+   "title": "Enantioselective Total Synthesis of Sestermobaraene F",
+   "summary": "We report the first and enantioselective total synthesis of the bacterial sesterterpene natural product sestermobaraene F, featuring a highly substituted cyclopropane embedded in a 5/3/7/6/5-pentacyclic skeleton.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c14482",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-19",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1021/jacs.6c14482",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "La première synthèse totale énantiosélective du sestermobarène F a été réalisée via un réarrangement photochimique et un couplage radicalaire sous catalyse au cobalt. Cette stratégie inédite donne accès au squelette pentacyclique 5/3/7/6/5 d'autres sesterterpènes bactériens."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78624-4",
+   "kind": "paper",
+   "title": "Alkali hydrides catalyze hydrogenolysis of polystyrene to alkylbenzenes under mild conditions",
+   "summary": "This study introduces a highly efficient, transition-metal-free method for upcycling polystyrene (PS) waste using alkali metal hydrides, specifically KH, as a catalyst. Operating under mild conditions (130 °C, 1 bar H₂, 3 hours), KH achieves an impressive 93.2% yield of gaseous products and alkylbenzenes, with 95.8% selectivity toward…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78624-4",
+   "source": "Nature Communications",
+   "date": "2026-10-19",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78624-4_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'hydrure de potassium catalyse l'hydrogénolyse du polystyrène sous conditions douces (130 °C, 1 bar H₂), atteignant 93,2 % de rendement en alkylbenzènes. Sans métaux de transition, cette voie est 2,6 fois plus rapide que les catalyseurs nobles à 280 °C."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-global-database-fuller-picture-elements.html",
+   "kind": "vulga",
+   "title": "Global database provides a fuller picture of the elements that make up plant life",
+   "summary": "What, exactly, is a plant made of? Scientists have a good understanding of the essential nutrients plants need to grow. But what plants need and what they contain are not necessarily the same.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/plant-roots.jpg",
+   "url": "https://phys.org/news/2026-10-global-database-fuller-picture-elements.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une base de données mondiale recense précisément la composition élémentaire globale des plantes à l'échelle de la planète. Elle permet de mieux distinguer les besoins nutritifs théoriques des composants chimiques réellement stockés dans les tissus végétaux."
+  },
+  {
+   "id": "doi:10.1038/s41588-026-02796-4",
+   "kind": "paper",
+   "title": "High false sign rates in transcriptome-wide association studies",
+   "summary": "Transcriptome-wide association studies (TWAS) are widely used to identify genes involved in complex traits and to infer the direction of gene effects on traits. However, despite their popularity, it remains unclear how accurately TWAS recover the true direction of a gene’s effect on a trait.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41588-026-02796-4",
+   "source": "Nature Genetics",
+   "date": "2026-10-22",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41588-026-02796-4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Les études d'association transcriptome (TWAS) affichent un taux d'erreur de direction de 23 % pour les protéines plasmatiques et 33 % pour les traits complexes. Cette discordance majeure, liée au déséquilibre de liaison, invite à une grande prudence d'interprétation."
+  },
+  {
+   "id": "doi:10.1038/s41588-026-02799-1",
+   "kind": "paper",
+   "title": "Multiancestry conditional and joint analysis applied to GWAS summary statistics",
+   "summary": "Conditional and joint (COJO) analysis of genome-wide association study (GWAS) data is a standard post-GWAS analysis for identifying statistically independent associations. Although GWAS meta-analyses are increasingly conducted across multiple ancestry groups, the optimal strategy for multiancestry COJO analysis remains unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41588-026-02799-1",
+   "source": "Nature Genetics",
+   "date": "2026-10-20",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41588-026-02799-1.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "La méthode Manc-COJO améliore l'analyse conjointe et conditionnelle post-GWAS sur des cohortes multiethniques tout en limitant les faux positifs. Son implémentation logicielle en C++ s'avère plus de 120 fois plus rapide que l'outil de référence GCTA-COJO."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html",
+   "kind": "vulga",
+   "title": "Potassium binder may ease the burden of dietary potassium restriction in people on dialysis",
+   "summary": "Dietary potassium restriction is important for managing hyperkalemia, or high blood potassium levels, in individuals on maintenance hemodialysis, but it imposes a substantial day-to-day burden. Results from a recent clinical trial indicate that adding the potassium binder sodium zirconium cyclosilicate (SZC) may help.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/potassium.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Un essai clinique montre que le cyclosilicate de zirconium sodique limite l'hyperkaliémie chez les patients hémodialysés. Ce chélateur pharmacologique permet d'assouplir les strictes contraintes alimentaires en potassium imposées aux dialysés."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-77278-6",
+   "kind": "paper",
+   "title": "Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes.",
+   "summary": "Imbalanced skeletal muscle mitochondrial dynamics contribute to the onset and progression of type 2 diabetes (T2D) by mechanisms that remain incompletely understood. Here, we examined the role of Mitochondrial Rho GTPase 1 (Miro1), an outer mitochondrial membrane enzyme, in regulating skeletal muscle insulin action and glucose…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-77278-6",
+   "source": "Nature communications",
+   "date": "2026-10-19",
+   "tags": [
+    "Essai randomisé",
+    "Animal / in vitro"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13680474",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Miro1 s'accumule dans le muscle squelettique lors du diabète de type 2 et perturbe la signalisation de l'insuline. Dans des modèles murins, cellulaires et chez l'humain, l'exercice physique normalise Miro1 et restaure la sensibilité glucidique."
+  },
+  {
+   "id": "doi:10.1007/s11259-026-11583-9",
+   "kind": "paper",
+   "title": "Low-dose histrelin for ovulation induction in mares: a partially randomized crossover pilot study.",
+   "summary": "This partially randomized crossover pilot study evaluated reduced doses of histrelin for ovulation induction in mares and compared intramuscular (IM) administration with pharmacopuncture at the Bai-hui and Yan-chi acupoints. Eleven mares were enrolled, of which nine completed all eight protocols and were included in the analyses.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s11259-026-11583-9",
+   "source": "Veterinary research communications",
+   "date": "2026-10-20",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13680520",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Une étude croisée chez la jument montre qu'une dose réduite d'histréline (25 µg) induit l'ovulation en 48 h chez 87,5 % à 100 % des animaux. Ce protocole vétérinaire valide l'efficacité de microdoses sans exiger de surdosage d'agoniste GnRH."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html",
+   "kind": "vulga",
+   "title": "Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial",
+   "summary": "A research team led by the Joint University Institute for Sport and Health (iMUDS) at the University of Granada, in collaboration with the Granada Institute for Biomedical Research and the Biomedical Research Network Center, has studied the effects of combining intermittent fasting and supervised exercise in people with obesity as part…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/intermittent-fasting-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-intermittent-fasting-boosts-fat-loss.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Un essai de 12 semaines chez des personnes obèses montre que combiner jeûne intermittent et entraînement supervisé accélère la perte adipeuse. Cette association optimise simultanément la condition physique générale par rapport aux interventions nutritionnelles isolées."
+  },
+  {
+   "id": "doi:10.1007/s11325-026-03842-5",
+   "kind": "paper",
+   "title": "Effects of resistance training on subjective sleep quality, excessive daytime sleepiness, and quality of life in patients with obstructive sleep apnea: a secondary analysis from a randomized controlled trial.",
+   "summary": "An eight-week RT program improves subjective sleep quality and quality of life in adults with moderate to severe OSA. Clinical trial registration (Brazilian Clinical Trials Registry [ReBec]): # RBR-2rg97kz. Date of registration: 01/17/2025.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s11325-026-03842-5",
+   "source": "Sleep & breathing = Schlaf & Atmung",
+   "date": "2026-10-20",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11325-026-03842-5.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Un essai randomisé montre que 8 semaines de musculation améliorent nettement le sommeil (score PSQI Δ -3,2) et la qualité de vie dans l'apnée obstructive du sommeil. L'exercice contre résistance s'avère une approche non pharmacologique particulièrement bénéfique."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-fruits-vegetables-outperform-medication-metabolic.html",
+   "kind": "vulga",
+   "title": "Fruits and vegetables outperform medication for treating metabolic acidosis in chronic kidney disease",
+   "summary": "In people with chronic kidney disease (CKD), oral sodium bicarbonate is a standard treatment for metabolic acidosis (too much acid buildup in the body), but results from a recent clinical trial indicate that dietary acid reduction with base-producing fruits and vegetables may be a better option.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2022/fruits-and-vegetables-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-fruits-vegetables-outperform-medication-metabolic.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Chez les insuffisants rénaux chroniques, une alimentation riche en fruits et légumes alcalinisants surpasse le bicarbonate de sodium oral contre l'acidose métabolique. Cette modulation nutritionnelle offre une alternative thérapeutique plus efficace que les compléments habituels."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2746899",
+   "kind": "paper",
+   "title": "Pre-sleep milk-derived proteins do not impair sleep or recovery in elite female athletes.",
+   "summary": "In NCAA Division I female athletes, three consecutive nights of pre-sleep ingestion of CAS, ALA, or CHO did not impair objective or subjective measures of sleep or recovery compared with PLA.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2746899",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-10-20",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Un essai randomisé chez des athlètes d'élite montre que consommer 40 g de caséine avant le coucher n'altère pas le sommeil ni la récupération. Cette stratégie de nutrition nocturne peut donc être adoptée sans compromettre le repos physiologique."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-blood-clinicians-brain-injury-severity.html",
+   "kind": "vulga",
+   "title": "Blood test can help clinicians better identify brain injury severity in patients",
+   "summary": "Clinician-scientists hope to expand the use of blood-based biomarker tests for traumatic brain injury (TBI) to improve identification and escalation of care for patients whose diagnosis otherwise might be missed.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/blood-test-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-blood-clinicians-brain-injury-severity.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Un test sanguin mesurant des biomarqueurs circulants permet de préciser rapidement la gravité des traumatismes crâniens chez les patients admis aux urgences. Il évite des erreurs diagnostiques et permet d'adapter l'escalade des soins plus efficacement."
+  },
+  {
+   "id": "doi:10.7554/elife.109757.3",
+   "kind": "paper",
+   "title": "A mechanistic theory of planning in prefrontal cortex",
+   "summary": "Planning is critical for adaptive behaviour in a changing world, because it lets us anticipate the future and adjust our actions accordingly. While prefrontal cortex is crucial for this process, it remains unknown how planning is implemented in neural circuits.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.109757.3",
+   "source": "eLife",
+   "date": "2026-10-21",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.109757.3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Un modèle neuronal théorique montre que le cortex préfrontal anticipe des plans d'action via des attracteurs spatio-temporels intégrant directement l'environnement. Cette dynamique simule fidèlement la prise de décision complexe sans requérir de plasticité synaptique immédiate."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-birth-baby-quicker-biological-aging.html",
+   "kind": "vulga",
+   "title": "Giving birth again too soon after having a baby could lead to quicker biological aging",
+   "summary": "The study of biological aging, how our cells, tissues and organs change over time, independent of how many years have passed, is a growing area of research that aims to help scientists understand the root causes of chronic illnesses and find ways to enhance longevity.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pregnant-4.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-birth-baby-quicker-biological-aging.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Le fait d'enchaîner deux grossesses trop rapprochées est corrélé à une accélération mesurable du vieillissement biologique chez la mère. Cette observation soutient l'importance des intervalles intergénésiques pour préserver le métabolisme cellulaire et la longévité féminine."
+  },
+  {
+   "id": "doi:10.64898/2026.10.21.26365867",
+   "kind": "paper",
+   "title": "Biological age measured by DNA methylation clocks and neurodegenerative diseases: A systematic review and meta-analysis",
+   "summary": "Hallmarks of biological ageing are closely interconnected with neurodegenerative diseases. Deoxyribonucleic acid methylation (DNAm) clocks quantify biological age and may serve as peripheral biomarkers of neurodegenerative diseases.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.10.21.26365867",
+   "source": "medRxiv",
+   "date": "2026-10-21",
+   "tags": [
+    "Méta-analyse",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.10.21.26365867",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Une méta-analyse sur 46 365 individus associe l'accélération de l'âge épigénétique GrimAge à un risque accru de démence (HR de 1,11 par écart-type). Les autres horloges de méthylation de l'ADN n'ont en revanche pas montré d'association robuste."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html",
+   "kind": "vulga",
+   "title": "What is a neutrino anyway? A look at the science behind this year's Nobel Prize in Physics",
+   "summary": "If you wanted a Nobel Prize, you would do well to study neutrinos. To date, the Nobel Prize in Physics has been awarded five times to research related to neutrino detection and discovery. This year, Francis Halzen earned the Nobel \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/icecube-neutrino-obser.jpg",
+   "url": "https://phys.org/news/2026-10-neutrino-science-year-nobel-prize.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "La détection des neutrinos cosmiques de haute énergie à l'observatoire IceCube a été mise à l'honneur par l'attribution du prix Nobel à Francis Halzen. Ces particules fantomatiques ouvrent une perspective inédite sur les événements astrophysiques les plus extrêmes."
+  },
+  {
+   "id": "doi:10.1103/5qcc-wfv6",
+   "kind": "paper",
+   "title": "Symbolic quantum-trajectory method for multichannel Dicke superradiance",
+   "summary": "We solve Dicke superradiance with two or more competing collective decay channels of tunable rates using a symbolic quantum-trajectory construction. The method yields closed time-domain populations and observables as finite combinations of exponential terms for arbitrary numbers of emitters and arbitrary decay rates.",
+   "image": null,
+   "url": "https://doi.org/10.1103/5qcc-wfv6",
+   "source": "Physical Review Letters",
+   "date": "2026-10-21",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2511.02390",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Une méthode théorique de trajectoires quantiques symboliques résout analytiquement la superradiance de Dicke à plusieurs canaux de désexcitation collective compétitifs. Le modèle met en évidence une analogie avec une transition de phase de premier ordre."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-disiplinang-walang-palo-common-filipino.html",
+   "kind": "vulga",
+   "title": "Disiplinang walang palo: Challenging common Filipino parenting misbeliefs",
+   "summary": "More frequent spanking is linked to greater anxiety and aggression in children over time, according to international research that includes Filipino families presented by psychology professor Dr. Liane Peña Alampay of the Ateneo de Manila University.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/disiplinang-walang-pal.jpg",
+   "url": "https://phys.org/news/2026-10-disiplinang-walang-palo-common-filipino.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude psychologique menée auprès de familles philippines associe les châtiments corporels à une hausse de l'anxiété et des comportements agressifs chez l'enfant. Ces données empiriques réfutent l'efficacité éducative des méthodes punitives traditionnelles."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-10-waze-malaysia-civil-servants-barred.html",
+   "kind": "vulga",
+   "title": "Waze rejects Malaysia's data risk claims after civil servants barred from using the app",
+   "summary": "Waze on Thursday rejected Malaysia's claims that it collects sensitive government information or allows any entity to exploit personal user data, after the government banned civil servants from using the navigation app, citing its Israeli connection.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/malaysia-israel-waze.jpg",
+   "url": "https://techxplore.com/news/2026-10-waze-malaysia-civil-servants-barred.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "La direction de Waze a rejeté les accusations de la Malaisie concernant la captation illégitime de données gouvernementales sensibles via son application. Cette réaction fait suite à l'interdiction de la plateforme imposée aux fonctionnaires du pays."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-drone-reveal-rapid-early-growth.html",
+   "kind": "vulga",
+   "title": "Drone measurements reveal rapid early growth in eastern Australian humpback whales",
+   "summary": "Eastern Australian humpback whales reach nearly their full adult size quickly, a new Griffith University–led study has found, as shown by the first contemporary growth curves for this recovering whale population.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/humpback-whales-growin.jpg",
+   "url": "https://phys.org/news/2026-10-drone-reveal-rapid-early-growth.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Des relevés biométriques réalisés par drone indiquent que les baleines à bosse d'Australie orientale atteignent quasi leur taille adulte beaucoup plus vite que prévu. Ces trajectoires de croissance confirment la récupération vigoureuse de cette population marine protégée."
+  }
+ ]
+}
