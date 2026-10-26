@@ -1,0 +1,440 @@
+{
+ "date": "2026-10-26",
+ "generated": "2026-10-26T05:30:42+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Les polymères Janus et l'optimisation des vésicules géantes ouvrent la voie à une libération programmable de charges utiles.\n• Une étude en double aveugle montre que la caféine (6-9 mg/kg) module significativement la glycémie post-exercice lors du CrossFit®.\n• L'inhibition des canaux sodiques Nav1.7 et Nav1.8 révèle des impacts distincts sur l'excitabilité des neurones nociceptifs humains.\n• La sénescence induite par chimiothérapie active des récepteurs de mort cellulaire, créant une dépendance vulnérable aux antagonistes des IAPs.\n• Une analyse structurelle précise les mécanismes de transfert de soufre via l'anion perthionitrite sur les complexes thiolate de zinc.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html",
+   "kind": "vulga",
+   "title": "Tests reveal why titanium additions do not fully prevent pitting corrosion in stainless steel",
+   "summary": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/where-does-pitting-cor.jpg",
+   "url": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html",
+   "source": "Phys.org",
+   "date": "2026-10-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des tests révèlent pourquoi l'ajout de titane ne prévient pas totalement la corrosion par piqûres de l'acier inoxydable en milieu chloruré. Cette dégradation initiée au niveau d'inclusions microscopiques met en lumière les limites actuelles des alliages en milieu marin."
+  },
+  {
+   "id": "doi:10.1002/anie.2878800",
+   "kind": "paper",
+   "title": "Programmable Budding and Fission of Janus Polymersomes for Tunable Cargo Release",
+   "summary": "Internally phase-separated Janus polymersomes are attractive biomimetic compartments, yet their formation remains fundamentally limited by membrane fission arising from strong copolymer incompatibility.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.2878800",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-22",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.2878800",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une stratégie d'émulsion double assistée par solvant permet de former des vésicules polymériques Janus (JGUVs) stables thermodynamiquement. Cette approche autorise un remodelage membranaire programmable sous stress osmotique pour une libération ciblée de molécules encapsulées."
+  },
+  {
+   "id": "doi:10.1002/anie.5874635",
+   "kind": "paper",
+   "title": "Proton‐Induced Perthionitrite‐Mediated Zinc Thiolate Persulfidation",
+   "summary": "The perthionitrite anion, SSNO − , has been proposed as a S 0 source for persulfidation of biological thiol and thiolate compounds. Here, SSNO − reacts with an iminopyridine‐supported zinc thiolate complex to form a perthiolate‐supported zinc perthionitrite complex, acting as both a ligand to zinc and as a sulfur source for…",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.5874635",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-23",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.5874635",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'anion perthionitrite (SSNO−) réagit avec un complexe thiolate de zinc pour former un complexe perthiolate servant de source de soufre. L'étude démontre in vitro que le transfert direct de soufre est thermodynamique défavorable et nécessite une décomposition préalable du SSNO−."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-clustering-polymers-assumptions.html",
+   "kind": "vulga",
+   "title": "Clustering changes how charged polymers separate in water, challenging old assumptions",
+   "summary": "A polymer science revelation about how liquid mixtures separate could have major implications for human health, metabolism and disease, new research indicates. In a brief report published in the Proceedings of the National Academy of Sciences, University of Chicago Pritzker School of Molecular Engineering (UChicago PME) Professor Matthew…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/polymer-insights-biolo.jpg",
+   "url": "https://phys.org/news/2026-10-clustering-polymers-assumptions.html",
+   "source": "Phys.org",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une recherche en science des polymères montre que le regroupement modifie la séparation de phase des mélanges liquides chargés. Cette découverte fondamentale pourrait impacter notre compréhension du métabolisme cellulaire et de la santé humaine."
+  },
+  {
+   "id": "doi:10.7554/elife.111490.3",
+   "kind": "paper",
+   "title": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
+   "summary": "Nav1.7 voltage-gated sodium channels are strongly expressed in human primary painsensing neurons (nociceptors) and selective Nav1.7 inhibitors have been developed as possible therapeutic agents for treating pain, so far with disappointing clinical results.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.111490.3",
+   "source": "eLife",
+   "date": "2026-10-23",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.111490.3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Sur des neurones sensoriels humains isolés, l'inhibition de Nav1.7 par 600 nM d'AM-2099 décale le seuil des potentiels d'action et réduit la vitesse de dépolarisation. Comparée à Nav1.8, cette modulation affecte moins les tirs répétitifs mais impacte fortement l'excitabilité initiale des nocicepteurs."
+  },
+  {
+   "id": "doi:10.1186/s12903-026-10268-8",
+   "kind": "paper",
+   "title": "Reported prevalence of molar-incisor hypomineralisation using the Ghanim et al. (2015) diagnostic criteria: a systematic review",
+   "summary": "Reported molar-incisor hypomineralisation (MIH) prevalence varies widely across epidemiological studies. Differences in diagnostic criteria are one source of this variability, but heterogeneity in populations, sampling, examination methods and examiner calibration may persist even when a common diagnostic framework is used.",
+   "image": null,
+   "url": "https://doi.org/10.1186/s12903-026-10268-8",
+   "source": "BMC Oral Health",
+   "date": "2026-10-22",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1186/s12903-026-10268-8",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Une méta-analyse de 17 études (13 998 participants) évalue la prévalence de l'hypominéralisation molaire-incisive (MIH) entre 2,3% et 38,9% selon les critères de Ghanim. Cette forte hétérogénéité méthodologique souligne la difficulté d'harmoniser les diagnostics épidémiologiques en santé dentaire."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-psychedelics-overactive-immune-meta-analysis.html",
+   "kind": "vulga",
+   "title": "Can psychedelics soothe an overactive immune system? New meta-analysis investigates",
+   "summary": "The same substances that can alter perception and shift moods are now drawing scientific interest for their potential therapeutic abilities. Researchers across the globe are investigating whether psychedelics, such as psilocybin from magic mushrooms or LSD, could help treat mental health and brain-related disorders.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-magic-mushrooms-so.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-psychedelics-overactive-immune-meta-analysis.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "La recherche s'intéresse au potentiel des psychédéliques, tels que la psilocybine ou le LSD, pour apaiser un système immunitaire hyperactif. Cette piste thérapeutique novatrice vise à moduler l'inflammation et les troubles cérébraux associés."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2740805",
+   "kind": "paper",
+   "title": "Hematological and biochemical responses to three doses of caffeine during the CrossFit® workout: a randomized, double-blind, crossover trial.",
+   "summary": "These findings suggest that acute CAF ingestion selectively influences post-exercise glucose responses during the CrossFit ® workout, whereas hematological variables and most biochemical markers remain unaffected.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2740805",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-10-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2740805?needAccess=true",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai croisé en double aveugle sur 26 athlètes montre que des doses moyennes (6 mg/kg) et hautes (9 mg/kg) de caféine augmentent significativement la glycémie post-exercice lors d'un WOD CrossFit®. Les autres marqueurs biochimiques et hématologiques restent majoritairement inchangés par l'apport de caféine."
+  },
+  {
+   "id": "doi:10.1007/s00520-026-11323-4",
+   "kind": "paper",
+   "title": "Bolus-only versus bolus plus continuous infusion hydromorphone for refractory cancer pain: a prospective, multicenter, randomized noninferiority trial.",
+   "summary": "Non-inferiority of bolus-only PCIA compared with bolus plus continuous infusion was not established. Nevertheless, both PCIA administration modes provided effective analgesia and demonstrated favorable safety profiles in patients with refractory cancer pain. Clinical",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00520-026-11323-4",
+   "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "date": "2026-10-22",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13690929",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai clinique randomisé sur 226 patients n'a pas pu démontrer la non-infériorité d'une analgésie par bolus seuls par rapport à l'association bolus et perfusion continue pour la douleur cancéreuse réfractaire. Les taux de soulagement à 72 h atteignaient respectivement 89,4% et 94,2%."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-napoleon-blamed-gen-weightlifting-obsession.html",
+   "kind": "vulga",
+   "title": "Napoleon can be partly blamed for Gen Z's weightlifting obsession—here's why",
+   "summary": "More than one-quarter of young adults in Britain now say their gym memberships matter more to them than vacations or eating out.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-group-of-victorian-p.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-napoleon-blamed-gen-weightlifting-obsession.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Une analyse culturelle met en perspective l'engouement actuel de la génération Z pour la musculation et la fréquentation assidue des salles de sport. Les jeunes accordent désormais une priorité sociologique majeure à leur condition physique par rapport aux loisirs traditionnels."
+  },
+  {
+   "id": "doi:10.3310/nihropenres.14474.1",
+   "kind": "paper",
+   "title": "Structured Vs Conventional Endoscopic Vein Harvesting Training: Vein Integrity and Learning Curve Performance",
+   "summary": "Background Endoscopic Vein Harvesting (EVH) reduces wound complications compared with open vein harvesting. However, concerns remain that conduit injury may occur during the learning curve . The impact of EVH training on vein integrity and progression to independent practice remains unclear .",
+   "image": null,
+   "url": "https://doi.org/10.3310/nihropenres.14474.1",
+   "source": "NIHR Open Res",
+   "date": "2026-10-23",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.3310/nihropenres.14474.1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Un programme d'entraînement structuré (EVH) pour le prélèvement de veines saphènes améliore l'intégrité endothéliale et réduit l'hypertrophie musculaire par rapport aux méthodes conventionnelles. Cette formation basée sur la simulation sécurise la technique chirurgicale pour les greffes coronariennes."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html",
+   "kind": "vulga",
+   "title": "Plant-first food pyramid brings international dietary guidelines together in adaptable global guide",
+   "summary": "Dietary guidance varies by country, and no international food pyramid has brought its recommendations together until now. BYU nutritional science professor Karen Della Corte led a global team of nutrition scientists to develop an International Food Guide Pyramid that reflects broad scientific agreement and can be adapted across cultures…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/byu-professor-helps-tr-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-food-pyramid-international-dietary-guidelines.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une équipe internationale a conçu une pyramide alimentaire mondiale axée sur les végétaux pour unifier les directives nutritionnelles à travers les cultures. Ce guide adaptatif reflète un consensus scientifique élargi pour la santé publique."
+  },
+  {
+   "id": "doi:10.1007/s44470-026-00076-w",
+   "kind": "paper",
+   "title": "Management of shift work disorder: an American Academy of Sleep Medicine systematic review, meta-analysis, and GRADE assessment.",
+   "summary": "The purpose of this systematic review is to provide supporting evidence for a clinical practice guideline on the treatment of adults with shift work disorder (SWD). Methods: The American Academy of Sleep Medicine commissioned a task force of six experts in sleep and circadian medicine.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s44470-026-00076-w",
+   "source": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+   "date": "2026-10-24",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1007/s44470-026-00076-w",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Une revue systématique de l'Académie américaine de médecine du sommeil analyse 118 études pour guider le traitement pharmacologique et comportemental du trouble du travail posté (SWD). L'évaluation GRADE formalise la balance bénéfices-risques des interventions sur la somnolence excessive."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-triple-action-weekly-weight-loss.html",
+   "kind": "vulga",
+   "title": "Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials",
+   "summary": "Sleep apnea often gets passed off as mere snoring, but it's a much bigger deal. Throughout the night, breathing keeps pausing, and each pause chips away at sleep quality. Left untreated, repeated breathing disruptions and drops in blood oxygen during sleep can do far more than leave you groggy in the morning—they can take a serious toll…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/triple-action-weekly-w.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-triple-action-weekly-weight-loss.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Un traitement hebdomadaire à triple action réduit drastiquement les épisodes d'apnée du sommeil au cours d'essais cliniques de phase avancée. Cette avancée majeure cible l'obstruction des voies aériennes tout en favorisant la perte de poids."
+  },
+  {
+   "id": "doi:10.3390/bs16111976",
+   "kind": "paper",
+   "title": "Three-Character Training of Social Interaction (TCT-S) for Children with High-Functioning Autism Spectrum Disorder: A Pilot Randomized Controlled Trial",
+   "summary": "Children with high-functioning autism spectrum disorder (HFASD) often experience difficulties in social interaction, which affect both their daily functioning and well-being. This study introduced a novel CBT-based intervention called the Three-Character Training of Social Interaction (TCT-S), which aimed to teach children with HFASD how…",
+   "image": null,
+   "url": "https://doi.org/10.3390/bs16111976",
+   "source": "Behavioral Sciences",
+   "date": "2026-10-22",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.3390/bs16111976",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Un essai contrôlé randomisé pilote évalue un entraînement cognitif comportemental (TCT-S) auprès de 38 enfants autistes de haut niveau. L'intervention améliore significativement les interactions sociales (p = 0,030) tout en réduisant le stress parental."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-dehydration-utis-cognitive-health-complicated.html",
+   "kind": "vulga",
+   "title": "Dehydration, UTIs and cognitive health: Getting enough to drink is complicated for people with brain disorders",
+   "summary": "For older adults with dementia or Parkinson's disease, staying hydrated can be more complicated than simply drinking more water.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/dehydration-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-dehydration-utis-cognitive-health-complicated.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "L'hydratation chez les patients âgés atteints de démence ou de la maladie de Parkinson présente des défis cliniques complexes au-delà de la simple sensation de soif. Une mauvaise hydratation aggrave le risque d'infections urinaires et le déclin cognitif."
+  },
+  {
+   "id": "doi:10.1126/sciadv.aed4541",
+   "kind": "paper",
+   "title": "Death receptors regulate entry to therapy-induced senescence and orchestrate addiction to IAPs.",
+   "summary": "Cytotoxic chemotherapy typically results in the elimination of a fraction of the tumor with surviving cells entering a state of persistence or premature replicative senescence that can lead to recurrence.",
+   "image": null,
+   "url": "https://doi.org/10.1126/sciadv.aed4541",
+   "source": "Science advances",
+   "date": "2026-10-23",
+   "tags": [
+    "Animal / in vitro"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13693669",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "La chimiothérapie induit une sénescence cellulaire marquée par une surexpression des récepteurs de mort Fas et TRAIL-R2, formant des complexes RIPK1/FADD/Caspase-8. Cette cascade métabolique crée une dépendance aux protéines IAPs, exploitables par des petites molécules sénolytiques."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+   "kind": "vulga",
+   "title": "Supercurrent enables the reading of quantum information without destroying it",
+   "summary": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the state to collapse before it can be determined.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/supercurrent-enables-t.jpg",
+   "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+   "source": "Phys.org",
+   "date": "2026-10-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "L'utilisation d'un supercourant supraconducteur permet de lire l'état quantique d'un qubit sans provoquer l'effondrement destructif de sa fonction d'onde. Cette percée physique résout un obstacle majeur de la mesure en informatique quantique."
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aea69d",
+   "kind": "paper",
+   "title": "DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-redshift Galaxy Overdensities",
+   "summary": "We report on the spectroscopic confirmation of overdense regions of massive quiescent galaxies (QGs) in the early Universe with JWST/NIRSpec. Based on data from the DeepDive NIRSpec program and archival data from the Dawn JWST Archive, we confirm three QGs in the vicinity of Jekyll and Hyde, a pair of massive QG and a dusty star-forming…",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aea69d",
+   "source": "The Astrophysical Journal",
+   "date": "2026-10-22",
+   "tags": [],
+   "oa": {
+    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aea69d/pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Des observations par le télescope JWST confirment la présence de surdensités massives de galaxies quiescentes aux redshifts z = 3,71 et z = 4,01. Les modèles cosmologiques suggèrent que l'environnement à grande échelle accélère l'extinction de la formation stellaire via des rétroactions de type AGN."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html",
+   "kind": "vulga",
+   "title": "How screening tools measure disadvantage may leave rural communities overlooked for public support",
+   "summary": "Whether a community is prioritized for public support can depend on how its needs are measured, according to new research from the University of New Hampshire. The study found significant differences in how government screening tools identify communities, particularly in rural areas where those differences could affect access to funding.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-research-finds-dis.jpg",
+   "url": "https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html",
+   "source": "Phys.org",
+   "date": "2026-10-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude démontre que les outils de dépistage gouvernementaux mesurent différemment la précarité, pénalisant l'accès au soutien public pour les communautés rurales. Le choix des indicateurs socio-économiques modifie l'attribution des financements territoriaux."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023",
+   "kind": "vulga",
+   "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+   "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp",
+   "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+   "source": "Quanta Magazine",
+   "date": "2026-10-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Le parasite du paludisme (Plasmodium) a été capturé en microscopie lors de la création d'un portail moléculaire temporaire pour envahir les globules rouges. Cette porte d'entrée cellulaire offre une nouvelle cible structurelle pour bloquer l'infection."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-10-center-company-investors-faith-ai.html",
+   "kind": "vulga",
+   "title": "Shares in this data center company are down 40% as investors lose faith in the AI story",
+   "summary": "For two decades, data centers were relatively safe, lucrative real estate investments. They attracted investors because they served as digital infrastructure—the essential plumbing that keeps the internet running.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/shares-in-this-data-ce.jpg",
+   "url": "https://techxplore.com/news/2026-10-center-company-investors-faith-ai.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Les actions d'une grande entreprise de centres de données chutent de 40% face à la perte de confiance des investisseurs dans le marché de l'IA. Ce recul marque un tournant dans l'évaluation boursière de cette infrastructure numérique essentielle."
+  }
+ ]
+}
