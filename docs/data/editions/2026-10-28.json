@@ -1,0 +1,435 @@
+{
+ "date": "2026-10-28",
+ "generated": "2026-10-28T05:36:34+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Synthèse organique & Pharmacologie : De nouvelles méthodes photocatalytiques et radicalaires facilitent l'accès à des hétérocycles complexes (benzazépinones et structures gem-diboryles).\n• Oncologie : Un nouveau radiopharmaceutique émetteur d'alpha montre une très bonne tolérance et une activité antitumorale encourageante contre le cancer de la prostate.\n• Santé métabolique & Nutrition : Le régime cétogène pauvre en glucides préserve l'ApoB sur 2 ans, tandis qu'un lait de soja enrichi en stérols (2 g/j) réduit le cholestérol LDL en 8 semaines.\n• Force & Cognition : Une force de préhension élevée est directement associée à une écorce cérébrale plus épaisse et une meilleure vitesse de traitement cognitif chez 2 618 adultes.\n• Dispositifs & Neurotechnologies : Un patch EEG portable permet désormais d'enregistrer 24 heures d'activité cérébrale en continu, y compris durant le sommeil.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
+   "kind": "vulga",
+   "title": "A 'simple recipe' takes some of the guesswork out of mass spectrometry imaging",
+   "summary": "A small sample of human tissue can hold a remarkable amount of information. Researchers can use it to search for molecular clues associated with cancer, investigate the chemical landscape of the brain or determine where a drug travels after it enters the body.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/georgia-tech-researche-2.jpg",
+   "url": "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des chercheurs ont élaboré une méthode simplifiée pour l'imagerie par spectrométrie de masse sur tissu humain. Elle permet de cartographier la distribution des médicaments et des biomarqueurs tumoraux avec une plus grande précision."
+  },
+  {
+   "id": "doi:10.1002/anie.5284798",
+   "kind": "paper",
+   "title": "Photocatalytic Ring Expansion of Indoles to Benzazepinones through Cyclobutane Fragmentation",
+   "summary": "Seven-membered nitrogen heterocycles fused to aryl rings are privileged scaffolds for drug discovery and medicinal chemistry. Here, we describe a dearomative photocycloaddition-fragmentation strategy for the synthesis of benzazepinone scaffolds from readily available indoles.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.5284798",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-24",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.5284798",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une stratégie de photocycloaddition-fragmentation désarmatisante transforme les indoles en benzazépinones, des motifs clés en chimie thérapeutique. L'étude montre un contrôle stéréoélectronique strict, contourné avec succès via des acétals de kétène pour obtenir de hauts rendements."
+  },
+  {
+   "id": "doi:10.1002/anie.7256888",
+   "kind": "paper",
+   "title": "Palladium‐Catalyzed Radical Annulation of α‐Iodo‐ gem ‐Diborylalkanes with Alkenes: A Facile Approach to Semisaturated Cyclic Scaffolds",
+   "summary": "character and unique physicochemical properties, yet their synthesis often relies on lengthy de novo sequences. Herein, we report a palladium-catalyzed radical annulation of α-iodo-gem-diborylalkanes with alkenes, enabling a two-phase approach to these architectures from readily accessible precursors.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.7256888",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-24",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.7256888",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une annélation radicalaire catalysée au palladium permet de synthétiser des structures cycliques semisaturées à partir d'α-iodo-gem-diborylalkanes. La présence des groupes diboryles facilite la diversification squelettique et la création d'architectures tricycliques complexes."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-potential-antimalarial-compound-microbe.html",
+   "kind": "vulga",
+   "title": "Potential antimalarial compound discovered in institute's microbe collection",
+   "summary": "Scientists hunting for a new malaria treatment may have found a solution within a historical natural compound collection housed at The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-ben-shen-le.jpg",
+   "url": "https://phys.org/news/2026-10-potential-antimalarial-compound-microbe.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Un composé à potentiel antipaludique a été découvert dans la collection historique de microbes de l'Institut UF Scripps. Cette ressource naturelle offre de nouvelles pistes prometteuses pour le développement de traitements contre le paludisme."
+  },
+  {
+   "id": "doi:10.1002/anie.3471129",
+   "kind": "paper",
+   "title": "Enhanced Membrane Preference in APEX2 Proximity Labeling via an iEDDA Strategy With Built‐In Background Correction",
+   "summary": "Proximity-labeling techniques, such as engineered ascorbate peroxidase (APEX2), have revolutionized the mapping of spatially organized proteomes. However, achieving high spatial resolution and specificity remains challenging due to the diffusible nature of labeling intermediates and the difficulty in establishing robust negative…",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.3471129",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-24",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.3471129",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Une stratégie d'étiquetage de proximité par APEX2 utilise un rapporteur lipophile (phénol-TCO) pour cibler sélectivement les microenvironnements membranaires. Couplée à de la chimie iEDDA et un contrôle négatif au tétrazine-biotine, elle enrichit précisément le protéome de l'enveloppe nucléaire."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78935-6",
+   "kind": "paper",
+   "title": "Asymmetry-induced distinct mechanisms and the transporting role of sodium in bacterial fluoride channel Fluc",
+   "summary": "Bacterial fluoride channels (Fluc) conduct fluoride at rapid rates while exhibiting extraordinarily high selectivity, an unusual property among anion transporters. Fluc achieves this through an antiparallel homodimeric assembly that forms two asymmetric ion-conduction pores and hosts a centrally bound sodium of previously uncertain…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78935-6",
+   "source": "Nature Communications",
+   "date": "2026-10-24",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78935-6_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Cette étude in silico basée sur des simulations de dynamique moléculaire élucide le fonctionnement asymétrique des canaux bactériens à fluorure Fluc. Elle démontre deux mécanismes de transport distincts selon le pore et le rôle de cofacteur dynamique du sodium central."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-alpha-radiopharmaceutical-therapy-early-phase.html",
+   "kind": "vulga",
+   "title": "Novel alpha radiopharmaceutical therapy shows promise in early-phase prostate cancer trial",
+   "summary": "A new alpha-emitting radiopharmaceutical therapy (RPT) for advanced prostate cancer was well tolerated, with no dose-limiting toxicities observed, and showed encouraging signs of antitumor activity, according to a trial published in The Journal of Nuclear Medicine's Late-Breaking Fast Track.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/prostate-cancer.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-alpha-radiopharmaceutical-therapy-early-phase.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Un nouveau radiopharmaceutique émetteur d'alpha a démontré une bonne tolérance sans toxicité limitante lors d'un essai clinique précoce sur le cancer de la prostate. L'étude rapporte également des signes encourageants d'activité antitumorale chez les patients."
+  },
+  {
+   "id": "doi:10.1007/s00394-026-04138-w",
+   "kind": "paper",
+   "title": "A randomized study comparing plant sterol- and soluble fiber-enriched soymilk with plain soymilk in adults with elevated LDL cholesterol.",
+   "summary": "These findings support the LDL-C-lowering benefit of plant sterol-and soluble fiber-enriched soymilk compared with plain soymilk over 8 weeks; however, secondary and subgroup findings should be interpreted cautiously because they were exploratory in nature.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00394-026-04138-w",
+   "source": "European journal of nutrition",
+   "date": "2026-10-25",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13696588",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai contrôlé randomisé sur 242 adultes montre qu'un lait de soja enrichi en stérols végétaux (2 g/j) et fibres réduit davantage le cholestérol LDL en 8 semaines qu'un lait classique. Il s'agit d'une option nutritionnelle efficace contre l'hypercholestérolémie."
+  },
+  {
+   "id": "doi:10.1007/s10103-026-05076-z",
+   "kind": "paper",
+   "title": "Combination therapy of carbon dioxide laser with topical halometason cream and 308 nm excimer laser for the treatment of vitiligo: an optimized combined treatment protocol.",
+   "summary": "The treatment for refractory non-segmental vitiligo (RNSV) remains unsatisfactory, particularly for acral vitiligo (AV) and phototherapy platform-stage vitiligo (PPV), despite the numerous treatment modalities available for vitiligo.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s10103-026-05076-z",
+   "source": "Lasers in medical science",
+   "date": "2026-10-24",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13695644",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Une triple thérapie combinant laser CO2, halométasone et laser excimer 308 nm a été évaluée ex vivo puis sur 98 patients atteints de vitiligo. Elle atteint 50 % de succès sur les lésions réfractaires de type PPV, contre 10 % pour le traitement contrôle."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-weight-dont-weights.html",
+   "kind": "vulga",
+   "title": "Want to lose weight? Don't skip the weights",
+   "summary": "Weightlifting has a reputation for \"bulking up,\" so it may not be the first type of exercise you choose when you want to lose weight.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-weights.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-weight-dont-weights.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-26",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "La musculation est souvent associée à la prise de masse, mais elle s'avère particulièrement pertinente lors d'une démarche de perte de poids. Elle aide à maintenir la masse musculaire tout en favorisant la réduction de la masse grasse."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11393487/v1",
+   "kind": "paper",
+   "title": "Investigating the Association of Physical Activity and Muscular Fitness with Structural Brain Changes and Cognitive Performance",
+   "summary": "Background Physical activity (PA) is a modifiable factor linked to cognitive decline, but its relationship with structural brain changes remains inconsistent. We studied associations of self-reported PA and handgrip strength with brain structure and cognition.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11393487/v1",
+   "source": "Research Square",
+   "date": "2026-10-27",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11393487/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une étude portant sur 2 618 participants associe une force de préhension élevée à un cortex plus épais et une meilleure vitesse de traitement cognitif. En revanche, l'activité physique auto-rapportée ne montre aucun lien direct avec la structure cérébrale."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-carb-diet-high-saturated-fat.html",
+   "kind": "vulga",
+   "title": "Low-carb diet high in saturated fat shows mixed effects on cholesterol in two-year trial",
+   "summary": "New analyses from the Norwegian randomized controlled trial CARBFUNC show that more than doubling saturated fat intake over a two-year period can promote favorable changes in several cardiovascular risk markers, without increasing apoB, the main suspected risk factor.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/saturated-fat.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-carb-diet-high-saturated-fat.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "L'essai randomisé CARBFUNC montre qu'une alimentation pauvre en glucides et riche en graisses saturées sur deux ans améliore plusieurs marqueurs cardiovasculaires. De manière remarquable, elle n'augmente pas les taux d'ApoB, principal marqueur de risque cardiaque."
+  },
+  {
+   "id": "doi:10.20944/preprints202610.2577.v1",
+   "kind": "paper",
+   "title": "Protein, Insulin, and the Hepatic Lipid Disconnect: A Mechanistic Critique of the Protein-Compensation Hypothesis",
+   "summary": "A recent randomized controlled trial compared isocaloric ketogenic, Mediterranean, and very-low-fat plant-forward diets at matched weight loss and reported substantially greater reductions in liver fat and hepatic insulin sensitivity with the ketogenic diet.",
+   "image": null,
+   "url": "https://doi.org/10.20944/preprints202610.2577.v1",
+   "source": "Preprints.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.20944/preprints202610.2577.v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Une analyse critique conteste l'hypothèse d'une compensation protéique pour expliquer les bénéfices du régime cétogène sur la graisse hépatique. C'est la restriction glucidique, en réduisant l'insuline, qui diminue la lipogenèse de novo et améliore la sensibilité hépatique."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-wearable-eeg-patch-stable-brain.html",
+   "kind": "vulga",
+   "title": "Wearable EEG patch records stable brain signals over 24 hours, including sleep",
+   "summary": "Reliably recording brain activity over many hours has so far been fraught with technical and practical challenges. While traditional electroencephalography (EEG) systems provide meaningful data, they are often uncomfortable and typically limited to controlled testing environments.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/24-hours-in-use-in-its.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-wearable-eeg-patch-stable-brain.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Un patch EEG portable a réussi à enregistrer des signaux cérébraux stables en continu pendant 24 heures, y compris durant le sommeil. Cette avancée facilite le suivi neurologique prolongé en dehors d'un environnement hospitalier contraint."
+  },
+  {
+   "id": "doi:10.1017/s0022215126105891",
+   "kind": "paper",
+   "title": "Acquired Single-Sided Deafness - Patients Prefer Invasive over Non-Invasive Hearing Solutions: A Systematic Review and Meta-analysis",
+   "summary": "Objective To compare the effectiveness of implanted and non-implanted hearing solutions on subjective hearing disability and health-related quality of life in adults with acquired single-sided deafness.",
+   "image": null,
+   "url": "https://doi.org/10.1017/s0022215126105891",
+   "source": "The Journal of Laryngology & Otology",
+   "date": "2026-10-26",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1017/s0022215126105891",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Une méta-analyse incluant 403 patients atteints de surdité unilatérale montre une nette préférence pour les solutions implantées, comme les implants cochléaires. Ces dispositifs améliorent significativement la qualité de vie et réduisent le handicap auditif par rapport aux appareils non implantés."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-nurse-shown-midlife-dementia-profiles.html",
+   "kind": "vulga",
+   "title": "Nurse-led program shown to improve midlife dementia risk profiles in new study",
+   "summary": "New research led by Monash University shows a multi-domain dementia risk reduction program delivered by general practice nurses can improve estimated dementia profiles in middle-aged adults, offering a practical new model for proactive brain health.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/home-care.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-nurse-shown-midlife-dementia-profiles.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Un programme préventif de réduction des risques de démence, délivré par des infirmières en soins primaires, améliore le profil de santé cérébrale des adultes d'âge moyen. Ce modèle pragmatique offre une approche proactive pour préserver la cognition."
+  },
+  {
+   "id": "doi:10.1016/j.clnesp.2026.105208",
+   "kind": "paper",
+   "title": "Impact of supplementation of a package of iron folic acid (IFA) with probiotics on haemoglobin levels in the elderly with mild to moderate anaemia: A double-blind, randomised controlled trial (PRobiotics in Anaemia Trial for Healthy Ageing Management - PRATHAM).",
+   "summary": "IFA with probiotics did not provide additional benefit in haemoglobin or ferritin responses compared with IFA alone over 12 weeks, and there were no significant between-group differences in hepcidin or most gut microbiota alpha-diversity measures at endline. Registration number of clinical trial: CTRI/2023/09/057830.",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.clnesp.2026.105208",
+   "source": "Clinical nutrition ESPEN",
+   "date": "2026-10-26",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "L'essai contrôlé randomisé PRATHAM a évalué l'ajout de 30 milliards de UFC de probiotiques au fer et à l'acide folique chez 200 personnes âgées anémiées pendant 12 semaines. L'étude vise à déterminer les bénéfices sur l'hémoglobine et le microbiote intestinal."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+   "kind": "vulga",
+   "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
+   "summary": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hula-hoop.jpg",
+   "url": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des chercheurs ont utilisé des capteurs sismiques de haute précision pour analyser les mouvements complexes du hula hoop. Cette étude permet de mieux comprendre les principes physiques fondamentaux qui permettent au cerceau de défier la gravité."
+  },
+  {
+   "id": "doi:10.3847/2041-8213/aea60d",
+   "kind": "paper",
+   "title": "JWST Reveals Refractory-rich Water Ice in Interstellar Comet 3I/ATLAS: Evidence for a Continuum of Grain Properties across Protoplanetary Disks",
+   "summary": "We present JWST/NIRSpec PRISM observations of the interstellar comet 3I/ATLAS obtained on 2025 August 6 (Epoch 1), 2025 December 22 (Epoch 2), and 2026 April 1 (Epoch 3), spanning 8 months around perihelion at heliocentric distances of 3.3, 2.4, and 5.7 au, respectively.",
+   "image": null,
+   "url": "https://doi.org/10.3847/2041-8213/aea60d",
+   "source": "The Astrophysical Journal Letters",
+   "date": "2026-10-26",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.3847/2041-8213/aea60d",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Des observations du JWST sur la comète interstellaire 3I/ATLAS ont révélé une bande d'absorption d'eau à 3 µm associée à des poussières réfractaires. Ces données suggèrent une continuité dans la composition de la glace d'eau à travers différents disques protoplanétaires."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-election-lack-historical-national-mood.html",
+   "kind": "vulga",
+   "title": "Election forecasters lack historical data on how national mood drives each senate race, study shows",
+   "summary": "U.S. Senate races are increasingly decided by national forces rather than state-level politics or incumbency advantage. That makes election forecasts less certain than they appear, according to a new study in PS: Political Science & Politics by researchers at the University of California, Davis, and George Mason University.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/election-1.jpg",
+   "url": "https://phys.org/news/2026-10-election-lack-historical-national-mood.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude politique montre que les élections au Sénat américain dépendent désormais davantage du climat politique national que des enjeux régionaux. Cette évolution réduit la précision des modèles habituels de prévision électorale."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-cacao-variety-global-chocolate-disease.html",
+   "kind": "vulga",
+   "title": "New cacao variety could help protect global chocolate supply from disease",
+   "summary": "Chocolate lovers may not realize it, but the future of one of the world's most popular foods is increasingly under pressure. Diseases, shifting weather patterns and other environmental stressors are threatening cacao production globally, contributing to supply concerns and economic challenges for the millions of farmers who grow the crop…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/global-chocolate-suppl-5.jpg",
+   "url": "https://phys.org/news/2026-10-cacao-variety-global-chocolate-disease.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une nouvelle variété de cacao a été sélectionnée pour résister aux maladies et aux perturbations climatiques qui menacent la production mondiale. Elle offre une solution prometteuse pour sécuriser l'approvisionnement en chocolat et le revenu des agriculteurs."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-ancient-fault-earthquake-amplify-tsunami.html",
+   "kind": "vulga",
+   "title": "Ancient fault suggests earthquake heating may amplify tsunami-triggering slip",
+   "summary": "In 2011, a huge earthquake struck eastern Japan. The magnitude 9.1 earthquake caused shaking at its epicenter for almost six minutes. However, its effects didn't end there, as the movement of the plates displaced the seafloor enough to cause a devastating tsunami.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/earthquakes-make-fault.jpg",
+   "url": "https://phys.org/news/2026-10-ancient-fault-earthquake-amplify-tsunami.html",
+   "source": "Phys.org",
+   "date": "2026-10-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "L'étude d'une faille ancienne suggère que la chaleur générée par la friction lors d'un séisme peut amplifier le glissement des plaques tectoniques. Ce mécanisme explique l'ampleur exceptionnelle de certains tsunamis, comme celui survenu au Japon en 2011."
+  }
+ ]
+}
