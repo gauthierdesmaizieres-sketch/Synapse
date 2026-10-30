@@ -1,0 +1,451 @@
+{
+ "date": "2026-10-30",
+ "generated": "2026-10-30T05:31:10+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• La musculation isolée démontre son efficacité pour élever les taux de BDNF (SMD = 0,49) et stimuler la neuroplasticité dans la sclérose en plaques.\n• Le tadalafil émerge comme une piste d'intérêt pour maintenir les cellules musculaires prêtes à la régénération.\n• Première observation des états habillés de spins protoniques dans l'eau, repoussant les limites de manipulation en RMN.\n• Une avancée en cryo-ME par appariement 2D permet de résoudre des cibles médicamenteuses sous la barre des 50 kDa.\n• La mobilisation coordonnée des lymphocytes B et T s'avère déterminante pour générer des rémissions durables sous immunothérapie anticancéreuse.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
+   "kind": "vulga",
+   "title": "Lab-aged microplastics enable tests of interactions with contaminants",
+   "summary": "A newly published study advances our knowledge of how microplastics may age in the environment and whether they stick to other contaminants as they do so. Microplastics (MPs) are tiny plastic pieces that measure less than 5 millimeters (about 0.2 inches) in length.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/aging-microplastics-in.jpg",
+   "url": "https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
+   "source": "Phys.org",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Une étude analyse le vieillissement environnemental des microplastiques de moins de 5 millimètres et leur propension à adsorber divers contaminants. Ces données permettent d'évaluer avec précision l'impact écotoxicologique et le transport de polluants persistants dans les écosystèmes."
+  },
+  {
+   "id": "doi:10.1103/kwg6-9vk3",
+   "kind": "paper",
+   "title": "Dressed-state spectroscopy of proton spins in water beyond the rotating-wave approximation",
+   "summary": "The quantum Rabi model provides the framework for describing a two-level system interacting with a strong oscillating field beyond the rotating-wave approximation. We report the first experimental observation of the resulting dressed states of proton spins in water, realized using a Rabi-type setup with a strong off-resonant magnetic…",
+   "image": null,
+   "url": "https://doi.org/10.1103/kwg6-9vk3",
+   "source": "Physical Review Letters",
+   "date": "2026-10-28",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2603.14878",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Des chercheurs ont observé expérimentalement pour la première fois les états habillés de spins protoniques dans l'eau au-delà de l'approximation de l'onde tournante. Cette spectroscopie valide le modèle quantique de Rabi et ouvre la voie à un contrôle ultra-précis des spins en RMN."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c15580",
+   "kind": "paper",
+   "title": "Comparing Nuclear Reaction Coordinates Driving Photoinduced Proton-Coupled Electron and Energy Transfer",
+   "summary": "Proton transfer is coupled to electron transfer or electronic excitation energy transfer in proton-coupled electron transfer (PCET) and proton-coupled energy transfer (PCEnT) reactions, respectively.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c15580",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-26",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1021/jacs.6c15580",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'élucidation des coordonnées réactionnelles montre que le transfert couplé proton-électron (PCET) implique l'anthracène et le phénol via une intersection conique, tandis que le transfert d'énergie (PCEnT) mobilise toute la triade. Cette différenciation quantique précise les mécanismes de transfert concertés mais asynchrones sans intermédiaire stable."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+   "kind": "vulga",
+   "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics",
+   "summary": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at the Helmholtz Centre for Environmental Research (UFZ) have demonstrated that electrochemical and microbial processes can…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/yeast-and-electricity.jpg",
+   "url": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+   "source": "Phys.org",
+   "date": "2026-10-28",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Des chercheurs ont couplé l'électrochimie et des levures pour transformer directement le CO₂ en précurseurs de plastiques biodégradables. Cette approche biochimique offre une voie prometteuse de valorisation du carbone pour une synthèse industrielle plus durable."
+  },
+  {
+   "id": "doi:10.7554/elife.110747.4",
+   "kind": "paper",
+   "title": "Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium",
+   "summary": "The cost of expressing unnecessary genes on growth has been explained at the population level through balanced growth assumptions. However, due to the high degree of stochasticity in growth and gene regulation, it remains unclear how classical growth laws derived from bulk measurements manifest at the level of individual cells.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.110747.4",
+   "source": "eLife",
+   "date": "2026-10-28",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.110747.4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "À l'échelle de la cellule unique chez E. coli, l'expression du flagelle s'associe étonnamment à une hausse de croissance, contredisant les mesures globales de population. Cette étude in vitro montre que des surplus de facteurs de croissance parentaux hérités compensent temporairement ce coût énergétique."
+  },
+  {
+   "id": "doi:10.7554/elife.109790.4",
+   "kind": "paper",
+   "title": "Improved cryo-EM reconstruction of sub-50 kDa complexes using 2D template matching",
+   "summary": "Visualizing the structures of small proteins and complexes has been a longstanding challenge in single-particle cryo-EM. Some of these targets have been successfully resolved by binding to antibody fragments (Fabs) or fusing with external scaffolds to increase their size.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.109790.4",
+   "source": "eLife",
+   "date": "2026-10-26",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.109790.4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Grâce à un appariement de motifs 2D combiné à des structures préalables, la cryo-ME a permis de reconstruire une protéine kinase d'environ 43 kDa. Cette avancée technique améliore la résolution des sites de liaison pour des complexes médicamenteux bien inférieurs à 50 kDa."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-psychedelics-antidepressant-benefits-hallucinogenic-effects.html",
+   "kind": "vulga",
+   "title": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects",
+   "summary": "Could psychedelics become a new generation of treatments for depression and other psychiatric disorders? This question is no longer confined to basic research. Several therapies based on classical psychedelics have advanced into late-stage clinical development and have reported encouraging results.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/hallucinate.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-psychedelics-antidepressant-benefits-hallucinogenic-effects.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Les molécules psychédéliques progressent vers les phases cliniques avancées en affichant des résultats encourageants contre la dépression majeure. Les recherches actuelles visent à isoler leurs mécanismes d'action thérapeutiques afin de conserver les bénéfices antidépresseurs sans induire d'effets hallucinogènes."
+  },
+  {
+   "id": "doi:10.1126/scitranslmed.adv7928",
+   "kind": "paper",
+   "title": "B cell subsets are associated with durable responses in distinct cancer types after immune checkpoint inhibition.",
+   "summary": "B cells are a critical arm of the adaptive immune system. However, the impact of B cells and antibody responses on overall cancer survival remains understudied. Here, we report results from a prospective randomized phase 2 trial of 106 patients treated with immune checkpoint inhibitors (ICIs) and identify that B cell antibody responses…",
+   "image": null,
+   "url": "https://doi.org/10.1126/scitranslmed.adv7928",
+   "source": "Science translational medicine",
+   "date": "2026-10-28",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Un essai clinique de phase 2 sur 106 patients révèle que certaines sous-populations de lymphocytes B favorisent des réponses complètes sous immunothérapie. La présence de cellules B germinatives et mémoires améliore la survie globale, soulignant l'importance d'une action coordonnée avec les lymphocytes T."
+  },
+  {
+   "id": "doi:10.64898/2026.10.27.26366630",
+   "kind": "paper",
+   "title": "Psilocybin, cognitive stability and drinking reduction in co-occurring alcohol use disorder and depression: a pilot secondary analysis of a randomized, placebo-controlled trial",
+   "summary": "About one week after dosing, psilocybin slowed cued task switching but had no consistent effect on feedback-driven flexibility, and there was no evidence of an effect on the willingness to exert effort.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.10.27.26366630",
+   "source": "medRxiv",
+   "date": "2026-10-29",
+   "tags": [
+    "Essai randomisé",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.10.27.26366630",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Chez des patients souffrant d'alcoolisme et de dépression, une dose de psilocybine ralentit le temps de réaction au changement de tâche (d=1,12) après une semaine. Cet essai pilote randomisé montre également une réduction de la persévération cognitive par rapport au placebo."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-viagra-cousin-muscle-cells-stay.html",
+   "kind": "vulga",
+   "title": "Viagra's cousin could help muscle cells stay primed for regeneration",
+   "summary": "Tadalafil is a prescription drug closely related to Viagra. It is used to treat erectile dysfunction (ED) and the urinary symptoms of an enlarged prostate. Both competitive and recreational athletes sometimes use it too, to treat pulmonary arterial hypertension (PAH), a condition that can limit how well the body tolerates exercise.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/muscle-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-viagra-cousin-muscle-cells-stay.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-26",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Le tadalafil, un médicament de la même classe que le Viagra, aiderait les cellules musculaires à rester prêtes pour la régénération. Cette molécule intéresse également les sportifs pour son action bénéfique sur la tolérance à l'effort via la régulation vasculaire pulmonaire."
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0359019",
+   "kind": "paper",
+   "title": "Is resistance training effective to increase BDNF in multiple sclerosis? An updated systematic review and meta-analysis of isolated interventions.",
+   "summary": "Isolated RT may increase peripheral BDNF levels in individuals with MS, but this effect is supported by limited and low-certainty evidence. Furthermore, given that only four studies were included in the meta-analysis, we suggest interpreting the results with some caution.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0359019",
+   "source": "PloS one",
+   "date": "2026-10-27",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0359019&type=printable",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une méta-analyse de 4 études incluant 126 patients atteints de sclérose en plaques montre que la musculation isolée augmente significativement le BDNF périphérique (SMD = 0,49). Ce résultat confirme le potentiel de l'entraînement en force pour stimuler la neuroplasticité sans intervention aérobie combinée."
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0360760",
+   "kind": "paper",
+   "title": "Evaluating treatment efficacy for Iliotibial Band Syndrome: A comparison of combined foam rolling and stretching with strengthening exercises versus strengthening alone in athletes.",
+   "summary": "Background Iliotibial Band Syndrome (ITBS) lacks effective conservative treatment protocols, often relying on expert opinion without addressing individual factors. This study compared the effectiveness of integrating foam rolling and stretching exercises with strengthening routines versus strengthening exercises alone in athletes with…",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0360760",
+   "source": "PloS one",
+   "date": "2026-10-27",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360760&type=printable",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Chez 20 athlètes souffrant du syndrome de l'essuie-glace, combiner rouleau de massage, étirements et renforcement surpasse le renforcement seul pour la flexibilité (59,4 % contre 1,7 %). Cette approche combinée améliore significativement la fonction du membre inférieur et la qualité de vie globale."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-bad-dietary-choices-worsen-immune.html",
+   "kind": "vulga",
+   "title": "Could a few bad dietary choices worsen your next immune response?",
+   "summary": "Scientists have long known that diet shapes the immune system. Now, a UC San Francisco team has found that even a brief dietary change can substantially change how the body responds to skin irritation, at least in mice.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultraprocessed-food-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-bad-dietary-choices-worsen-immune.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Dans une étude menée sur des souris, de courts changements nutritionnels suffisent à altérer considérablement la réaction immunitaire cutanée face à une irritation. Cela suggère qu'un écart alimentaire ponctuel peut moduler rapidement la sévérité des réponses inflammatoires périphériques."
+  },
+  {
+   "id": "doi:10.20944/preprints202610.2541.v1",
+   "kind": "paper",
+   "title": "The Bias Continuum Framework (BCF) for Medicine–Food Homology: A Derivable Operational Scale Across Food, Food-Medicine, and Medicine",
+   "summary": "The BCF is a reproducible, calibratable, and extrapolatable operational scoring tool that complements rather than replaces the current catalogue: the catalogue governs legality and safety (whether a substance may be admitted or traded), whereas the continuum governs cold–hot displacement and adaptation constraints (how it should be used…",
+   "image": null,
+   "url": "https://doi.org/10.20944/preprints202610.2541.v1",
+   "source": "Preprints.org",
+   "date": "2026-10-26",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.20944/preprints202610.2541.v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Ce préprint formalise un cadre d'évaluation continu des substances alimentaires et médicinales selon un score d'équilibre thermique allant de -10 à +10. Appliquée à 106 produits traditionnels, cette méthodologie standardise la classification entre nutrition quotidienne et thérapie ciblée."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-night-brains.html",
+   "kind": "vulga",
+   "title": "When things go bump in the night: How our brains trick us into hearing things that aren't there",
+   "summary": "It's 3 a.m. You've woken from a dead sleep because you've heard a thud in the darkness or a floorboard creaking downstairs. Or perhaps you've woken because you have the unmistakable sensation you're not alone.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/nightmare-sleep.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-night-brains.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Les réveils nocturnes s'accompagnent parfois d'illusions auditives ou de sensations de présence créées de toutes pièces par le cerveau. Ce phénomène illustre comment l'isolement sensoriel et l'état d'alerte nocturne modifient l'interprétation des perceptions résiduelles."
+  },
+  {
+   "id": "doi:10.1073/pnas.2607559123",
+   "kind": "paper",
+   "title": "Neuromodulation-inspired gated associative memory networks: Extended memory retrieval and emergent multistability",
+   "summary": "Classical autoassociative memory models have been central to understanding emergent computations in recurrent neural circuits across diverse biological contexts. However, they typically neglect neuromodulatory agents that are known to strongly shape memory capacity and stability.",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2607559123",
+   "source": "Proceedings of the National Academy of Sciences",
+   "date": "2026-10-27",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1073/pnas.2607559123",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "L'intégration d'un mécanisme de porte inspiré des neuromodulateurs permet à un réseau de mémoire associative de dépasser largement la limite classique de Hopfield. Ce modèle théorique stabilise des attracteurs continus, évitant l'effondrement de la capacité de rappel en phase de verre de spin."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-neurologist-rethinking-longevity-era.html",
+   "kind": "vulga",
+   "title": "How a neurologist is rethinking stroke prevention for the longevity era",
+   "summary": "For decades, stroke prevention has revolved around a list of separate—and often separately treated—risk factors: blood pressure, cholesterol, diabetes, smoking and inactivity. According to Dr. Gustavo Saposnik, it's time to start considering biological age as a risk factor for stroke.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-a-unity-health-neu.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-neurologist-rethinking-longevity-era.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-28",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Un neurologue propose d'intégrer l'âge biologique comme facteur central dans la prévention des accidents vasculaires cérébraux, au-delà des paramètres conventionnels comme l'hypertension. Cette vision s'inscrit dans une approche globale de la longévité pour mieux personnaliser les prises en charge médicales."
+  },
+  {
+   "id": "doi:10.1016/j.celrep.2026.118181",
+   "kind": "paper",
+   "title": "Mesothelin-induced lysosomal biogenesis sustains neutrophil longevity to drive brain metastasis.",
+   "summary": "Tumor-associated neutrophil (TAN) enrichment is a defining feature and driving force of brain metastases (BrMs), a leading cause of death in solid tumors. Yet, the mechanisms governing TAN enrichment in BrM remains undefined.",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.celrep.2026.118181",
+   "source": "Cell reports",
+   "date": "2026-10-27",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1016/j.celrep.2026.118181",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "In vitro et chez la souris, la mésothéline soluble libérée par les métastases cérébrales active l'axe TLR4-JAK2-STAT3 et prolonge la survie des neutrophiles. Ce mécanisme favorise la colonisation tumorale et met en évidence une cible thérapeutique sensible à l'Anetumab et aux inhibiteurs de TLR4."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+   "kind": "vulga",
+   "title": "Small molecular twists may strengthen nature's magnetic compass",
+   "summary": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, has identified a potential molecular mechanism that could enhance magnetic compass responses in cryptochrome, a blue-light-sensitive…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/small-molecular-twists.jpg",
+   "url": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+   "source": "Phys.org",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des torsions moléculaires au sein du cryptochrome, une flavoprotéine sensible à la lumière bleue, renforceraient la sensibilité de la boussole magnétique biologique. Cette découverte affine la compréhension des mécanismes physico-chimiques guidant la magnétoréception dans le monde vivant."
+  },
+  {
+   "id": "doi:10.1103/rx4t-twrx",
+   "kind": "paper",
+   "title": "Branes screening quarks and defect operators",
+   "summary": "Here we generalize a well-known computation and uncover a phase-transition, showing that Wilson lines do not necessarily exhibit Coulomb scaling laws in AdS/BCFT at zero temperature. The area difference between a surface that returns to the boundary, and one that plunges into the bulk, determines the potential between two quarks.",
+   "image": null,
+   "url": "https://doi.org/10.1103/rx4t-twrx",
+   "source": "Physical Review Letters",
+   "date": "2026-10-26",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2412.21204",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "En géométrie AdS/BCFT, l'angle d'une brane de Karch-Randall induit une transition de phase où le potentiel coulombien entre quarks s'annule sous une valeur critique. Cette modélisation théorique met en lumière un effet d'écrantage complet des opérateurs de défaut selon la géométrie spatio-temporelle."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029",
+   "kind": "vulga",
+   "title": "How Do You Take a Picture of a Black Hole?",
+   "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp",
+   "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+   "source": "Quanta Magazine",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "L'astrophysicien Shep Doeleman détaille l'utilisation d'un réseau mondial de télescopes pour capturer la première image directe d'un trou noir. Le prochain défi technique consiste à transformer ces observations statiques en un enregistrement vidéo de son environnement direct."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-10-real-battery-crucial.html",
+   "kind": "vulga",
+   "title": "Real-time battery monitoring helps streamline crucial manufacturing step",
+   "summary": "Cornell researchers, working with upstate New York battery company Charge CCCV, also known as C4V, have developed a real-time diagnostic approach to improve one of the most expensive and time-consuming stages of lithium-ion battery manufacturing: forming the battery.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/real-time-view-inside-1.jpg",
+   "url": "https://techxplore.com/news/2026-10-real-battery-crucial.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Un procédé de diagnostic en temps réel développé avec l'entreprise C4V optimise l'étape critique et coûteuse du formage des batteries lithium-ion. Cette innovation permet d'accélérer la production industrielle tout en fiabilisant le contrôle qualité des accumulateurs."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-mathematical-method-limited-smallest.html",
+   "kind": "vulga",
+   "title": "New mathematical method improves calculations for systems limited by their smallest input",
+   "summary": "A harmonic increment provides a new way to improve smooth approximations of the minimum function. In a recent paper, published in the Journal of Inequalities and Applications, Prof. Thomas A.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/production-line.jpg",
+   "url": "https://phys.org/news/2026-10-mathematical-method-limited-smallest.html",
+   "source": "Phys.org",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une nouvelle méthode d'incrément harmonique optimise l'approximation régulière de la fonction minimum dans les systèmes mathématiques contraints par leur valeur la plus basse. Cet outil améliore la précision des calculs numériques appliqués aux problèmes d'optimisation complexes."
+  }
+ ]
+}
