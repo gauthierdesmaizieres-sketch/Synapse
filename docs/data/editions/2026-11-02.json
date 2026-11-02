@@ -1,0 +1,450 @@
+{
+ "date": "2026-11-02",
+ "generated": "2026-11-02T05:48:56+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Protéines végétales et musculation : une méta-analyse confirme que les protéines de soja et de pois égalent la whey pour le gain de masse maigre.\n• Nouvelles méthodes synthétiques et biochimiques : développement d'outils pour la création de bibliothèques encodées par ADN, la synthèse de [2]rotaxanes et l'enrichissement métabolique par nanotubes.\n• Thérapies musculaires et neurologiques : évaluation du delpacibart zotadirsen (saut d'exon 44) contre la myopathie de Duchenne et émergence de la dégradation stimulée des protéines contre le déficit mitochondrial.\n• Optimisation de l'entraînement : la prescription de charge basée sur le profil force-vitesse permet de cibler spécifiquement la vitesse chez les séniors, tandis que le sprint avec parachute produit une réduction aiguë de vitesse de 3,4 à 6 %.\n• Cognition et caféine : un essai clinique démontre qu'une prise aiguë de 250 mg de caféine n'améliore pas l'inhibition cognitive, quel que soit le niveau de symptômes de TDAH.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+   "kind": "vulga",
+   "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+   "summary": "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/chemists-develop-ai-to.jpg",
+   "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+   "source": "Phys.org",
+   "date": "2026-10-31",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Un outil d'IA développé par des chercheurs permet d'exploiter l'ingéniosité humaine pour concevoir des enzymes optimisées. Cette approche vise à assister les scientifiques plutôt qu'à les remplacer dans la création de biocatalyseurs."
+  },
+  {
+   "id": "doi:10.1002/anie.1802913",
+   "kind": "paper",
+   "title": "Active Metal Template Synthesis of Rotaxanes From BINOL‐Phosphate Macrocycles",
+   "summary": "A new active metal template synthesis of [2]rotaxanes is described. We demonstrate the use of macrocyclic BINOL-phosphates as ligands for the Cu(I)-mediated alkyne-azide cycloaddition, establishing a mechanical bond.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.1802913",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-29",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.1802913",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une nouvelle synthèse par matrice métallique active de [2]rotaxanes utilise des macrocycles BINOL-phosphates sans donneurs azotés. Cette réaction de cycloaddition alkyne-azide catalysée par le cuivre(I) offre de bons rendements et tolère divers groupes fonctionnels."
+  },
+  {
+   "id": "doi:10.1002/anie.5634995",
+   "kind": "paper",
+   "title": "An Alkali Amide Approach to Triphosphabenzenes",
+   "summary": "A new approach to triphosphabenzenes using simple and commercially available organolithium reagents is presented. LiNMe 2 catalyzes the cyclotrimerization of triphenylmethylphosphaalkyne ( 1 ) to yield 2,4,6-tris(triphenylmethyl)-Dewar-1,3,5-triphosphabenzene ( 2 ).",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.5634995",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-10-31",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/anie.5634995",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'amide de lithium LiNMe2 catalyse la cyclotrimérisation d'un phosphaalcyne en 1,3,5-triphosphabenzène de Dewar avec dépendance au solvant. L'utilisation du solvant THF piège l'anion intermédiaire, tandis que KN(SiMe3)2 déprotone les dérivés benzyliques pour former des triphosphabenzènes fonctionnalisés."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
+   "kind": "vulga",
+   "title": "Novel chemical reaction expands options for building DNA-encoded libraries",
+   "summary": "Finding new drugs requires screening vast numbers of compounds to identify those that interact with a biological target. DNA-encoded libraries (DELs) help researchers explore these large collections by attaching a short DNA sequence to each molecule, acting as a molecular barcode that allows compounds with promising properties to be…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-chemical-reaction-1.jpg",
+   "url": "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
+   "source": "Phys.org",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une nouvelle réaction chimique élargit les possibilités de construction des bibliothèques encodées par ADN (DEL). Ces outils permettent d'identifier plus efficacement des molécules candidates pour le développement de médicaments grâce à un code-barres moléculaire."
+  },
+  {
+   "id": "doi:10.1126/science.aed2525",
+   "kind": "paper",
+   "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
+   "summary": "Targeted protein degradation is a promising modality to treat cancer or inflammation, but whether it can provide a similar benefit for disorders caused by pervasive protein dysregulation is unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1126/science.aed2525",
+   "source": "Science",
+   "date": "2026-10-29",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1126/science.aed2525",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "La dégradation stimulée des protéines via des agonistes de la ligase E3 CUL2 FEM1B préserve la fonction mitochondriale et la survie neuronale. En étude in vitro/animale, cette approche améliore l'assemblage de la chaîne d'électrons dans des modèles de déficit en COX et d'ataxie de Friedreich."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c15416",
+   "kind": "paper",
+   "title": "Chemically Engineered Carbon Nanotubes Map Class-Selective Metabolite Enrichment from Human Plasma",
+   "summary": "The spontaneous adsorption of biomolecules onto nanoparticle surfaces has been extensively characterized at the protein level, but the metabolite corona remains poorly defined, in part because low annotation rates inherent to untargeted metabolomics limit systematic, class-level analysis.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c15416",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-10-29",
+   "tags": [],
+   "oa": {
+    "url": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c15416/69027076/jacs.6c15416.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Des nanotubes de carbone chimiquement modifiés permettent de cartographier la couronne de métabolites du plasma humain. Grâce à un modèle d'apprentissage automatique portant le taux d'annotation de 10 à 45 %, plus de 5 000 caractéristiques métaboliques enrichies ont été identifiées."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-antihistamines-affect-brain.html",
+   "kind": "vulga",
+   "title": "Not all antihistamines are the same—and some may affect your brain more than you think",
+   "summary": "Millions of people take antihistamines for allergies, but some of these medicines can make you sleepy, slow your reactions and affect your concentration. Others are much less likely to have these effects. Knowing the difference can help you choose an allergy treatment that won't interfere with your day.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/antihistamine.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-antihistamines-affect-brain.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Tous les antihistaminiques n'agissent pas de la même manière sur le système nerveux central. Certains provoquent de la somnolence et ralentissent les réflexes, tandis que d'autres présentent un impact cérébral nettement plus limité."
+  },
+  {
+   "id": "doi:10.1111/sms.70392",
+   "kind": "paper",
+   "title": "The Effects of Force-Velocity Profile-Based Load Prescription on Muscle Power and Functional Performance in Velocity-Deficient Older Adults.",
+   "summary": "Muscle power is essential for functional capacity in older adults and can be improved through power-focused resistance training (PRT). PRT adaptations are load- and velocity-specific, yet optimal load prescription remains unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1111/sms.70392",
+   "source": "Scandinavian journal of medicine & science in sports",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13717707",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Une étude chez 57 adultes âgés présentant un déficit de vitesse montre qu'un entraînement ciblé spécifique améliore davantage la vitesse maximale (V0, p=0,009). En revanche, la charge non ciblée augmente plus la force maximale (F0, p=0,040), sans différence sur la puissance globale."
+  },
+  {
+   "id": "doi:10.1016/s1474-4422(26)00337-6",
+   "kind": "paper",
+   "title": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
+   "summary": "Del-zota had an acceptable safety profile, produced increases in exon 44 skipping and dystrophin expression, and decreased biomarkers of muscle damage in participants with DMD44. Findings from this study support further investigation of del-zota in a phase 3 study to assess efficacy and long-term safety.",
+   "image": null,
+   "url": "https://doi.org/10.1016/s1474-4422(26)00337-6",
+   "source": "The Lancet. Neurology",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "L'essai clinique de phase 1/2 EXPLORE44 évalue le delpacibart zotadirsen, un conjugué anticorps-oligonucléotide ciblant le saut de l'exon 44 chez les patients atteints de dystrophie musculaire de Duchenne. L'étude contrôle la tolérance et la restauration de la dystrophine après des injections de 5 à 10 mg/kg."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-calisthenics-full-body-workout.html",
+   "kind": "vulga",
+   "title": "5 calisthenics moves for a full-body workout you can do anywhere",
+   "summary": "Whether you realize it or not, you're probably already familiar with calisthenics. Put simply, calisthenics is just bodyweight exercises. Calisthenics is great for beginners because it builds full-body strength and requires no equipment. You can also easily modify exercises for different levels of difficulty.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/squat-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-calisthenics-full-body-workout.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-29",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "La callisthénie propose des exercices au poids de corps ne nécessitant aucun matériel pour développer la force globale. Cinq mouvements de base permettent d'obtenir un entraînement complet, facilement adaptable à tous les niveaux de pratique."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2752317",
+   "kind": "paper",
+   "title": "Is plant-based protein supplementation as effective as whey protein? A systematic review and meta-analysis in untrained adults undergoing resistance training.",
+   "summary": "Thus, soy- and pea-based protein supplements may support favorable body composition changes in adults initiating RT and could be considered practical nutritional options for individuals seeking alternatives to whey protein.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2752317",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-10-29",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13721805",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une méta-analyse de 5 études chez des adultes débutant la musculation montre que les protéines végétales (soja, pois) sont aussi efficaces que la whey. Aucune différence significative n'a été observée entre les groupes sur le gain de masse maigre mesuré par DEXA."
+  },
+  {
+   "id": "doi:10.1186/s40798-026-01131-9",
+   "kind": "paper",
+   "title": "Acute and Chronic Effects of Parachute-Resisted Sprint Training on Sprint Performance and Sprint Mechanics: A Systematic Review with GRADE Assessment.",
+   "summary": "PRST appears to provide a practical, sprint-specific overload and may improve selected sprint performance outcomes. However, the current evidence base is limited by small sample sizes, heterogeneous protocols, poor quantification of resistance, inconsistent reporting of outcomes, and limited comparator control.",
+   "image": null,
+   "url": "https://doi.org/10.1186/s40798-026-01131-9",
+   "source": "Sports medicine - open",
+   "date": "2026-10-29",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13719917",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une revue systématique de 17 études montre que le sprint avec parachute réduit de manière aiguë la vitesse de 3,4 à 6 %. Cet entraînement à résistance aérodynamique offre une surcharge spécifique utile pour les adaptations mécaniques et neuromusculaires."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-vegans-diverse-gut-bacteria-protein.html",
+   "kind": "vulga",
+   "title": "Vegans may have less diverse gut bacteria, with lower protein intake offering possible clue",
+   "summary": "The gut is home to billions of microorganisms. It is a complex ecosystem that regulates many of the body's functions and helps keep us healthy—when it is in balance. Our diet influences this ecosystem. But does it matter whether a person is vegan or omnivorous?",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/vegan.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-vegans-diverse-gut-bacteria-protein.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Les personnes suivant un régime végétalien présentent un microbiote intestinal moins diversifié que les omnivores. Un apport protéique plus faible chez les végétaliens pourrait constituer une explication clé à ce phénomène."
+  },
+  {
+   "id": "doi:10.1002/hup.70067",
+   "kind": "paper",
+   "title": "Acute Caffeine Intake Does Not Modulate Active or Reactive Inhibition in Non-Clinical Young Adults, and ADHD Symptoms Do Not Moderate Its Effects.",
+   "summary": "Caffeine produced no acute benefit for either form of inhibition, and ADHD symptoms did not moderate its effects. Bayes factors supported the absence rather than the nondetection of these effects, arguing against an acute improvement of inhibitory control that scales with ADHD symptom severity in nonclinical young adults.",
+   "image": null,
+   "url": "https://doi.org/10.1002/hup.70067",
+   "source": "Human psychopharmacology",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13635470",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Un essai croisé contrôlé montre qu'une dose aiguë de 250 mg de caféine n'améliore ni l'inhibition active ni l'inhibition réactive chez de jeunes adultes. De plus, la sévérité des symptômes du TDAH ne modère pas ces résultats (BF01 = 4,98)."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-clot-days-patients-recover-procedure.html",
+   "kind": "vulga",
+   "title": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks",
+   "summary": "After a person suffers a stroke, the clock starts ticking for doctors. Every minute that blood flow to the brain remains blocked, more brain tissue risks permanent damage or death. One way to restore circulation is through endovascular thrombectomy, a minimally invasive procedure that can physically remove the clot, restore blood flow…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/clot-removal-days-afte.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-clot-days-patients-recover-procedure.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-01",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "La thrombectomie endovasculaire permet de retirer les caillots cérébraux plusieurs jours après un accident vasculaire cérébral afin d'en limiter les séquelles. Bien que bénéfique pour la récupération, cette intervention comporte néanmoins des risques cliniques."
+  },
+  {
+   "id": "doi:10.1073/pnas.2618887123",
+   "kind": "paper",
+   "title": "A chemomechanical bifurcation landscape unifies sustained growth, length homeostasis, and regenerative collapse in axons",
+   "summary": "Axonal growth machinery is largely shared across neurons, but axons exhibit strikingly different fates depending on developmental and environmental context: sustained elongation in peripheral neurons under permissive conditions, length homeostasis in cortical neurons after target innervation, and pathological collapse into dystrophic…",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2618887123",
+   "source": "Proceedings of the National Academy of Sciences",
+   "date": "2026-10-29",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1073/pnas.2618887123",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Un modèle mécanochimique unifie la croissance, l'homéostasie et l'effondrement axonal en couplant le transport de moteurs moléculaires à la contractilité de l'actomyosine. L'accumulation du délai de transport module la rétroaction mécanique pour réguler la progression de l'axone."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-framework-safe-patient-centered-obesity.html",
+   "kind": "vulga",
+   "title": "A new framework for safe, patient-centered prescribing of obesity medications in older adults",
+   "summary": "The American Geriatrics Society (AGS) has released a new framework to assist clinicians in safely prescribing obesity medications in older adults. Organized around a series of cases, the framework offers a practical approach to prescribing obesity medications to older adults, including GLP-1 medications that act through gut-derived…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/overweight-older-woman.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-framework-safe-patient-centered-obesity.html",
+   "source": "Medical Xpress",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "L'American Geriatrics Society propose un nouveau cadre clinique pour la prescription sécurisée des traitements anti-obésité chez les personnes âgées. Ce guide aborde notamment le recours adapté aux médicaments ciblant les récepteurs du GLP-1."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78891-1",
+   "kind": "paper",
+   "title": "Canopy nutrient balance predicts autumn senescence across U.S. forests.",
+   "summary": "Terrestrial ecosystems are changing rapidly under global nutrient enrichment, yet how canopy nutrients balance shapes the seasonal end of photosynthesis, a critical control on ecosystem carbon cycling, remains unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78891-1",
+   "source": "Nature communications",
+   "date": "2026-10-30",
+   "tags": [],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13722693",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "L'équilibre en nutriments du couvert végétal prédit la sénescence automnale dans 25 forêts américaines. Un ratio N:P élevé accélère la sénescence dans 20 sites, suggérant qu'un apport accru en azote écourte la saison de croissance."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
+   "kind": "vulga",
+   "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
+   "summary": "In a recent Nature Communications study, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs them.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-the-ice-scien.jpg",
+   "url": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
+   "source": "Phys.org",
+   "date": "2026-11-01",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des chercheurs ont créé un système de glace anti-spin en utilisant des particules attractives. Ce dispositif inverse les règles habituelles qui régissent les glaces de spin conventionnelles en physique de la matière condensée."
+  },
+  {
+   "id": "doi:10.1126/science.adv9181",
+   "kind": "paper",
+   "title": "Emergence of Chern metal in a moiré Kondo lattice",
+   "summary": "A Chern metal is a two-dimensional metallic state of matter carrying chiral edge states. We report the observation of a Chern metal at the onset of the magnetic Kondo breakdown in a frustrated moiré Kondo lattice--angle-aligned MoTe 2 /WSe 2 bilayers.",
+   "image": null,
+   "url": "https://doi.org/10.1126/science.adv9181",
+   "source": "Science",
+   "date": "2026-10-29",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2506.14063",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "L'observation d'un métal de Chern dans des bicouches moirées MoTe2/WSe2 révèle un état métallique compressible doté d'états de bord chiraux. Ce phénomène apparaît au seuil de la rupture de Kondo magnétique sous l'effet d'interactions topologiques."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-10-global-wildlife-previous-species-major.html",
+   "kind": "vulga",
+   "title": "Global wildlife trade is twice previous species estimates, but major data gaps suggest true scale is even larger",
+   "summary": "More than 107,000 species are used and traded worldwide, more than double previous estimates, according to new research that suggests the true scale may be far greater due to major gaps in trade and wildlife collection data.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pangolin.jpg",
+   "url": "https://phys.org/news/2026-10-global-wildlife-previous-species-major.html",
+   "source": "Phys.org",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Plus de 107 000 espèces animales et végétales sont exploitées et commercées dans le monde, soit le double des estimations précédentes. Les données lacunaires laissent penser que l'ampleur réelle de ce commerce est encore sous-estimée."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-10-binance-heist-cryptocurrency-billions-stolen.html",
+   "kind": "vulga",
+   "title": "Binance heist: How were cryptocurrency billions stolen?",
+   "summary": "Binance, the world's biggest cryptocurrency exchange, estimates that assets worth $6.3 billion were impacted by a hacking attack against the trading platform.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/binance-the-worlds-lar.jpg",
+   "url": "https://techxplore.com/news/2026-10-binance-heist-cryptocurrency-billions-stolen.html",
+   "source": "Tech Xplore",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "La plateforme d'échange de cryptomonnaies Binance a subi un piratage informatique majeur. Les pertes d'actifs liées à cette attaque sont estimées à environ 6,3 milliards de dollars."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030",
+   "kind": "vulga",
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
+   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "source": "Quanta Magazine",
+   "date": "2026-10-30",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "La cartographie en trois dimensions du milieu interstellaire remet en cause sa vision traditionnelle statique. Ces nouvelles mesures révèlent la nature dynamique de l'espace dit « vide » au sein de la galaxie."
+  }
+ ]
+}
