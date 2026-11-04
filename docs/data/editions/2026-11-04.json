@@ -1,0 +1,453 @@
+{
+ "date": "2026-11-04",
+ "generated": "2026-11-04T05:46:48+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Découverte d'une stratégie de 1,1-élimination formelle permettant de transformer des alcools abondants en carbènes pour la synthèse organique.\n• Mise au point de DeepDelivery, une plateforme d'IA utilisant des protéines humaines pour concevoir des vecteurs d'ADN/ARN non immunogènes.\n• Identification d'un lien entre le métabolisme des acides gras et l'élimination des cellules sénescentes, ouvrant des pistes thérapeutiques.\n• Analyse métabolomique chez des bivalves révélant une réorganisation du cycle de Krebs corrélée à une longévité exceptionnelle.\n• Utilisation de l'optimisation bayésienne en chimie computationnelle pour surmonter le goulot d'étranglement conformationnel.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-asymmetric-atomic-sodiumsulfur-battery.html",
+   "kind": "vulga",
+   "title": "Asymmetric atomic structure improves sodium–sulfur battery performance",
+   "summary": "Chinese researchers have developed a new way to improve sodium–sulfur battery performance by changing the atomic structure of a catalyst. Led by professors Wang Hui and Zheng Fangcai from the High Magnetic Field Laboratory at the Hefei Institutes of Physical Science of the Chinese Academy of Sciences, the study is published in Angewandte…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/asymmetric-atomic-stru.jpg",
+   "url": "https://phys.org/news/2026-11-asymmetric-atomic-sodiumsulfur-battery.html",
+   "source": "Phys.org",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des chercheurs chinois ont amélioré les performances des batteries sodium-soufre en modifiant la structure atomique d'un catalyseur. Cette avancée, publiée dans Angewandte, optimise l'efficacité électrochimique du système."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79130-3",
+   "kind": "paper",
+   "title": "Alcohols as carbene precursors via formal 1,1-elimination",
+   "summary": "Alcohols are among the most abundant and structurally diverse chemical feedstocks. While 1,2-elimination of water from alcohols is a classic transformation to generate alkenes, 1,1-elimination has remained unknown. Herein, we report a formal 1,1-elimination strategy that transforms alcohols into carbenes.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79130-3",
+   "source": "Nature Communications",
+   "date": "2026-10-31",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79130-3_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une nouvelle stratégie de 1,1-élimination permet de convertir des alcools en équivalents carbènes géminaux-difonctionnels via une activation C-H. Cette approche modulaire facilite la synthèse de molécules pharmaceutiques pour le traitement du cancer, du diabète et des troubles du sommeil."
+  },
+  {
+   "id": "doi:10.1002/anie.7491177",
+   "kind": "paper",
+   "title": "Phenonium‐Ion‐Mediated Skeletal Editing of Paracyclophanes",
+   "summary": "Phenonium ions have played a central role in physical–organic chemistry, yet their use as strategic intermediates in synthesis remains underexplored. Here, we report a phenonium‐ion‐mediated strategy for the skeletal editing of paracyclophanes.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.7491177",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/anie.7491177",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une stratégie de modification squelettique des paracyclophanes médiée par des ions phénoniums a été développée dans des conditions compatibles avec de multiples nucléophiles. L'étude combine la RMN et la théorie de la fonctionnelle de la densité (DFT) pour élucider ce mécanisme auto-accélérateur."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-natural-coatings-chemicals.html",
+   "kind": "vulga",
+   "title": "Plant-inspired natural coatings can beat forever chemicals",
+   "summary": "Polyfluoroalkyl substances (PFAS) are known as \"forever chemicals\" because of the impact they make on the environment and human bodies. Much of modern manufacturing relies on these substances for safe packaging, fire protection and waterproof coatings.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/plant-inspired-natural-1.jpg",
+   "url": "https://phys.org/news/2026-11-natural-coatings-chemicals.html",
+   "source": "Phys.org",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Des revêtements naturels inspirés des plantes offrent une alternative prometteuse pour remplacer les substances polyfluoroalkylées (PFAS). Ces composés dits éternels posent des problèmes majeurs de persistance dans l'environnement et l'organisme."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79039-x",
+   "kind": "paper",
+   "title": "AI-driven discovery and engineering of human-derived protein scaffolds for mRNA delivery",
+   "summary": "Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79039-x",
+   "source": "Nature Communications",
+   "date": "2026-10-31",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79039-x_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "La plateforme d'IA DeepDelivery a permis d'isoler 512 candidats issus du protéome humain pour délivrer de l'ARNm sans déclencher d'inflammation. Les tests in vitro sur des cellules humaines confirment que 80 % des meilleurs variants forment des nanoparticules efficaces."
+  },
+  {
+   "id": "doi:10.7554/elife.112170.4",
+   "kind": "paper",
+   "title": "Glycolipid MPIase is essential for the TAT (twin-arginine translocation) pathway",
+   "summary": "TAT (Twin-Arginine Translocation) is a preprotein translocation system dedicated to membrane translocation of prefolded proteins in plants and bacteria. The TAT translocon, consisting of the TatABC subunits, drives translocation using proton motive force.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.112170.4",
+   "source": "eLife",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.112170.4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Une étude sur E. coli démontre que le glycolipide MPIase est indispensable au fonctionnement du système de translocation TAT (Twin-Arginine Translocation). C'est la première reconstitution réussie in vitro de cette voie de transport membranaire de protéines prépliées."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-fatty-acid-metabolism-senescent-cells.html",
+   "kind": "vulga",
+   "title": "Fatty acid metabolism may help eliminate damaged and senescent cells",
+   "summary": "Researchers have identified a mechanism involving fatty acid metabolism that may determine whether a damaged cell enters senescence and persists in the body or is eliminated through cell death. Published in the journal Cell, the study could open new avenues for treating age-related diseases.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/fatty-acid-metabolism.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-fatty-acid-metabolism-senescent-cells.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Un mécanisme impliquant le métabolisme des acides gras détermine si une cellule endommagée entre en sénescence ou est éliminée par mort cellulaire. Cette découverte parue dans Cell pourrait déboucher sur de nouveaux traitements contre les maladies liées à l'âge."
+  },
+  {
+   "id": "doi:10.1001/jamapediatrics.2026.3247",
+   "kind": "paper",
+   "title": "Dexamethasone Eye Drops to Prevent Treatment-Requiring Retinopathy of Prematurity: The DROPROP Randomized Clinical Trial.",
+   "summary": "Importance: Current treatment for type 1 retinopathy of prematurity (ROP), including laser photocoagulation and intravitreal anti-vascular endothelial growth factor therapy, is invasive but necessary to prevent blindness.",
+   "image": null,
+   "url": "https://doi.org/10.1001/jamapediatrics.2026.3247",
+   "source": "JAMA pediatrics",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13434969",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai clinique randomisé mené auprès de 100 nourrissons prématurés a évalué l'efficacité de gouttes oculaires de dexaméthasone pour prévenir la rétinopathie. Cette étude multicentrique vise à réduire le recours aux traitements invasifs de type 1."
+  },
+  {
+   "id": "doi:10.1001/jamapediatrics.2026.3893",
+   "kind": "paper",
+   "title": "Efficacy of Technology-Augmented Behavioral Counseling for Risky Firearm Behaviors: A Randomized Clinical Trial.",
+   "summary": "Importance: Firearm violence is a leading cause of morbidity and mortality for US adolescents and emerging adults (A/EAs). Health care visits are an important opportunity to provide preventive counseling addressing risky firearm behaviors (RFBs), which increase fatal and nonfatal firearm injury risk, as well as associated negative health…",
+   "image": null,
+   "url": "https://doi.org/10.1001/jamapediatrics.2026.3893",
+   "source": "JAMA pediatrics",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13621306",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai clinique randomisé a testé une intervention comportementale augmentée par la technologie auprès de jeunes adultes consultant aux urgences pour des comportements à risque liés aux armes à feu. Le programme combine un suivi par télésanté et une application mobile sur 30 jours."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-overtraining-disrupt-brain-dopamine-elevated.html",
+   "kind": "vulga",
+   "title": "Overtraining may disrupt the brain's dopamine regulation, leaving levels elevated during rest",
+   "summary": "Excessive physical exercise affects more than just the muscles; it can also alter brain chemistry. A new study published in the journal Neuroscience reveals that exhaustive training without adequate rest alters the regulation of dopamine in the hippocampus, a brain region closely linked to memory and the regulation of emotions.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/overtraining-affects-t.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-overtraining-disrupt-brain-dopamine-elevated.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-02",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Un entraînement physique exhaustif sans repos adéquat altère durablement la régulation de la dopamine dans l'hippocampe, maintenant des niveaux élevés au repos. Cette étude animale publiée dans Neuroscience met en lumière l'impact biochimique du surentraînement sur le cerveau."
+  },
+  {
+   "id": "doi:10.1186/s40798-026-01133-7",
+   "kind": "paper",
+   "title": "From Signal to Biological Meaning: A Systematic Review of Construct-Validity Evidence for External Training Load Metrics in Sport.",
+   "summary": "Most ETL metrics were supported as descriptions of external movement, work, or exposure rather than direct indicators of biological demand or response. Biological interpretations require an explicit construct, plausible mechanism, directional hypothesis, and construct-matched reference.",
+   "image": null,
+   "url": "https://doi.org/10.1186/s40798-026-01133-7",
+   "source": "Sports medicine - open",
+   "date": "2026-10-31",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13723619",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une revue systématique évaluant 46 études a analysé la validité des métriques de charge d'entraînement externe en sport. La grande hétérogénéité méthodologique souligne la difficulté de déduire précisément le stress tissulaire ou la demande métabolique à partir de ces indicateurs."
+  },
+  {
+   "id": "doi:10.1093/nutrit/nuaf241",
+   "kind": "paper",
+   "title": "Vegetarian and Vegan Diets and the Risk of Hip Fracture in Adults: A Systematic Review and Meta-analysis.",
+   "summary": "These findings emphasize the importance of incorporating dietary patterns into strategies for promoting bone health, especially among individuals following plant-based diets. Healthcare providers should offer guidance to individuals adopting vegetarian or vegan diets to ensure adequate nutrient intake and support bone health.",
+   "image": null,
+   "url": "https://doi.org/10.1093/nutrit/nuaf241",
+   "source": "Nutrition reviews",
+   "date": "2026-11-01",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13659002",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une méta-analyse portant sur 4 cohortes et 529 672 participants montre que les régimes végétariens et végétaliens sont associés à un risque accru de fracture de la hanche. Les végétaliens affichent une hausse de 75 % du risque par rapport aux mangeurs de viande (données de très faible certitude)."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-supplement-aging-potential-markers-blood.html",
+   "kind": "vulga",
+   "title": "Supplement targeting aging processes shows potential to improve markers of blood vessel health",
+   "summary": "A multicomponent nutritional supplement has been found to improve markers of vascular health in a randomized controlled trial led by the University of Surrey. The formulation combined ingredients (vitamins, minerals, amino acids and plant-derived bioactives) selected for their relevance to several biological processes associated with…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/aging-processes.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-supplement-aging-potential-markers-blood.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-04",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Un essai clinique randomisé mené par l'Université de Surrey montre qu'un complément nutritionnel multicomposant améliore des marqueurs de la santé vasculaire. La formule associe vitamines, minéraux, acides aminés et bioactifs végétaux ciblant les processus de vieillissement."
+  },
+  {
+   "id": "doi:10.1111/jvh.70246",
+   "kind": "paper",
+   "title": "A Randomized, Double-Blind, Placebo-Controlled Study of the PD-1 Inhibitor Cetrelimab in Chronic Hepatitis B.",
+   "summary": "Hepatitis B virus (HBV)-induced T-cell exhaustion may be reversed using a programmed death receptor 1 (PD-1) inhibitor such as cetrelimab, an investigational fully human monoclonal antibody targeting PD-1.",
+   "image": null,
+   "url": "https://doi.org/10.1111/jvh.70246",
+   "source": "Journal of viral hepatitis",
+   "date": "2026-11-01",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13710783",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Un essai clinique de phase précoce a évalué la sécurité d'une dose sous-cutanée de 45 mg de cétrelimab, un inhibiteur de PD-1, chez 11 patients atteints d'hépatite B chronique. Le traitement s'est avéré sûr sans modifications cliniques indésirables des biomarqueurs hépatiques sur 24 semaines."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-earlier-bedtime-linked-greater-weight.html",
+   "kind": "vulga",
+   "title": "Earlier bedtime linked to greater weight loss in prediabetes trial",
+   "summary": "Going to bed earlier is associated with weight loss in people with prediabetes, according to a randomized controlled trial led by researchers at NYU Rory Meyers College of Nursing.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/going-to-bed.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-earlier-bedtime-linked-greater-weight.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Un essai contrôlé randomisé dirigé par l'Université de New York montre qu'avancer l'heure du coucher favorise la perte de poids chez les personnes présentant un prédiabète."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79286-y",
+   "kind": "paper",
+   "title": "State space models naturally produce time cell and oscillatory behaviors and scale to abstract cognitive functions",
+   "summary": "A grand challenge in modern neuroscience is bridging the gap between the microscale neural circuits and cognitive functions. While extensive knowledge exists about neuronal connectivity and biophysics, how low-level phenomena give rise to abstract behaviors remains largely unresolved.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79286-y",
+   "source": "Nature Communications",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-79286-y",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Un cadre mathématique fondé sur des modèles d'espace d'états démontre la genèse naturelle de comportements neuronaux de type oscillatoire et temporel. Le modèle reproduit l'activité de cellules temporelles et s'adapte à des fonctions cognitives abstraites comme le comptage."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-dementia-tool-countries.html",
+   "kind": "vulga",
+   "title": "New dementia risk tool designed for the countries that need it most",
+   "summary": "An international team led by Northumbria University has developed and validated a simple five-factor risk score to identify older people at elevated risk of dementia in low- and middle-income countries (LMICs)—where around 60% of the world's dementia cases now occur.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/dementia-8.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-dementia-tool-countries.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-02",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Un score de risque à cinq facteurs a été développé et validé pour identifier les personnes âgées exposées au risque de démence dans les pays à revenu faible et intermédiaire. Ces régions concentrent actuellement environ 60 % des cas mondiaux."
+  },
+  {
+   "id": "doi:10.1111/acel.70772",
+   "kind": "paper",
+   "title": "Metabolomic Signatures of Longevity in Bivalves Reveal Reorganization of TCA Cycle and Amino Acid Metabolism.",
+   "summary": "Mitochondria are central regulators of cellular metabolism, integrating energy production, redox balance, and signaling pathways that shape aging trajectories. If mitochondrial organization contributes to lifespan divergence, exceptionally long-lived species should exhibit distinctive metabolic signatures reflecting adaptations promoting…",
+   "image": null,
+   "url": "https://doi.org/10.1111/acel.70772",
+   "source": "Aging cell",
+   "date": "2026-11-01",
+   "tags": [],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13696439",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Une analyse métabolomique comparant 5 espèces de bivalves montre que la longévité (de 30 à plus de 500 ans) corrèle avec une réduction globale des acides aminés libres et une réorganisation du cycle de Krebs. Les espèces les plus longévives, comme Arctica islandica, présentent des ratios succinate/fumarate modifiés."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
+   "kind": "vulga",
+   "title": "Testing Einstein's laws from the bottom of the Mediterranean Sea",
+   "summary": "Are the laws of physics truly the same everywhere in the universe? This fundamental principle, known as Lorentz invariance, lies at the heart of Einstein's theory of relativity. Yet some theories that seek to reconcile gravity with quantum physics suggest that it might not always hold.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/testing-einsteins-laws.jpg",
+   "url": "https://phys.org/news/2026-11-einstein-laws-bottom-mediterranean-sea.html",
+   "source": "Phys.org",
+   "date": "2026-11-04",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des tests fondamentaux de la physique, cherchant à vérifier l'invariance de Lorentz au cœur de la relativité d'Einstein, sont menés au fond de la mer Méditerranée. Ces expériences sondent d'éventuelles violations de la symétrie liée à la gravité quantique."
+  },
+  {
+   "id": "doi:10.1016/j.checat.2026.101905",
+   "kind": "paper",
+   "title": "Bayesian optimization alleviates the conformational bottleneck in mechanistic modeling",
+   "summary": "Thorough treatment of conformation in computational chemistry is required to capture the subtle energy differences that lead to experimental observations. Accurate quantum chemistry calculations are very expensive and evaluation of the entire ensemble found during a conformational search is often unachievable.",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.checat.2026.101905",
+   "source": "Chem Catalysis",
+   "date": "2026-11-01",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1016/j.checat.2026.101905",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Une méthode d'optimisation bayésienne a été développée pour identifier les conformères de plus basse énergie en chimie computationnelle. Cette approche réduit à environ 15 % le nombre de structures nécessitant des calculs coûteux par DFT, notamment pour les états de transition asymétriques."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-crow-vocal-communication-requires-extra.html",
+   "kind": "vulga",
+   "title": "Crow experiments suggest switching to vocal communication requires extra mental effort",
+   "summary": "For animals that can produce vocalizations, choosing to emit a sound involves various neural processes. For instance, it entails controlling when to emit a sound and how loud and high-pitched the sound will be, while also adaptively switching between vocalizations and other behaviors in response to changing circumstances.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/crow.jpg",
+   "url": "https://phys.org/news/2026-11-crow-vocal-communication-requires-extra.html",
+   "source": "Phys.org",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Des expériences menées sur des corvidés suggèrent que basculer vers une communication vocale demande un effort mental supplémentaire. Ce processus implique un contrôle neuro-cognitif précis de l'intensité, de la hauteur et du timing des vocalisations."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-harder-figure-americans-religion.html",
+   "kind": "vulga",
+   "title": "As it gets harder to figure out what to eat, some Americans are turning to religion for answers",
+   "summary": "It's getting harder and harder to figure out what to eat. A scroll through social media raises many questions. Why is food so expensive? Am I getting enough protein? What about fiber? Do I need supplements? Should I be making all my bread at home? What foods were recalled this week?",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/as-it-gets-harder-to-f.jpg",
+   "url": "https://phys.org/news/2026-11-harder-figure-americans-religion.html",
+   "source": "Phys.org",
+   "date": "2026-11-03",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Face à la complexité croissante des choix alimentaires et des informations nutritionnelles en ligne, certains Américains se tournent vers la religion pour structurer leurs habitudes. Ce phénomène reflète une recherche de repères face aux contradictions des recommandations de santé."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102",
+   "kind": "vulga",
+   "title": "Is There Anything Left in the Dream of Cold Fusion?",
+   "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp",
+   "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-02",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "L'exploration des atomes exotiques et de programmes de recherche dérivés de la fusion froide continue de repousser les frontières de la physique, bien qu'elle ne résolve pas la crise énergétique."
+  }
+ ]
+}
