@@ -141,6 +141,22 @@ body {
 .star[aria-pressed="true"] { color: var(--star); }
 .star:focus-visible, .oa:focus-visible, .chip:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 
+.episode { grid-column: 1 / -1; max-width: 760px; width: 100%; justify-self: center; }
+.episode p { display: block; -webkit-line-clamp: none; color: var(--text); }
+.episode h3 { margin: 8px 0 0; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.episode ul { margin: 0; padding-left: 20px; font-size: 14.5px; display: grid; gap: 4px; }
+.episode details { font-size: 14px; margin-top: 4px; }
+.episode summary { cursor: pointer; color: var(--muted); font-weight: 600; }
+.episode details ul { margin-top: 6px; list-style: none; padding-left: 0; }
+.episode .t { font-variant-numeric: tabular-nums; color: var(--muted); margin-right: 6px; }
+.episode a.date { color: var(--accent); text-decoration: none; font-weight: 600; }
+.speak {
+  font: inherit; font-size: 14px; font-weight: 600; border: 0; cursor: pointer;
+  background: var(--accent); color: #fff; padding: 8px 14px; border-radius: 999px;
+}
+.speak[aria-pressed="true"] { background: var(--text); color: var(--bg); }
+.speak:focus-visible, .episode a.date:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
 .foot { text-align: center; font-size: 12px; color: var(--muted); padding: 8px 16px 32px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }

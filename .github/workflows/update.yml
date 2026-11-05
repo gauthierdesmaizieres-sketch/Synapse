@@ -29,6 +29,13 @@ jobs:
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }} # optionnel
         run: python collector/collect.py
 
+      - name: Résumer le dernier épisode Huberman
+        continue-on-error: true   # un quota Gemini dépassé ne doit pas bloquer l'édition
+        timeout-minutes: 25
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python collector/huberman.py
+
       - name: Publier l'édition
         run: |
           git config user.name "synapse-bot"

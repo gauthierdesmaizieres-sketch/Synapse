@@ -16,6 +16,7 @@ const state = {
   filter: store.get("filter", "all"),
   favs: store.get("favs", {}),          // id -> carte complète (survit aux éditions)
   read: new Set(store.get("read", [])),
+  huberman: [],                          // épisodes résumés (data/huberman.json)
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -95,6 +96,59 @@ function cardHTML(item) {
   </article>`;
 }
 
+// ---- onglet Huberman : fiches d'épisodes + lecture audio du résumé par la synthèse vocale du téléphone
+function episodeHTML(ep, i) {
+  const list = (arr, fn) => (arr?.length ? `<ul>${arr.map(fn).join("")}</ul>` : "");
+  return `
+  <article class="card episode" data-ep="${i}">
+    <div class="body">
+      <div class="meta">
+        <span class="dom"><span class="dot" style="background:#0d9488"></span>Huberman Lab</span>
+        <span>·</span><span>${fmtDate(ep.date)}</span>
+        ${ep.duration ? `<span>·</span><span>${Math.round(ep.duration / 60)} min</span>` : ""}
+      </div>
+      <h2>${esc(ep.title)}</h2>
+      <p>${esc(ep.resume)}</p>
+      ${ep.points?.length ? `<h3>Idées clés</h3>${list(ep.points, (p) => `<li>${esc(p)}</li>`)}` : ""}
+      ${ep.protocoles?.length ? `<h3>Protocoles</h3>${list(ep.protocoles, (p) => `<li><strong>${esc(p.quoi)}</strong>${p.comment ? ` — ${esc(p.comment)}` : ""}</li>`)}` : ""}
+      ${ep.chapitres?.length ? `<details><summary>Chapitres</summary>${list(ep.chapitres, (c) => `<li><span class="t">${esc(c.t)}</span> ${esc(c.titre)}</li>`)}</details>` : ""}
+    </div>
+    <div class="actions">
+      <a class="date" href="${esc(ep.url)}" target="_blank" rel="noopener">Épisode complet ↗</a>
+      ${"speechSynthesis" in window ? `<button class="speak" type="button" aria-pressed="false">▶ Écouter le résumé</button>` : ""}
+    </div>
+  </article>`;
+}
+
+function stopSpeech() {
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  document.querySelectorAll(".speak[aria-pressed='true']").forEach((b) => {
+    b.setAttribute("aria-pressed", "false");
+    b.textContent = "▶ Écouter le résumé";
+  });
+}
+
+function speakEpisode(ep, btn) {
+  const playing = btn.getAttribute("aria-pressed") === "true";
+  stopSpeech();
+  if (playing) return;
+  const text = [ep.title.split("|")[0], ep.resume,
+    ep.points?.length ? "Idées clés. " + ep.points.join(" ") : "",
+    ep.protocoles?.length ? "Protocoles. " + ep.protocoles.map((p) => `${p.quoi}. ${p.comment || ""}`).join(" ") : ""].join(". ");
+  const voice = speechSynthesis.getVoices().find((v) => v.lang.startsWith("fr"));
+  // une phrase par énoncé : Chrome coupe les textes longs au bout de ~15 s
+  const parts = text.match(/[^.!?]+[.!?]*/g) || [];
+  parts.forEach((s, i) => {
+    const u = new SpeechSynthesisUtterance(s.trim());
+    u.lang = "fr-FR";
+    if (voice) u.voice = voice;
+    if (i === parts.length - 1) u.onend = stopSpeech;
+    speechSynthesis.speak(u);
+  });
+  btn.setAttribute("aria-pressed", "true");
+  btn.textContent = "■ Arrêter";
+}
+
 function renderFilters() {
   const items = state.edition?.items || [];
   const counts = {};
@@ -103,6 +157,7 @@ function renderFilters() {
   const chips = [
     { id: "all", label: "Tout", n: items.length },
     { id: "favs", label: "★ À lire", n: favCount },
+    ...(state.huberman.length ? [{ id: "huberman", label: "🎧 Huberman", n: state.huberman.length }] : []),
     ...(state.edition?.domains || []).filter((d) => counts[d.id]).map((d) => ({ id: d.id, label: `${d.emoji} ${d.label}`, n: counts[d.id] })),
   ];
   if (!chips.some((c) => c.id === state.filter)) state.filter = "all";
@@ -115,7 +170,10 @@ function renderFeed() {
   const feed = $("#feed");
   const items = state.edition?.items || [];
   let html = "";
-  if (state.filter === "favs") {
+  stopSpeech();
+  if (state.filter === "huberman") {
+    html = state.huberman.map(episodeHTML).join("");
+  } else if (state.filter === "favs") {
     const favs = Object.values(state.favs).sort((a, b) => (b.savedAt || "").localeCompare(a.savedAt || ""));
     html = favs.length ? favs.map(cardHTML).join("") : `<p class="empty">Aucun favori. Touche ☆ sur une carte pour la garder ici.</p>`;
   } else if (state.filter === "all") {
@@ -159,6 +217,12 @@ async function loadEdition(date) {
 
 async function init() {
   try {
+    const res = await fetch("data/huberman.json", { cache: "no-cache" });
+    state.huberman = res.ok ? (await res.json()).episodes || [] : [];
+  } catch {
+    state.huberman = [];
+  }
+  try {
     const res = await fetch("data/index.json", { cache: "no-cache" });
     state.editions = (await res.json()).editions || [];
   } catch {
@@ -188,6 +252,8 @@ $("#filters").addEventListener("click", (e) => {
 });
 
 $("#feed").addEventListener("click", (e) => {
+  const speak = e.target.closest(".speak");
+  if (speak) return speakEpisode(state.huberman[speak.closest(".episode").dataset.ep], speak);
   const card = e.target.closest(".card");
   if (!card) return;
   const id = card.dataset.id;
