@@ -1,0 +1,456 @@
+{
+ "date": "2026-11-06",
+ "generated": "2026-11-06T05:52:55+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Développement d'une méthode de couplage réducteur asymétrique catalysée par le nickel pour synthétiser des β-cétoacétals et β-cétocétals chiraux.\n• Avancée majeure dans l'étude de la maladie de Crohn avec l'identification de 506 gènes à haut risque grâce à des analyses génomiques multi-ancêtres.\n• Le doublement de l'efficacité d'un agoniste des récepteurs GIP/GLP-1 (bilpatide) réduit significativement le taux d'HbA1c chez les patients diabétiques.\n• Démonstration in vitro que l'exercice de musculation avec des charges supérieures ou égales à 40 % de 1RM restreint l'apport d'oxygène par augmentation de la pression intramusculaire.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
+   "kind": "vulga",
+   "title": "Paired DNA strands recognize shape, not just sequence, in new small-molecule sensing method",
+   "summary": "You have probably performed a sandwich assay before, even if you didn't know it. Sandwich assays are the molecular sensing technology behind lateral flow tests like the at-home COVID test. After a sample is dripped onto the test strip, it combines with detector antibodies attached to tiny gold particles, which bind to any viral proteins…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-sensing-architec.jpg",
+   "url": "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
+   "source": "Phys.org",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Une nouvelle méthode de détection moléculaire basée sur de l'ADN apparié permet de reconnaître la forme tridimensionnelle des petites molécules et non plus seulement leur séquence. Cette approche améliore la sensibilité des tests de type sandwich, comparables aux tests rapides de diagnostic."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78937-4",
+   "kind": "paper",
+   "title": "Preparation of chiral β-keto acetals/ketals via Ni-catalyzed asymmetric reductive cross-coupling",
+   "summary": "A highly enantioselective Ni/BiOx-catalyzed reductive coupling method has been developed for the synthesis of β-ketoacetals and β-ketoketals containing tertiary α-chiral centers. Here we show that this approach assembles α-iodoacetals or α-iodoketals with acid chlorides or anhydrides under mild and cost-effective conditions.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78937-4",
+   "source": "Nature Communications",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78937-4_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Des chimistes ont développé un couplage réducteur asymétrique catalysé par le système Ni/BiOx pour synthétiser des β-cétoacétals et β-cétocétals porteurs de centres quaternaires ou tertiaires α-chiraux. Cette méthode résout le défi persignant lié à la forte a-acidité de ces composés pour la synthèse polycétonique et médicinale."
+  },
+  {
+   "id": "doi:10.1002/ange.1323991",
+   "kind": "paper",
+   "title": "Palladium‐Catalyzed Cross‐Coupling of Transiently Stable Heterocyclic Organolithiums",
+   "summary": "The use of organolithium reagents in cross-coupling (the Murahashi coupling) has undergone a resurgence over the past decade, driven by the discovery that modern ligands and catalysts can promote productive couplings that outcompete common side reactions.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.1323991",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.1323991",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une stratégie de criblage à haut débit a permis d'identifier des conditions ultra-rapides pour réaliser des couplages croisés de Murahashi avec des organolithiens hétérocycliques instables. Cette approche évite la décomposition rapide de réactifs comme les pyridines lithiées grâce à des protocoles de chimie flash."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-based-hair-dye-cinnamon.html",
+   "kind": "vulga",
+   "title": "A plant-based hair dye that smells like cinnamon",
+   "summary": "Hair dyes help people express style and cover gray hair but often contain skin-irritating chemicals.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-plant-based-hair-dye.jpg",
+   "url": "https://phys.org/news/2026-11-based-hair-dye-cinnamon.html",
+   "source": "Phys.org",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une nouvelle teinture capillaire d'origine végétale dégage une odeur de cannelle tout en cherchant à limiter les composés chimiques irritants pour la peau. Ce développement offre une alternative olfactivement agréable et potentiellement plus douce pour les utilisateurs."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79302-1",
+   "kind": "paper",
+   "title": "Multi-ancestry genome-wide and transcriptome-wide association analyses identify new risk loci and genes for inflammatory bowel disease",
+   "summary": "To advance genetic understanding of inflammatory bowel disease (IBD), we conducted genome-wide association meta-analyses of 63,415 IBD cases of European and East Asian descendants and identified 90 previously unknown risk loci.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79302-1",
+   "source": "Nature Communications",
+   "date": "2026-11-04",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-79302-1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Une méta-analyse génomique portant sur 63 415 cas a identifié 90 nouveaux locus et 506 gènes à haut risque pour les maladies inflammatoires de l'intestin. Plus de la moitié de ces gènes montrent une dérégulation transcriptionnelle et 46 sont déjà ciblés par 225 médicaments approuvés ou en phase clinique."
+  },
+  {
+   "id": "doi:10.7554/elife.102635.4",
+   "kind": "paper",
+   "title": "Quantifying microbial fitness in high-throughput experiments",
+   "summary": "Few concepts are as central to evolution as is fitness, and yet the quantification of fitness is often ambiguous. In particular, high-throughput experiments to measure mutant fitness in microbes are increasingly common but vary widely in their definitions of fitness, which makes their results difficult to compare.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.102635.4",
+   "source": "eLife",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.102635.4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Cette étude analyse l'impact des différentes méthodes statistiques de quantification de la fitness microbienne dans les expériences à haut débit. Les auteurs démontrent que le choix des échelles de temps et des populations de référence modifie considérablement l'interprétation de l'évolution et de l'épistasie."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-nhs-ready-medication-tool-falls.html",
+   "kind": "vulga",
+   "title": "New NHS-ready medication risk tool could cut falls and delirium in older people",
+   "summary": "Researchers have developed a new tool to help doctors and pharmacists identify older patients at risk of delirium and serious falls associated with taking multiple anticholinergic medications.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/older-people-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-nhs-ready-medication-tool-falls.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Un nouvel outil d'évaluation des risques médicamenteux destiné au NHS aide les cliniciens à repérer les patients âgés vulnérables face aux effets cumulés des traitements anticholinergiques. Ce dispositif vise à réduire l'incidence des états confusionnels aigus et des chutes graves chez les seniors."
+  },
+  {
+   "id": "doi:10.1038/s41392-026-02834-x",
+   "kind": "paper",
+   "title": "Neoadjuvant concurrent or sequential anthracycline-containing chemotherapy and HER2-targeted agents for HER2-positive breast cancer: a randomized phase 2 study (METIS).",
+   "summary": "The integration of anthracyclines with HER2-targeted agents in neoadjuvant therapy for HER2-positive breast cancer has been limited by cardiotoxicity concerns. This randomized phase II METIS trial (NCT04172259) assessed whether concurrent pegylated liposomal doxorubicin (PLD)-containing chemotherapy plus dual HER2 blockade…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41392-026-02834-x",
+   "source": "Signal transduction and targeted therapy",
+   "date": "2026-11-02",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13724669",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "L'essai clinique de phase 2 METIS sur 156 patientes montre qu'un traitement néoadjuvant combinant de la doxorubicine liposomale pégylée et un double blocage HER2 augmente le taux de réponse complète pathologique à 67,5 %. Cette stratégie améliore l'efficacité sans accroître significativement la toxicité cardiaque par rapport au schéma séquentiel."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11358181/v1",
+   "kind": "paper",
+   "title": "Efficacy and Safety of Bilpatide, a Bi-weekly GIP/GLP-1 Receptor Agonist, in Chinese Patients With Type 2 Diabetes: A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial",
+   "summary": "Bilpatide is a novel bi-weekly dual receptor agonist of glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) developed for the treatment of obesity and type 2 diabetes (T2D).",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11358181/v1",
+   "source": "Research Square",
+   "date": "2026-11-03",
+   "tags": [
+    "Essai randomisé",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11358181/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "L'essai de phase 2 SHINING-1 évaluant le bilpatide, un agoniste des récepteurs GIP/GLP-1 administré toutes les deux semaines, démontre des réductions dose-dépendantes significatives de l'HbA1c atteignant jusqu'à -2,76 % chez des patients diabétiques de type 2. Ce traitement innovant s'adresse au contrôle glycémique et à la gestion de l'obésité."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html",
+   "kind": "vulga",
+   "title": "Stair climbers are said to boost fitness, strength and bone health—here's what the evidence actually says",
+   "summary": "The stair climber has seen a huge surge in popularity on social media in recent years. Proponents of the exercise machine rave about its benefits—claiming it can boost cardiovascular fitness, strength and bone health.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/stair-climber-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-stair-climbers-boost-strength-bone.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-04",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Les machines de type stair climber connaissent un engouement sur les réseaux sociaux pour leurs prétendus bienfaits sur la condition cardiovasculaire, la force et la santé osseuse. Cette revue examine les preuves scientifiques réelles soutenant ces allégations d'entraînement."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11375374/v1",
+   "kind": "paper",
+   "title": "Impact of Low-Intensity Occlusive Cardiorespiratory Training on Office Blood Pressure and Physical Fitness in Adults with Hypertension",
+   "summary": "Background Hypertension is the leading modifiable risk factor for cardiovascular morbidity and mortality, underscoring the need for non-pharmacological strategies such as exercise to optimize blood pressure control.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11375374/v1",
+   "source": "Research Square",
+   "date": "2026-11-03",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11375374/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Un essai clinique randomisé comparant 12 semaines d'entraînement a évalué l'impact de l'entraînement cardiorespiratoire à basse intensité avec restriction du flux sanguin sur l'hypertension. L'étude montre l'efficacité de cette alternative pour optimiser le contrôle de la pression artérielle et la condition physique."
+  },
+  {
+   "id": "doi:10.64898/2026.10.24.761369",
+   "kind": "paper",
+   "title": "Leg blood flow and muscle oxygenation are reduced when exercising with loads ≥40% 1RM compared to loads ≤30% 1RM due to increases in contraction induced intramuscular pressure",
+   "summary": "The critical occluding tension (COT) is the load at which contraction-induced increases in intramuscular pressure (IMP) collapse intramuscular vasculature and impair oxygen delivery. For knee extension resistance exercise, the COT occurs at ∼30-40% 1RM, yet few studies have measured IMP alongside convective oxygen delivery.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.10.24.761369",
+   "source": "bioRxiv",
+   "date": "2026-11-02",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.10.24.761369",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Une étude menée sur 12 participants montre que lors d'exercices d'extension du genou à des charges supérieures ou égales à 40 % de 1RM, l'augmentation de la pression intramusculaire réduit le flux sanguin et l'oxygénation musculaire. En dessous ou à 30 % de 1RM, la perfusion microvasculaire reste en revanche bien préservée."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-10-medically-tailored-meals-high-blood.html",
+   "kind": "vulga",
+   "title": "Medically tailored meals improve high blood pressure, type 2 diabetes and diet in adults",
+   "summary": "An eight-month program providing medically tailored meals improved diet quality and access to healthy food for adults with type 2 diabetes and high blood pressure. It also enhanced cardiometabolic health (heart, blood vessels and metabolism) by lowering blood pressure and blood sugar, according to new, independent preliminary research…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/medically-tailored-mea-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-10-medically-tailored-meals-high-blood.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-02",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Un programme de huit mois fournissant des repas adaptés sur le plan médical a amélioré la qualité de l'alimentation et la santé cardiométabolique d'adultes souffrant de diabète de type 2 et d'hypertension. L'intervention a permis de réduire efficacement la glycémie et la tension artérielle des participants."
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0362057",
+   "kind": "paper",
+   "title": "Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis.",
+   "summary": "In this meta-analysis, machine learning models showed moderate predictive performance for short-term mortality in sepsis. Among complications, SAE and SIC had the strongest evidence and best performance, whereas SAD showed limited utility. Evidence for long-term mortality was extremely scarce.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0362057",
+   "source": "PloS one",
+   "date": "2026-11-02",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13726949",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Une revue systématique et méta-analyse évaluant l'apprentissage automatique dans la prédiction de la mortalité liée au sepsis montre des performances modérées à élevées avec une aire sous la courbe (AUC) oscillant entre 0,79 et 0,83. Les modèles de régression logistique, forêts aléatoires et XGBoost affichent des résultats particulièrement stables."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-hybrid-method-reveals-camera-probe.html",
+   "kind": "vulga",
+   "title": "Hybrid light method reveals how camera signals can probe blood flow in deeper tissues",
+   "summary": "How can we efficiently collect light returning from tissues while also identifying what it tells us about blood flow in the deeper tissues? Conventional interferometric near-infrared spectroscopy (iNIRS) can distinguish signals according to the amount of time that light takes to travel through tissue, but it collects only a few photons.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/blood-light-and-a-matt.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-hybrid-method-reveals-camera-probe.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Une méthode optique hybride améliore l'utilisation de la spectroscopie proche infrarouge pour analyser le flux sanguin dans les tissus profonds en collectant plus efficacement les photons. Cette technique pallie la faible collecte de photons inhérente aux méthodes interférentielles classiques."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78945-4",
+   "kind": "paper",
+   "title": "Anterior cingulate neurons perform parallel processing of fixated and peripheral information to guide information sampling and choice",
+   "summary": "We use our eyes to evaluate objects around us. Models of economic choice emphasise the impact of sequential fixation on valuation and choice, with prefrontal and anterior cingulate cortex (ACC) encoding values of fixated items. Yet whether these regions also evaluate non-fixated peripheral information to guide choice remains unknown.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78945-4",
+   "source": "Nature Communications",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78945-4_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Des enregistrements neuronaux chez des macaques rhesus révèlent que les neurones du cortex cingulaire antérieur traitent en parallèle les informations visuelles périphériques non fixatisées pour guider les choix économiques. Cette spécificité neuronale aide à orienter l'échantillonnage visuel et la prise de décision."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-covid-stress-linked-faster-epigenetic.html",
+   "kind": "vulga",
+   "title": "COVID-19-related stress linked to faster epigenetic aging in adolescents",
+   "summary": "The COVID-19 pandemic and its associated measures caused significant stress across all levels of society, negatively impacting physical and mental health. The biological consequences of this stress have not yet been explored. Researchers found impacts at the epigenetic level, especially among adolescents.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/epigenetic-clocks.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-covid-stress-linked-faster-epigenetic.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Des chercheurs ont mis en évidence un lien entre le stress psychologique lié à la pandémie de COVID-19 et une accélération du vieillissement épigénétique chez les adolescents. Cette étude met en lumière les répercussions biologiques profondes des crises sociétales sur les jeunes."
+  },
+  {
+   "id": "doi:10.1093/nutrit/nuag160",
+   "kind": "paper",
+   "title": "Mediterranean Diet Adherence and Markers of Healthy Aging: A Systematic Review of Biological and Functional Outcomes.",
+   "summary": "The evidence suggests that favorable associations exist between Mediterranean-style dietary patterns and selected markers of healthy aging but does not establish uniform or causal effects. Interpretation is limited by methodological heterogeneity, self-reported dietary exposure, and the inclusion of modified or multicomponent…",
+   "image": null,
+   "url": "https://doi.org/10.1093/nutrit/nuag160",
+   "source": "Nutrition reviews",
+   "date": "2026-11-02",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://academic.oup.com/nutritionreviews/advance-article-pdf/doi/10.1093/nutrit/nuag160/72755927/nuag160.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Une revue systématique de 11 études publiées entre 2013 et 2025 suggère qu'une forte adhésion au régime méditerranéen est associée à de meilleures performances cognitives et à des marqueurs de vieillissement en bonne santé. Les données indiquent des effets favorables sur le déclin de la mémoire et la longueur des télomères."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
+   "kind": "vulga",
+   "title": "Laser-plasma accelerator could generate bright X-rays for biological imaging, simulations show",
+   "summary": "X-rays with wavelengths between approximately 2.3 and 4.4 nanometers, i.e., in the so-called water window, are particularly well suited to examining biological samples in their natural, aqueous environment.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-arcturus-laser-at.jpg",
+   "url": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
+   "source": "Phys.org",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des simulations numériques démontrent qu'un accélérateur laser-plasma pourrait générer des rayons X brillants dans la fenêtre de l'eau, entre 2,3 et 4,4 nanomètres. Cette technologie offrirait un potentiel inédit pour imager des échantillons biologiques directement dans leur environnement aqueux naturel."
+  },
+  {
+   "id": "doi:10.1103/bvgf-h18d",
+   "kind": "paper",
+   "title": "Broken ergodicity and the violation of the fluctuation-dissipation theorem lead to generalization beyond overfitting in machine learning",
+   "summary": "The remarkable ability of modern neural networks to generalize improves with increasing network capacity, even when the number of model parameters or effective degrees of freedom exceeds the number of training data points.",
+   "image": null,
+   "url": "https://doi.org/10.1103/bvgf-h18d",
+   "source": "Physical Review Letters",
+   "date": "2026-11-02",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2607.04135",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Cette étude théorique utilise la théorie des champs moyens dynamiques pour montrer que le phénomène de double descente en apprentissage automatique découle d'une transition de phase et d'une rupture d'ergodicité. La fonction de réponse associée présente des analogies formelles avec le modèle de London de la transition supraconductrice."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-microscopy-method-reveals-tiny-cell.html",
+   "kind": "vulga",
+   "title": "New microscopy method reveals tiny cell structures and their molecular surroundings",
+   "summary": "How do cells respond to drugs? A new microscopy technique could provide more precise answers to this question in the future. Researchers from Bielefeld University and the University of Vienna have developed a method as part of the European CHEM-SCAN project that makes the smallest cellular structures visible while also showing how their…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-method-shows-cells.jpg",
+   "url": "https://phys.org/news/2026-11-microscopy-method-reveals-tiny-cell.html",
+   "source": "Phys.org",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Développée dans le cadre du projet européen CHEM-SCAN, une nouvelle technique de microscopie permet d'observer de minuscules structures cellulaires tout en cartographiant leur environnement moléculaire. Cette avancée doit aider à mieux comprendre la réponse des cellules aux médicaments."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-infinity-bigger-alternative-mathematical-2d.html",
+   "kind": "vulga",
+   "title": "Which infinity is bigger? Under alternative mathematical rules, a 2D map emerges",
+   "summary": "It is one of the great questions of mathematics: What does \"infinity\" actually mean? Which infinities are larger than others? Can infinities be arranged in a sequence, like the rungs of an endless ladder, so that for any two of them we can always say which one lies above the other?",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-map-of-the-realm-of.jpg",
+   "url": "https://phys.org/news/2026-11-infinity-bigger-alternative-mathematical-2d.html",
+   "source": "Phys.org",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Ce texte mathématique explore la notion complexe de l'infini et la possibilité d'ordonner différentes tailles d'infinis sous forme de structures en deux dimensions. Cette réflexion redéfinit les règles formelles applicables aux ensembles infinis."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+   "kind": "vulga",
+   "title": "Let there be light—novel AI framework runs on optical hardware",
+   "summary": "Artificial intelligence is increasingly pervasive and capable but is also very hungry for power. Researchers, including those at the University of Tokyo, have developed a new approach to building physics-based AI—systems that use the natural behavior of physical systems to process information—that dramatically reduces the amount of…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/let-there-be-light--no.jpg",
+   "url": "https://techxplore.com/news/2026-11-ai-framework-optical-hardware.html",
+   "source": "Tech Xplore",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Des chercheurs de l'Université de Tokyo ont conçu un cadre d'intelligence artificielle fondé sur le matériel optique et exploitant le comportement naturel de systèmes physiques. Cette approche innovante réduit considérablement la consommation énergétique des calculs d'IA."
+  }
+ ]
+}

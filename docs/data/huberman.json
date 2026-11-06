@@ -1,0 +1,96 @@
+{
+ "episodes": [
+  {
+   "id": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
+   "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+   "url": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
+   "date": "2026-11-05",
+   "duration": 2316,
+   "resume": "Dans cet épisode, le Dr Andrew Huberman accueille la Dr Susanna Søberg pour discuter des effets de l'exposition délibérée au froid et à la chaleur sur le métabolisme. L'exposition au froid stimule la graisse brune, améliore la sensibilité à l'insuline et active le système nerveux sympathique via le choc thermique. En combinant judicieusement le froid et le sauna, il est possible de réduire l'inflammation systémique et d'augmenter la dépense énergétique. La conclusion principale est qu'un stress thermique modéré mais régulier développe la résilience cellulaire et offre d'importants bénéfices métaboliques à long terme.",
+   "points": [
+    "L'exposition à une eau inconfortablement froide déclenche un choc thermique qui active la graisse brune et le système nerveux sympathique.",
+    "Le frisson et la réadaptation thermique provoquent une augmentation significative de la dépense calorique et de la thermogenèse.",
+    "L'exposition régulière au froid améliore la sensibilité à l'insuline et favorise un meilleur contrôle du glucose sanguin.",
+    "Le principe de Søberg stipule qu'il faut toujours terminer une session d'exposition thermique par le froid afin d'obliger le corps à se réchauffer activement.",
+    "Cumuler seulement 11 minutes de froid et 57 minutes de sauna par semaine suffit pour obtenir des adaptations métaboliques durables."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Seuil d'exposition au froid",
+     "comment": "Utiliser une eau suffisamment froide pour être inconfortable et provoquer une réaction de choc (hyperventilation), pendant 1 à 2 minutes par immersion."
+    },
+    {
+     "quoi": "Volume hebdomadaire de froid",
+     "comment": "Cumuler un total de 11 minutes d'exposition au froid par semaine, réparties en 2 à 3 sessions."
+    },
+    {
+     "quoi": "Volume hebdomadaire de sauna",
+     "comment": "Cumuler environ 57 minutes de sauna par semaine (à environ 80 °C), réparties en séances de 10 à 15 minutes, 2 à 3 fois par semaine."
+    },
+    {
+     "quoi": "Le principe de Søberg",
+     "comment": "Lors des séances alternant chaud et froid, toujours terminer par l'exposition au froid et laisser le corps se réchauffer naturellement sans prendre de douche chaude immédiatement."
+    },
+    {
+     "quoi": "Exposition ambiante au froid pour le sommeil",
+     "comment": "Dormir dans une pièce réglée à environ 19 °C permet d'activer la graisse brune au fil du temps."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Susanna Søberg"
+    },
+    {
+     "t": "00:00:20",
+     "titre": "Protocole de froid délibéré, température, choc thermique et résilience"
+    },
+    {
+     "t": "00:02:12",
+     "titre": "Comparaison des environnements froids et graisse brune"
+    },
+    {
+     "t": "00:04:14",
+     "titre": "Graisse brune et voies de régulation de la température"
+    },
+    {
+     "t": "00:07:37",
+     "titre": "Frissons, baisse ultérieure de température et stress sain"
+    },
+    {
+     "t": "00:10:54",
+     "titre": "Métabolisme, sensibilité à l'insuline, graisse brune et adaptation au froid"
+    },
+    {
+     "t": "00:13:22",
+     "titre": "Exposition au froid et activation de la graisse brune"
+    },
+    {
+     "t": "00:20:47",
+     "titre": "Baignade hivernale et protocole de sauna ; sensibilité à l'insuline"
+    },
+    {
+     "t": "00:26:40",
+     "titre": "Outil : Durée minimale dans le froid et le chaud pour des bénéfices métaboliques"
+    },
+    {
+     "t": "00:29:46",
+     "titre": "Exposition au froid et au chaud, réduction de l'inflammation"
+    },
+    {
+     "t": "00:33:03",
+     "titre": "Outil : Le principe de Søberg, terminer par le froid et métabolisme"
+    },
+    {
+     "t": "00:35:21",
+     "titre": "Outil : Protocole de froid rapide et bénéfices métaboliques"
+    },
+    {
+     "t": "00:37:39",
+     "titre": "Remerciements"
+    }
+   ]
+  }
+ ],
+ "failed": {}
+}
