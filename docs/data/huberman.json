@@ -90,6 +90,133 @@
      "titre": "Remerciements"
     }
    ]
+  },
+  {
+   "id": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+   "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+   "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+   "date": "2026-11-02",
+   "duration": 8320,
+   "resume": "Dans cet épisode, Andrew Huberman accueille l'auteur Robert Greene pour explorer le concept du « sublime » et la manière d'enrichir l'expérience quotidienne. Greene explique comment dépasser les frontières restreintes de l'égo et des routines modernes en se reconnectant à nos sensations primordiales, à la nature et à la prise de conscience de la mort. Ils abordent l'importance de ralentir, d'embrasser la vulnérabilité dans l'amour et d'explorer la créativité pour surmonter l'aliénation causée par les technologies modernes. En conclusion, développer une profonde sensibilité au monde extérieur permet de redonner du sens à l'existence et d'accéder à une forme de transcendance.",
+   "points": [
+    "Le sublime consiste à sortir du cercle restreint de son égo pour faire l'expérience d'une réalité plus vaste, mêlant émerveillement et intensité.",
+    "La surstimulation technologique et les réseaux sociaux restreignent notre attention et nous rendent vulnérables à la manipulation sociale.",
+    "La lenteur volontaire, notamment à travers l'écriture manuscrite et la méditation, permet de restructurer notre pensée et d'approfondir la perception du temps.",
+    "L'amour sublime exige d'abaisser ses défenses et d'accepter la vulnérabilité face à l'autre au lieu de céder à la méfiance contemporaine.",
+    "Retrouver les inclinations obsédantes de son enfance permet de redécouvrir la tâche de sa vie et de renouer avec une motivation authentique."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Pratique de la méditation quotidienne",
+     "comment": "Méditer chaque matin (ex. 40 minutes) pour ralentir le flux des pensées et modifier la structure neuronale favorisant la présence."
+    },
+    {
+     "quoi": "Exercice du souvenir de soi (Self-remembering)",
+     "comment": "Porter une attention soutenue et consciente à un objet ou une expérience quotidienne pendant quelques minutes en se répétant mentalement de s'en souvenir."
+    },
+    {
+     "quoi": "Écriture manuscrite",
+     "comment": "Rédiger ses réflexions ou projets à la main pour forcer le cerveau à ralentir, mieux traiter l'information et affiner la pensée."
+    },
+    {
+     "quoi": "Déconnexion numérique volontaire",
+     "comment": "Mettre son téléphone dans un tiroir ou hors de vue durant les périodes de travail ou d'interaction sociale pour préserver sa capacité de focalisation."
+    },
+    {
+     "quoi": "Immersion et observation dans la nature",
+     "comment": "S'exposer à de grands espaces naturels (montagne, désert, océan) ou observer attentivement des éléments naturels pour modifier ses échelles de perception temporelle et spatiale."
+    },
+    {
+     "quoi": "Exploration des inclinations d'enfance",
+     "comment": "Lister et analyser les activités ou sujets qui suscitaient une fascination naturelle durant l'enfance afin de réorienter ses choix de carrière et de vie."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Robert Greene"
+    },
+    {
+     "t": "00:02:47",
+     "titre": "La loi du sublime"
+    },
+    {
+     "t": "00:07:40",
+     "titre": "Accéder au sublime dans la vie quotidienne, drogues et AVC"
+    },
+    {
+     "t": "00:15:43",
+     "titre": "Attention, neuro-sublime et outils : le souvenir de soi et la méditation"
+    },
+    {
+     "t": "00:23:06",
+     "titre": "Perception du monde et émotion"
+    },
+    {
+     "t": "00:29:57",
+     "titre": "Échelles spatiales et temporelles, enfance et le temps comme un fleuve"
+    },
+    {
+     "t": "00:39:08",
+     "titre": "Le sublime de la mort et les expériences de mort imminente"
+    },
+    {
+     "t": "00:44:06",
+     "titre": "La pieuvre, modifier notre perception du temps et les espèces animales"
+    },
+    {
+     "t": "00:50:13",
+     "titre": "Attention, téléphone et vulnérabilité à l'influence : l'outil de la lenteur"
+    },
+    {
+     "t": "00:55:03",
+     "titre": "Lenteur et sortie du monde social humain : l'alpinisme"
+    },
+    {
+     "t": "01:01:53",
+     "titre": "Expérimenter le monde au-delà de nous : penser de manière musicale"
+    },
+    {
+     "t": "01:07:57",
+     "titre": "La lenteur dans l'écriture : l'écriture manuscrite, seiches et gestes des mains"
+    },
+    {
+     "t": "01:16:31",
+     "titre": "Enfance : découvrir la tâche de sa vie"
+    },
+    {
+     "t": "01:23:31",
+     "titre": "AVC et perspicacité : trouver le sublime dans le quotidien"
+    },
+    {
+     "t": "01:28:55",
+     "titre": "État de flow, expériences transcendantes et prodiges"
+    },
+    {
+     "t": "01:37:02",
+     "titre": "Le sublime de l'amour, vulnérabilité et tomber amoureux"
+    },
+    {
+     "t": "01:42:33",
+     "titre": "Amour, confiance et réconciliation du masculin et du féminin"
+    },
+    {
+     "t": "01:47:16",
+     "titre": "Religion, conscience de la mort et perte de spiritualité"
+    },
+    {
+     "t": "01:56:28",
+     "titre": "Le meilleur et le pire de l'être humain"
+    },
+    {
+     "t": "02:02:49",
+     "titre": "Accéder au meilleur de l'humanité : lenteur, créativité et sens"
+    },
+    {
+     "t": "02:10:42",
+     "titre": "Prochain livre : l'invisible et la fiction"
+    }
+   ]
   }
  ],
  "failed": {}

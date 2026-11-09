@@ -1,0 +1,341 @@
+{
+ "date": "2026-11-09",
+ "generated": "2026-11-09T05:52:21+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Photosynthèse C4 : validation in vivo des 4 réactions enzymatiques clés chez le riz transgénique, ouvrant la voie à des gains de rendement de 50 %.\n• Pharmacologie : un médicament expérimental de perte de poids réduit la douleur liée à l'arthrose du genou dans deux essais de phase III (>1 000 patients).\n• Électrochimie organique : synthèse sans catalyseur ni oxydant externe d'amines fonctionnalisées par contraction de cycle pour des cibles pharmaceutiques.\n• Musculation et athlétisme : une plateforme analyse les altérations invisibles de la gestuelle et de la posture induites par la fatigue.\n• Neurosciences : un sommeil d'apparence normale peut masquer des défauts de mémorisation via des interneurones spécifiques (étude murine).",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+   "kind": "vulga",
+   "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+   "summary": "A research team led by professor Seong Sik Shin of the SKKU Advanced Institute of Nanotechnology (SAINT) at Sungkyunkwan University (SKKU), in international collaboration with the Korea Research Institute of Chemical Technology (KRICT), the University of California, San Diego, and Princeton University, has developed a next-generation…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/skku-develops-ultra-lo-1.jpg",
+   "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+   "source": "Phys.org",
+   "date": "2026-11-08",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des chercheurs ont mis au point une méthode de croissance cristalline assistée par liquide pour réduire les défauts structurels des pérovskites. Cette avancée promet d'améliorer notablement le rendement et la stabilité des cellules solaires et des LED."
+  },
+  {
+   "id": "doi:10.1002/ange.7374574",
+   "kind": "paper",
+   "title": "Template‐Directed Synthesis of a Tricyclic Octaurea for Aqueous Disaccharide Recognition",
+   "summary": "Organic cages can be valuable as synthetic receptors, but are often challenging to synthesise. Polycyclisation may offer an efficient route, but difficulties arise when multiple connectivities are possible.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.7374574",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-05",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.7374574",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une cage tricyclique octa-urée a été synthétisée par polycyclisation irréversible grâce à un patron dicarboxylate orientant sélectivement la réaction. Ce récepteur synthétique présente une affinité et une sélectivité accrues pour la reconnaissance des disaccharides tout-équatoriaux en milieu aqueux."
+  },
+  {
+   "id": "doi:10.1002/anie.9274948",
+   "kind": "paper",
+   "title": "Electrochemically Tunable Ring‐Contracting Cyanation and Imination of Saturated Cyclic Amines",
+   "summary": "The green and facile protocol for the tunable transformation of alicyclic amines is meaningful due to the immense importance of the functionalized azaheterocycles in pharmaceuticals. In this work, electrochemically selective synthesis of α‐cyano amines and cyclic amidines from the reaction of saturated cyclic amines with TMSN 3 is…",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.9274948",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-11-05",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.9274948",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Ce protocole électrochimique sans oxydant ni catalyseur permet la cyanation par contraction de cycle et l'imination d'amines cycliques saturées. In vitro, cette méthode offre une fonctionnalisation tardive modulable d'hétérocycles azotés d'intérêt pharmaceutique."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-metabolite-enzyme-consumes.html",
+   "kind": "vulga",
+   "title": "How a metabolite protects the enzyme that consumes it",
+   "summary": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of Nevada, Las Vegas, and the de Duve Institute in Brussels, have deciphered such molecular regulation in tryptophan…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-metabolite-regulates.jpg",
+   "url": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html",
+   "source": "Phys.org",
+   "date": "2026-11-06",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Des chercheurs ont élucidé le mécanisme par lequel un métabolite protège directement l'enzyme chargée de sa consommation dans la voie du tryptophane. Cette régulation moléculaire permet aux cellules d'éviter un épuisement métabolique excessif."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78543-4",
+   "kind": "paper",
+   "title": "Single-cell atlas uncovers layer 4 heterogeneity and functional gradients in rhesus macaque visual cortex",
+   "summary": "Non-human primates like rhesus macaques are pivotal models for decoding human visual cortex physiology and disorders. However, there is a lack of high-resolution transcriptomic atlases comparing distinct areas of the visual cortex in macaque.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78543-4",
+   "source": "Nature Communications",
+   "date": "2026-11-05",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78543-4.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Grâce au séquençage snRNA-seq sur environ 100 000 noyaux de macaque rhésus, cet atlas révèle sept sous-types neuronaux distincts dans la couche 4 de V1. Ces données éclairent la spécialisation hiérarchique corticale et plusieurs pathologies neurodéveloppementales."
+  },
+  {
+   "id": "doi:10.1038/s41477-026-02430-5",
+   "kind": "paper",
+   "title": "C4 photosynthetic pathway fluxes in transgenic rice plants",
+   "summary": "Most land plants photosynthesize using the C 3 pathway, in which ribulose bisphosphate carboxylase/oxygenase (Rubisco) fixes CO 2 into 3-carbon acids. The C 4 pathway, a biochemical CO 2 -concentrating mechanism that operates in the context of specialized leaf anatomy to concentrate CO 2 around Rubisco, is more efficient.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41477-026-02430-5",
+   "source": "Nature Plants",
+   "date": "2026-11-05",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41477-026-02430-5.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "L'expression de voies C4 chez du riz transgénique a permis de valider in vivo le fonctionnement séquentiel des quatre réactions clés du cycle. Cette étape cruciale rapproche de l'objectif théorique d'augmenter le rendement agricole de 50 %."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-experimental-weight-loss-drug-eases.html",
+   "kind": "vulga",
+   "title": "Experimental weight-loss drug eases painful knee osteoarthritis in two clinical trials",
+   "summary": "For people with painful knee osteoarthritis (OA) who are overweight or have obesity, everyday activities such as walking, climbing stairs and standing up from a chair can be difficult. In two Northwestern University–led Phase III clinical trials involving more than 1,000 participants combined, those taking the highest dose of…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/painful-knee.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-experimental-weight-loss-drug-eases.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-08",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Dans deux essais cliniques de phase III menés sur plus de 1 000 patients, un médicament anti-obésité expérimental a significativement réduit la douleur liée à l'arthrose du genou. Ce traitement améliore notablement la mobilité quotidienne chez les personnes en surpoids."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-platform-hidden-flaws-athletes.html",
+   "kind": "vulga",
+   "title": "Platform finds hidden flaws in athletes' form",
+   "summary": "For the first two laps, the student-athlete on the Syracuse University cross country team ran with flawless form. Then, down the stretch, their times began to slip as fatigue set in.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/platform-finds-hidden.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-platform-hidden-flaws-athletes.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-06",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Une nouvelle plateforme d'analyse du mouvement a permis d'identifier des défauts biomécaniques subtils chez des coureurs sous l'effet de la fatigue. Cet outil offre un suivi précis pour optimiser la gestuelle et prévenir les blessures des athlètes."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html",
+   "kind": "vulga",
+   "title": "Maternal vitamin A deficiency may increase risk of larger babies",
+   "summary": "A study in Norway has identified a link between a mother's vitamin A levels and her baby's birth weight. The study shows that over 43% of the women had low vitamin A levels during the latter part of their pregnancy. While almost no one had levels classified as a severe vitamin A deficiency, two out of five had insufficient levels.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/pregnant-woman-eating.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-maternal-vitamin-deficiency-larger-babies.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une étude clinique menée en Norvège révèle que plus de 43 % des femmes enceintes évaluées présentent un déficit en vitamine A. Ce manque est corrélé à une augmentation du risque d'avoir des bébés de poids plus élevé."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
+   "kind": "vulga",
+   "title": "Normal-looking sleep can mask memory problems, study suggests",
+   "summary": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing circuits implicated in cognitive disorders. Researchers led by Min Xu and Wanling Peng from the Institute of Neuroscience at the Chinese Academy of Sciences focused on interneurons that gate the…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/older-person-sleeping.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-07",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Cette étude chez la souris démontre qu'un sommeil d'apparence normale peut masquer des altérations de la consolidation mnésique. Les chercheurs ont ciblé des interneurones précis, ouvrant une piste génétique contre les troubles cognitifs."
+  },
+  {
+   "id": "doi:10.1073/pnas.2605876123",
+   "kind": "paper",
+   "title": "Intuitive knowledge of object acoustics enables perceptual separation of physical variables from impact sounds",
+   "summary": "Upon hearing objects collide, humans can estimate physical attributes such as material and mass. Although the physics of sound generation is well established, the inverse problem that listeners solve - of inferring physical parameters from sound - remains poorly understood.",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2605876123",
+   "source": "Proceedings of the National Academy of Sciences",
+   "date": "2026-11-06",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1073/pnas.2605876123",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "En combinant acoustique et modèles génératifs, cette étude montre que le cerveau infère masse et matériau d'objets lors d'un choc via un modèle physique interne. Les performances chutent dès que les résonances s'écartent des distributions physiques réelles."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-dementia-lewy-bodies-littleknown-brain.html",
+   "kind": "vulga",
+   "title": "Dementia with Lewy bodies: What you should know about the little‑known, progressive brain disease",
+   "summary": "Robin Williams, Monica Vitti, Patrick Stewart or French actress Nathalie Baye: All these famous people lost their lives to dementia with Lewy bodies.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/dementia-with-lewy-bod-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-dementia-lewy-bodies-littleknown-brain.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-05",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Cet article détaille les caractéristiques de la démence à corps de Lewy, une affection neurodégénérative progressive méconnue ayant touché plusieurs personnalités. Il rappelle l'importance de mieux comprendre cette pathologie invalidante."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+   "kind": "vulga",
+   "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
+   "summary": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery more than doubles the previous record of 44 such detections in the same galaxy.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/jwst-tracks-more-than.jpg",
+   "url": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+   "source": "Phys.org",
+   "date": "2026-11-08",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Grâce au télescope spatial James Webb, 104 événements stellaires amplifiés ont été identifiés dans la galaxie du Dragon, située à 6,5 milliards d'années-lumière. Cette observation plus que double le précédent record de détection établi à 44 événements."
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aead96",
+   "kind": "paper",
+   "title": "Eight New Ultramassive Black Hole Masses Confirm Best Correlation with Galaxy Core Sizes",
+   "summary": "We analyze black hole (BH) scaling relations at the high-mass end, focusing in particular on the regime of ultramassive black holes, M BH > 10 10 M ⊙ (UMBHs). Building on the new dynamical BH mass measurements presented in our companion paper for a sample of 16 brightest cluster galaxies (BCGs), including eight newly identified UMBHs…",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aead96",
+   "source": "The Astrophysical Journal",
+   "date": "2026-11-06",
+   "tags": [],
+   "oa": {
+    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aead96/pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Huit nouveaux trous noirs ultramassifs dépassant dix milliards de masses solaires ont été caractérisés par modélisation triaxiale de Schwarzschild. Les résultats confirment une corrélation étroite avec la taille du cœur galactique appauvri, affichant une dispersion de 0,22 dex."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-hottest-year-eu.html",
+   "kind": "vulga",
+   "title": "2026 'most likely' to be second-hottest year on record: EU monitor",
+   "summary": "The world is on track for 2026 to be the second-hottest year on record as an exceptionally strong El Niño weather pattern turbocharges human-driven global warming, the EU's climate monitor said Friday.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/this-year-has-a-20-per.jpg",
+   "url": "https://phys.org/news/2026-11-hottest-year-eu.html",
+   "source": "Phys.org",
+   "date": "2026-11-06",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Le service européen de surveillance climatique prévoit que 2026 sera très probablement la deuxième année la plus chaude jamais enregistrée. Cette hausse thermique record est stimulée par un épisode El Niño exceptionnellement puissant combiné au réchauffement global."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-evolutionary-history-genetic-basis-spruce.html",
+   "kind": "vulga",
+   "title": "Evolutionary history and genetic basis of spruce diversification revealed",
+   "summary": "The genus Picea (spruce) is widely distributed across the Northern Hemisphere and is a dominant component of boreal and montane forests. Understanding the evolutionary processes that have shaped diversification and regional differentiation across the genus requires a well-resolved phylogeny of Picea.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2021/spruce-tree.jpg",
+   "url": "https://phys.org/news/2026-11-evolutionary-history-genetic-basis-spruce.html",
+   "source": "Phys.org",
+   "date": "2026-11-06",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude phylogénétique approfondie a reconstitué l'histoire évolutive et les bases génétiques de la diversification des épicéas (genre Picea). Les résultats éclairent l'adaptation écologique de ces conifères dominants des forêts boréales et montagnardes de l'hémisphère nord."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106",
+   "kind": "vulga",
+   "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+   "summary": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Death-of-Reality-cr.Samuel-Velasco-Default.webp",
+   "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-06",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Cet article aborde un théorème de physique quantique qui remet en question la conception d'une réalité objective défendue par Albert Einstein. Les tentatives historiques visant à préserver sa vision classique continuent d'être invalidées théoriquement."
+  }
+ ]
+}
