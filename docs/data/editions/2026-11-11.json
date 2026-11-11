@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-11",
+ "generated": "2026-11-11T05:46:13+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Musculation & GLP-1 : L'entraînement contre résistance s'avère indispensable pour préserver la masse musculaire et la force lors d'une perte de poids sous tirzépatide.\n• Biochimie & oncologie : Le ciblage par induction de proximité avec la kinase CSNK1 permet de dégrader la β-caténine oncogénique via un néo-dégron dans des cellules de cancer colorectal.\n• Synthèse organique : Une nouvelle méthode de Mitsunobu à base d'iminophosphoranes élimine les réactifs explosifs et autorise la formation de liaisons C–C.\n• Chimie de coordination : Le premier analogue homoleptique du ferrocène à ligands biradicaloïdes a été isolé grâce à l'utilisation contre-intuitive de fer(I).\n• Microbiologie : Chez Pseudomonas aeruginosa, un mécanisme de bascule antagoniste entre AMPc et c-di-GMP coordonne l'adhésion et la motilité virulente.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html",
+   "kind": "vulga",
+   "title": "New organic iron-sulfur framework boosts photosynthesis and carbon fixation",
+   "summary": "Iron-sulfur clusters are ancient protein cofactors that are essential for electron transport, enzyme catalysis and photosynthesis. However, their sensitivity to oxygen and inherent instability have long hindered their practical application.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-organic-iron-sulfu.jpg",
+   "url": "https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html",
+   "source": "Phys.org",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Les agrégats fer-soufre sont des cofacteurs essentiels au transport électronique et à la photosynthèse, mais leur instabilité limitait leurs applications. Une nouvelle structure organique intégrant ces clusters permet de contourner cette fragilité et d'optimiser la fixation du carbone."
+  },
+  {
+   "id": "doi:10.1038/s44160-026-01205-2",
+   "kind": "paper",
+   "title": "Mitsunobu reactions using iminophosphorane reagents",
+   "summary": "The Mitsunobu reaction is one of the most celebrated reactions in organic synthesis, enabling stereospecific C–O, C–N and C–S bond formation from abundant alcohol feedstocks. However, its widespread use is constrained by the need for explosive reagents, laborious product purification and a pronucleophile p K a window that precludes C–C…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s44160-026-01205-2",
+   "source": "Nature Synthesis",
+   "date": "2026-11-09",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s44160-026-01205-2",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'utilisation d'iminophosphoranes formés in situ permet de s'affranchir des réactifs explosifs traditionnellement associés à la réaction de Mitsunobu. Cette méthodologie simplifie grandement la purification et autorise la création inédite de liaisons C–C, jusqu'à l'échelle de fonctionnalisations pharmaceutiques avancées."
+  },
+  {
+   "id": "doi:10.1002/anie.8019368",
+   "kind": "paper",
+   "title": "A Homoleptic Biradicaloid‐Ligated Analogue of Ferrocene",
+   "summary": "In this communication, we report the synthesis, characterisation and electronic structure of a ferrocene analogue containing two biradicaloid ligands, representing the first homoleptic sandwich complex in this ligand class.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.8019368",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-11-08",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.8019368",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Le premier complexe sandwich homoleptique analogue du ferrocène incorporant deux ligands biradicaloïdes a été caractérisé. De façon inattendue, les chercheurs ont montré que l'état d'oxydation Fe(I), pourtant rare et peu exploré, est indispensable pour réussir cette synthèse là où Fe(0) et Fe(II) échouent."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
+   "kind": "vulga",
+   "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
+   "summary": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-to-screen-exi.jpg",
+   "url": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
+   "source": "Phys.org",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Des empreintes moléculaires générées par intelligence artificielle visent à identifier le potentiel thérapeutique de molécules déjà connues. Cette méthode computationnelle ambitionne d'accélérer la conception de traitements ciblés capables de se lier précisément à des récepteurs spécifiques."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79309-8",
+   "kind": "paper",
+   "title": "Phosphorylation-driven targeted protein degradation of oncogenic β-catenin",
+   "summary": "Therapeutic strategies to inhibit the Wnt signalling pathway for cancer treatment have, so far, failed to advance to the clinic. Induced-proximity drugs are revolutionizing our ability to tackle targets previously considered undruggable.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79309-8",
+   "source": "Nature Communications",
+   "date": "2026-11-07",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79309-8_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Une étude in vitro sur des cellules colorectales montre que la proximité induite avec la kinase CSNK1 déclenche la dégradation protéasomique de la β-caténine oncogénique. Ce ciblage thérapeutique novateur repose sur la formation d'un néo-dégron dépendant de la phosphorylation au sein de la voie Wnt."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79432-6",
+   "kind": "paper",
+   "title": "Antagonistic second-messenger signalling coordinates Pseudomonas aeruginosa surface colonization and virulence",
+   "summary": "Efficient colonisation of host tissue surfaces is a prerequisite for bacterial infection. In the human pathogen Pseudomonas aeruginosa , the second messengers cAMP and c-di-GMP regulate surface behaviours and virulence, but how these pathways are coordinated during tissue infection has remained unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79432-6",
+   "source": "Nature Communications",
+   "date": "2026-11-07",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79432-6_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Sur un modèle d'épithélium respiratoire humain, une étude révèle que l'AMPc et le c-di-GMP s'excluent mutuellement pour orchestrer l'infection par Pseudomonas aeruginosa. Le c-di-GMP initie l'adhésion via FimW, avant d'être remplacé par l'AMPc qui stimule la motilité et la virulence via FimX."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-antidepressants-patients.html",
+   "kind": "vulga",
+   "title": "Study identifies antidepressants that get patients well and keep them well",
+   "summary": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/content-person.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-antidepressants-patients.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Alors que près de 6 % de la population mondiale souffre de dépression, une étude a identifié des antidépresseurs efficaces tant pour la rémission que pour la prévention des récidives. Ces résultats intéressent les nombreux patients poursuivant leur médication au long cours afin d'éviter les rechutes."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-resistance-key-muscle-function-glp.html",
+   "kind": "vulga",
+   "title": "Resistance training key to maintaining muscle function during GLP-1 weight loss, study shows",
+   "summary": "A study has revealed that resistance (weight) training not only preserves lean and muscle mass but also increases strength in people taking weight-loss medication. Published in Nature Medicine, the Tirzepatide and Resistance Exercise (T-REx) study is the first to show the effects of combining a GLP-1 medicine and resistance training on…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hand-weights-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-resistance-key-muscle-function-glp.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Publiée dans Nature Medicine, l'étude clinique T-REx prouve que la musculation préserve la masse maigre tout en augmentant la force chez les personnes sous traitement GLP-1. L'entraînement contre résistance apparaît ainsi crucial pour maintenir la fonctionnalité musculaire durant une perte de poids sous tirzépatide."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-guidance-foods-unhealthy.html",
+   "kind": "vulga",
+   "title": "Government guidance indicates 95% of processed foods are unhealthy",
+   "summary": "More than 95% of processed or ultra-processed food products would be classified as unhealthy under UK government dietary guidance, according to new UCL-led research. The study, published in BMJ Medicine, found that the official public health definitions used to identify and regulate food and drink products in the U.K.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/food-shopping-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-guidance-foods-unhealthy.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "D'après des travaux parus dans BMJ Medicine, plus de 95 % des aliments transformés ou ultra-transformés sont classés comme mauvais pour la santé selon les critères britanniques officiels. Ce constat met en lumière la prédominance quasi totale des produits défavorables au sein de l'offre agroalimentaire actuelle."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-successful-apnea-treatment-unexpected-weight.html",
+   "kind": "vulga",
+   "title": "Successful sleep apnea treatment may lead to unexpected weight gain",
+   "summary": "A new study from Ben-Gurion University of the Negev (BGU) and Soroka University Medical Center may have uncovered a biological mechanism behind why many adults and children gain weight following successful treatment for obstructive sleep apnea.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/successful-sleep-apnea.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-successful-apnea-treatment-unexpected-weight.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Des chercheurs ont mis en évidence un mécanisme biologique qui expliquerait la prise de poids involontaire chez les patients après le traitement efficace de l'apnée obstructive du sommeil. Cette observation clinique fréquente concerne aussi bien les cohortes d'adultes que les enfants traités."
+  },
+  {
+   "id": "doi:10.1038/s41562-026-02622-1",
+   "kind": "paper",
+   "title": "Long-term development of a motor memory",
+   "summary": "Human behavior is developed through continuous adaptation to our environment over a range of timescales. Extensive studies have investigated the mechanisms and computations underlying this process of sensorimotor adaptation using several hundred trials. However, most of our motor skills have had countless hours of practice.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41562-026-02622-1",
+   "source": "Nature Human Behaviour",
+   "date": "2026-11-09",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41562-026-02622-1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "L'entraînement moteur intensif sur plusieurs semaines et des milliers d'essais met en évidence une compensation complète des perturbations dynamiques, doublée d'une forte rétention mnésique. Les auteurs observent aussi un affinement de la généralisation angulaire, révélant un ajustement continu de la mémoire motrice à long terme."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-conversations-decisions-dementia.html",
+   "kind": "vulga",
+   "title": "How conversations shape decisions about dementia care",
+   "summary": "When someone is living with dementia, decisions about their care can have a significant impact on their health and quality of life. But how are these decisions made, particularly when family members or friends are also involved?",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/senior-healthcare.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-conversations-decisions-dementia.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Cette publication explore comment les échanges au quotidien orientent les prises de décision médicales pour les patients atteints de démence. L'implication des proches et des aidants lors de ces discussions influence directement la prise en charge et la qualité de vie des personnes concernées."
+  },
+  {
+   "id": "doi:10.1007/s11764-026-02148-5",
+   "kind": "paper",
+   "title": "Acupuncture for healthy-ageing-relevant outcomes in older cancer survivors: a scoping review with implications for future research and practice.",
+   "summary": "Acupuncture is promising to support healthy ageing related outcomes among cancer survivors; however, rigorous controlled clinical trials focusing on older adults are lacking. Future prospective trials focusing on addressing these important and novel outcomes will inform evidence-based integration of acupuncture for older adults impacted…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s11764-026-02148-5",
+   "source": "Journal of cancer survivorship : research and practice",
+   "date": "2026-11-07",
+   "tags": [
+    "Revue"
+   ],
+   "oa": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11764-026-02148-5.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Une revue exploratoire de 37 études rapporte que l'acupuncture montre des résultats prometteurs pour la fonction physique (analysée dans 75,7 % des cas) et l'anxiété des survivants du cancer. Les auteurs notent toutefois qu'aucune étude n'a encore ciblé spécifiquement les patients âgés de 65 ans et plus."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
+   "kind": "vulga",
+   "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
+   "summary": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before exiting—to demonstrate a device that can…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/measuring-laser-nuisan-1.jpg",
+   "url": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
+   "source": "Phys.org",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Un appareil de détection compact, de la taille d'une boîte à chaussures, a atteint une résolution record pour réaliser des mesures à l'échelle atomique. Ce système tire profit d'une sphère intégratrice qui multiplie les réflexions de la lumière laser dans une cavité hautement réfléchissante."
+  },
+  {
+   "id": "doi:10.1103/683f-3qxt",
+   "kind": "paper",
+   "title": "Proposal of quantum arrival-time measurement with a Bose-Einstein condensate",
+   "summary": "This work shows how a Bose-Einstein condensate of ultracold atoms could be used to address a long-standing question in quantum theory: how much time does it take for a particle to reach a detector?",
+   "image": null,
+   "url": "https://doi.org/10.1103/683f-3qxt",
+   "source": "Physical Review Letters",
+   "date": "2026-11-09",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2606.20278",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Ce travail théorique propose d'employer un condensat de Bose-Einstein pour élucider la question fondamentale du temps d'arrivée d'une particule en mécanique quantique. Le protocole suggère de mesurer le flux d'arrivée en fonction de la position du détecteur, levant ainsi des contraintes expérimentales majeures."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-carbon-pollution-scientists-cite-iran.html",
+   "kind": "vulga",
+   "title": "Heat-trapping carbon pollution drops, but scientists cite the Iran war rather than energy progress",
+   "summary": "Global carbon pollution dropped this year ever so slightly, but it's more because of oil shocks reverberating from the Iran war than anything the world has done to fight climate change, scientists said in a new study.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/climate-cop31.jpg",
+   "url": "https://phys.org/news/2026-11-carbon-pollution-scientists-cite-iran.html",
+   "source": "Phys.org",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Les émissions de carbone mondiales ont très légèrement reculé cette année, mais ce phénomène découle des chocs pétroliers provoqués par la guerre en Iran plutôt que des politiques environnementales. Les scientifiques rappellent que ce repli conjoncturel ne reflète pas une transition énergétique pérenne."
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109",
+   "kind": "vulga",
+   "title": "Did Life Begin in an RNA World?",
+   "summary": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp",
+   "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-09",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Cet article analyse l'hypothèse de l'apparition de la vie au sein d'un « monde à ARN » fondé sur des molécules autoréplicatives. Il expose les arguments théoriques suggérant que la simple réplication et l'évolution de ces acides ribonucléiques n'ont peut-être pas suffi à amorcer le vivant."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-repurposing-internet-backbone-advance-whale.html",
+   "kind": "vulga",
+   "title": "Repurposing the internet's backbone to advance whale monitoring",
+   "summary": "Bioacoustics researcher Léa Bouffaut, at the Cornell K. Lisa Yang Center for Conservation Bioacoustics, has spent the past several years eavesdropping on the conversations of whales. But instead of using underwater microphones like other marine scientists, she listens by tapping into fiber-optic cables lying on the ocean floor—a powerful…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-bowhead-whale-in-sva.jpg",
+   "url": "https://phys.org/news/2026-11-repurposing-internet-backbone-advance-whale.html",
+   "source": "Phys.org",
+   "date": "2026-11-10",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Des bioacousticiens utilisent désormais le réseau sous-marin de câbles de télécommunication en fibre optique pour écouter et suivre les baleines. Cette approche innovante remplace avantageusement le déploiement complexe de microphones sous-marins traditionnels pour le suivi des cétacés."
+  }
+ ]
+}

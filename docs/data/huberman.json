@@ -1,6 +1,149 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
+   "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+   "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
+   "date": "2026-11-09",
+   "duration": 8225,
+   "resume": "Dans cet épisode, Andrew Huberman s'entretient avec la psychiatre Dr. Anna Lembke au sujet des mécanismes biologiques et psychologiques de l'addiction, des obsessions et des comportements compulsifs à l'ère numérique. Ils analysent la dynamique de la dopamine et de la balance plaisir-douleur, révélant que de nombreuses dépendances contemporaines masquent en réalité une addiction au contrôle et un refus de l'incertitude. La Dre Lembke détaille la neurobiologie du « lâcher-prise radical » (radical surrender) et l'importance d'un pivot spirituel, démontrant comment l'abandon conscient du contrôle stimule la plasticité cérébrale et permet de sortir de la détresse. La conclusion principale est que la guérison durable et la prévention de l'anxiété moderne reposent sur l'acceptation de nos limites, la reconnexion à la réalité hors écran et l'adoption d'actions humbles ancrées dans le présent.",
+   "points": [
+    "L'addiction repose sur une balance plaisir-douleur régie par la dopamine : plus la récompense est intense et rapide, plus le cerveau compense par un état douloureux et un déficit chronique stimulant le manque.",
+    "Au-delà des substances ou des écrans, les individus souffrent souvent d'une addiction au contrôle lui-même, cherchant à éliminer toute incertitude, ce qui mène au perfectionnisme toxique et à la honte.",
+    "Le lâcher-prise radical met en sommeil les circuits exécutifs rigides et active la substance grise périaqueducale ainsi que la sérotonine, favorisant la plasticité neuronale nécessaire à l'adoption de nouvelles stratégies de vie.",
+    "La codépendance fonctionne comme une addiction relationnelle où l'on tente de réguler ses propres émotions en sur-contrôlant les comportements et les réactions d'autrui.",
+    "Face aux crises existentielles insolubles, la spiritualité et le principe de « faire la prochaine bonne action » permettent de désamorcer les boucles compulsives et de retrouver la sérénité."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Jeûne de dopamine (abstinence ciblée)",
+     "comment": "S'abstenir totalement de la substance ou du comportement problématique pendant 30 jours (la phase de sevrage aigu dure 10 à 14 jours avant d'observer une nette amélioration vers la 3e ou 4e semaine)."
+    },
+    {
+     "quoi": "Protection de la routine matinale sans écran",
+     "comment": "Ne pas consulter de téléphone ni d'écran au réveil tant que les activités de base (exercice physique, petit-déjeuner, préparation personnelle) ne sont pas achevées."
+    },
+    {
+     "quoi": "Faire la prochaine bonne action (« Do the next right thing »)",
+     "comment": "En période de crise ou d'anxiété liée à l'avenir, renoncer à tout planifier et se focaliser immédiatement sur une tâche simple et contrôlable du quotidien (ex. sortir les poubelles, ranger une pièce)."
+    },
+    {
+     "quoi": "Pratique quotidienne de reddition ou de prière",
+     "comment": "Au réveil et lors des moments de tension dans la journée, formuler une intention d'humilité en demandant de l'aide à une entité qui nous dépasse (nature, univers, communauté ou Dieu), sans obligation de croyance dogmatique."
+    },
+    {
+     "quoi": "Désamorçage de la codépendance relationnelle",
+     "comment": "Cesser d'anticiper ou d'interpréter les pensées d'autrui (« mind reading »), poser des questions directes au lieu de faire des suppositions, et laisser les proches assumer leurs propres responsabilités sans chercher à gérer leurs émotions."
+    },
+    {
+     "quoi": "Exposition volontaire à l'imperfection et à l'incertitude",
+     "comment": "S'engager régulièrement dans des activités sans objectif de performance ni diffusion en ligne (ex. pratiquer un loisir où l'on est débutant, avoir des échanges sociaux non structurés et sans téléphone)."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Anna Lembke"
+    },
+    {
+     "t": "00:02:14",
+     "titre": "Réseaux sociaux, addiction aux médias numériques, les 4 C ; analogie de la pollution"
+    },
+    {
+     "t": "00:06:43",
+     "titre": "Dopamine, comportements de renforcement et addiction"
+    },
+    {
+     "t": "00:11:26",
+     "titre": "Plaisir et douleur, homéostasie ; sevrage, rechute et rétablissement de l'équilibre"
+    },
+    {
+     "t": "00:16:02",
+     "titre": "Traiter l'addiction, substitution de comportement, les 12 étapes"
+    },
+    {
+     "t": "00:22:59",
+     "titre": "L'addiction comme fléau moderne, transformation spirituelle"
+    },
+    {
+     "t": "00:26:39",
+     "titre": "Facteurs de risque, traumatismes ; conséquences de l'addiction ; interventions"
+    },
+    {
+     "t": "00:37:00",
+     "titre": "Pivot spirituel, addiction au contrôle ; anxiété et honte"
+    },
+    {
+     "t": "00:45:57",
+     "titre": "Le paradoxe du contrôle et le lâcher-prise radical"
+    },
+    {
+     "t": "00:51:58",
+     "titre": "Substance grise périaqueducale"
+    },
+    {
+     "t": "00:58:08",
+     "titre": "Dopamine, sérotonine, puissance supérieure et abandon"
+    },
+    {
+     "t": "01:02:34",
+     "titre": "Psychédéliques, psilocybine et risques"
+    },
+    {
+     "t": "01:08:28",
+     "titre": "Neurobiologie du lâcher-prise, SGPA, toucher le fond"
+    },
+    {
+     "t": "01:13:40",
+     "titre": "Réticence à aborder la spiritualité, curiosité ouverte ; la mort"
+    },
+    {
+     "t": "01:21:58",
+     "titre": "Crise et désespoir, outils : prière ; faire la prochaine bonne action ; codépendance"
+    },
+    {
+     "t": "01:29:26",
+     "titre": "Codépendance, parentalité, technologie ; faire des suppositions"
+    },
+    {
+     "t": "01:40:08",
+     "titre": "Codépendance maternelle et paternelle ; s'en libérer"
+    },
+    {
+     "t": "01:44:28",
+     "titre": "La jeunesse à l'ère numérique ; tolérer l'incertitude, outil : curiosité ouverte"
+    },
+    {
+     "t": "01:50:13",
+     "titre": "La pratique de la foi (« Faithing »), prier pour autrui ; symboles"
+    },
+    {
+     "t": "01:56:57",
+     "titre": "Se transcender soi-même, société moderne et résistance à la spiritualité"
+    },
+    {
+     "t": "02:02:24",
+     "titre": "Pratiques spirituelles quotidiennes"
+    },
+    {
+     "t": "02:04:23",
+     "titre": "Kétamine et addiction, dépression ; dépendance aux stimulants"
+    },
+    {
+     "t": "02:08:29",
+     "titre": "Agonistes du GLP-1, dépendance à l'alcool, dopamine"
+    },
+    {
+     "t": "02:10:28",
+     "titre": "Addiction aux pensées ? Inquiétudes et ruminations ; prochain livre"
+    },
+    {
+     "t": "02:14:52",
+     "titre": "Soutien gratuit, suivi de la chaîne, avis, réseaux sociaux et lettre d'information"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
    "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
    "url": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
