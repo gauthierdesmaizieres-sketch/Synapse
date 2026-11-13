@@ -1,6 +1,105 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+   "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+   "url": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+   "date": "2026-11-12",
+   "duration": 2315,
+   "resume": "Cet épisode explore la manière dont les émotions complexes et les récits personnels s'enracinent dans les mécanismes biologiques de survie et le dialogue entre le corps et le cerveau. Le Dr Mary Helen Immordino-Yang explique que nos pensées et nos apprentissages sont fondamentalement guidés par nos états émotionnels et nos interactions sociales. Elle critique le système éducatif traditionnel axé sur la performance standardisée et plaide pour une pédagogie axée sur la curiosité, la déconstruction des croyances et le développement de la personne. En cultivant la flexibilité mentale et l'empathie, nous pouvons former des individus capables de naviguer dans un monde complexe.",
+   "points": [
+    "Les états mentaux complexes et les histoires que nous créons s'appuient sur des systèmes biologiques vitaux de régulation corporelle et de survie.",
+    "La biologie humaine est intrinsèquement sociale : notre sentiment de soi et nos perceptions se construisent par interdépendance avec les autres et notre culture.",
+    "L'apprentissage est plus profond et durable lorsque les émotions sont connectées à la compréhension des idées plutôt qu'à la recherche de récompenses externes.",
+    "Le système éducatif traditionnel étouffe souvent la curiosité naturelle en imposant des réponses préconçues au lieu d'encourager la quête de sens.",
+    "Développer la capacité à remettre en question ses propres certitudes et à tolérer l'incertitude est indispensable pour prévenir la déshumanisation et les biais."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Développer un système d'auto-évaluation critique de ses réflexes et opinions",
+     "comment": "S'entraîner à questionner ses propres motivations, déconstruire ses préjugés et intégrer activement les perspectives d'autrui lors de débats ou de décisions complexes."
+    },
+    {
+     "quoi": "Engager l'apprentissage par des projets ouverts ancrés dans la curiosité",
+     "comment": "Utiliser les centres d'intérêt de l'apprenant comme point de départ, formuler des questions complexes interdisciplinaires et privilégier la démarche de réflexion sur le long terme plutôt que la mémorisation sous pression temporelle."
+    },
+    {
+     "quoi": "Cultiver la tolérance à l'incertitude et la pensée réflexive",
+     "comment": "Prendre le temps de suspendre son jugement face à des problèmes ambigus, résister à la tentation des solutions simplistes et analyser les implications systémiques et éthiques des décisions."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Mary Helen Immordino-Yang"
+    },
+    {
+     "t": "00:00:24",
+     "titre": "Inspiration, émerveillement et récit ; émotions et systèmes de survie"
+    },
+    {
+     "t": "00:02:19",
+     "titre": "Dialogue cerveau-corps, interdépendance sociale et sentiment de soi"
+    },
+    {
+     "t": "00:07:42",
+     "titre": "Premières expériences émotionnelles ; amour, développement et sens"
+    },
+    {
+     "t": "00:11:21",
+     "titre": "Émotions fondamentales, histoires de vie et développement"
+    },
+    {
+     "t": "00:14:09",
+     "titre": "Culture, perception et imposition des attentes"
+    },
+    {
+     "t": "00:16:35",
+     "titre": "Récits, déshumanisation et empathie"
+    },
+    {
+     "t": "00:18:06",
+     "titre": "Outil : Questionner les hypothèses et adopter d'autres perspectives"
+    },
+    {
+     "t": "00:20:05",
+     "titre": "Réseaux sociaux et renforcement des biais ; émotions et flexibilité mentale"
+    },
+    {
+     "t": "00:24:42",
+     "titre": "Système éducatif, résultats d'apprentissage et apprentissage par projets"
+    },
+    {
+     "t": "00:27:41",
+     "titre": "Curiosité, école maternelle vs scolarité traditionnelle"
+    },
+    {
+     "t": "00:29:47",
+     "titre": "Émotions et apprentissage, idées vs performance"
+    },
+    {
+     "t": "00:31:34",
+     "titre": "Outil : Engager les intérêts et la curiosité des élèves"
+    },
+    {
+     "t": "00:33:18",
+     "titre": "Adolescence, quête de sens et contraintes scolaires"
+    },
+    {
+     "t": "00:36:03",
+     "titre": "Outil : Déconstruire les croyances, tolérer l'incertitude"
+    },
+    {
+     "t": "00:37:15",
+     "titre": "Éducation et développement de la personne"
+    },
+    {
+     "t": "00:38:20",
+     "titre": "Remerciements"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
    "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
    "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",

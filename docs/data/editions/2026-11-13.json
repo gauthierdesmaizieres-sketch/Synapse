@@ -1,0 +1,450 @@
+{
+ "date": "2026-11-13",
+ "generated": "2026-11-13T05:51:04+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Performance & Caféine : 6 mg/kg de caféine réduisent le temps de sprint de 0,175 s sur 60 m et atténuent la fatigue neuromusculaire.\n• Suppléments : La nouvelle formulation OptiCreatine présente une pharmacocinétique et une tolérance identiques à 5 g de créatine monohydrate.\n• Chimie des polymères : Des photocatalyseurs aza-BODIPY activés dans l'infrarouge proche permettent une polymérisation ATRP avec seulement 5 ppm de catalyseur.\n• Oncologie : Le dirozalkib double la survie sans progression (29,5 mois) face au crizotinib dans le cancer du poumon ALK+.\n• Longévité : La manipulation directe de l'ATP chez la levure et la stimulation d'un antioxydant clé chez la souris ouvrent des voies d'extension de la durée de vie.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-ai-bioplastics.html",
+   "kind": "vulga",
+   "title": "Using AI to predict how bioplastics behave under heat",
+   "summary": "A new ANIPH study shows how machine learning models can predict how PHB and PHBV respond to heat, helping manufacturers design formulations that are easier to process.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-to-predict-ho.jpg",
+   "url": "https://phys.org/news/2026-11-ai-bioplastics.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "L'apprentissage automatique permet de prédire le comportement thermique des bioplastiques PHB et PHBV. Cette modélisation ANIPH aide les industriels à optimiser la formulation et la mise en forme de ces polymères écoresponsables."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c14724",
+   "kind": "paper",
+   "title": "Tunable Aza-BODIPY Photocatalysts for Near-Infrared Metallaphotoredox Atom Transfer Radical Polymerization",
+   "summary": "The merger of photoredox and transition-metal catalysis has significantly advanced radical and redox transformations, yet its reliance on UV or visible light continues to limit applications in optically complex and spatially confined environments.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c14724",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-11-09",
+   "tags": [],
+   "oa": {
+    "url": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c14724/69124693/jacs.6c14724.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Des photocatalyseurs aza-BODIPY activés dans le proche infrarouge permettent une polymérisation ATRP contrôlée avec seulement 5 ppm de catalyseur. L'étude *ex vivo* démontre une efficacité à travers des barrières physiques et en milieu aqueux."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c19996",
+   "kind": "paper",
+   "title": "Dissecting the Influence of Molecular Charge on Hydrophobicity",
+   "summary": "Interactions of hydrophobic environments and ionic solutes are important in a range of biological processes, but the effect of molecular charge on hydrophobicity remains opaque. The interaction of isostructural solutes with the hydrophobic cavity of a cyclodextrin (γ-CD) in water was used to directly compare the hydrophobicities of…",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c19996",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-11-09",
+   "tags": [],
+   "oa": {
+    "url": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c19996/69116302/jacs.6c19996.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'analyse de l'inclusion dans la γ-cyclodextrine montre que le cation PPh4+ se lie 10⁴ fois moins fort que l'anion isostructurel BPh4-. Cette asymétrie de charge modifie radicalement le profil thermodynamique de l'hydrophobie."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html",
+   "kind": "vulga",
+   "title": "Lemon waste yields bioplastic more flexible than commercial counterpart, study finds",
+   "summary": "A new research article published in Polymers explores an innovative way to turn lemon processing residues into biopolymers. Authored by ANIPH's coordinator, CETEC, together with partners from companion projects Viss and PHAntastic, the study investigated the use of lemon industry byproducts as carbon sources for PHBV production using the…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/lemon-waste-turned-int.jpg",
+   "url": "https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Des résidus de l'industrie du citron ont été utilisés comme source de carbone pour fabriquer du bioplastique PHBV. Ce procédé de valorisation produit un polymère nettement plus flexible que les alternatives commerciales."
+  },
+  {
+   "id": "doi:10.1038/s41588-026-02832-3",
+   "kind": "paper",
+   "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity",
+   "summary": "Furthermore, the consistency of variant effects across cell types remains largely unexplored. Here we performed saturation genome editing (SGE) of BRCA1 in HAP1 cells to score 4,113 previously unassayed variants.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41588-026-02832-3",
+   "source": "Nature Genetics",
+   "date": "2026-11-11",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41588-026-02832-3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "L'édition génomique par saturation du gène BRCA1 sur 4 113 variants améliore le diagnostic des mutations. Cependant, la moitié des variants inactivants dans les cellules HAP1 s'avèrent neutres dans des cellules mammaires HMEC."
+  },
+  {
+   "id": "doi:10.1038/s41594-026-01908-2",
+   "kind": "paper",
+   "title": "TF-MAPS: fast high-resolution functional and allosteric mapping of DNA-binding proteins",
+   "summary": "Transcription factors (TFs) bind specific DNA sequences to control gene expression. Modulating TF activity is of considerable therapeutic interest but very few TFs have been drugged successfully. TF DNA-binding interfaces are large and most TFs have no known allosteric ligands or allosteric sites.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41594-026-01908-2",
+   "source": "Nature Structural & Molecular Biology",
+   "date": "2026-11-11",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41594-026-01908-2",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "La plateforme TF-MAPS cartographie l'allostérie des facteurs de transcription HNF1A, FOXG1 et FOXP1. Elle identifie des poches moléculaires ciblables par des médicaments pour réguler la fixation des protéines à l'ADN."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-aha-pelacarsen-lipoproteina-major-adverse.html",
+   "kind": "vulga",
+   "title": "AHA: Pelacarsen cuts lipoprotein(a) levels but does not lower risk for major adverse cardiovascular events",
+   "summary": "For adults with preexisting cardiovascular disease, pelacarsen, an antisense oligonucleotide administered monthly, lowers lipoprotein(a) levels but does not reduce the occurrence of major adverse cardiovascular events, according to a study published online Nov.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-issue.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-aha-pelacarsen-lipoproteina-major-adverse.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Administré mensuellement chez des patients cardiovasculaires, l'oligonucléotide pelacarsen réduit les taux de lipoprotéine(a). Cependant, cette baisse ne traduit aucune réduction des événements cardiovasculaires majeurs dans cette étude clinique."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2745618",
+   "kind": "paper",
+   "title": "Novel creatine formulation exhibits similar serum creatine concentrations and pharmacokinetics to creatine monohydrate in healthy adults.",
+   "summary": "A single 5-gram dose of CrO produced similar serum creatine and PK characteristics to CrM in healthy adults. These findings support CrO as a viable delivery option, with no significant differences in acute pharmacokinetic profiles or GI tolerability compared to CrM.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2745618",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-11-09",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2745618?needAccess=true",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai croisé en double aveugle sur 17 adultes compare l'OptiCreatine à la créatine monohydrate à la dose de 5 g. Aucune différence significative n'a été observée sur les concentrations sériques ni sur la tolérance digestive."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2749890",
+   "kind": "paper",
+   "title": "Dose-specific effects of caffeinated chewing gum on reactive blocking timing, jump mechanics, and neuromuscular responses after volleyball-specific fatigue in elite female volleyball players.",
+   "summary": "The observed responses were outcome-specific: CAF6 showed a smaller decline in BJ peak power and the smallest increase in overall sequence time, whereas CAF3 showed little change in mean stationary and movement response times. These findings do not establish a generally preferable dose or a timing-stability advantage for CAF3.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2749890",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-11-09",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2749890?needAccess=true",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un chewing-gum caféiné à 6 mg/kg administré à 15 joueuses de volley-ball de haut niveau limite la baisse de performance neuromusculaire post-fatigue. Ce dosage préserve la puissance et la mécanique du saut après épuisement."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-extreme-hurdle-athletes-carbohydrates-muscles.html",
+   "kind": "vulga",
+   "title": "Extreme heat creates hurdle for athletes getting carbohydrates into muscles",
+   "summary": "Endurance sport has seen a renaissance in the understanding of carbohydrates for fuel in recent years. Advances in sports science have led to much higher levels of carbohydrates either eaten or drunk during exercise, with some top sports stars consuming 120g (4.2 ounces) or more per hour during a race.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/cycle-race.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-extreme-hurdle-athletes-carbohydrates-muscles.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "La chaleur extrême entrave l'assimilation et le transport des glucides vers les muscles chez les athlètes d'endurance. Ce phénomène complexifie le maintien des stratégies nutritionnelles poussées ciblant 120 g de glucides par heure."
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0361864",
+   "kind": "paper",
+   "title": "Acute doses of 3 and 6 mg/kg caffeine produce outcome- and phase-specific improvements in male 100-m sprinters: A randomized, double-blind, placebo-controlled crossover trial.",
+   "summary": "Evidence is limited on whether commonly used caffeine doses provide uniform benefits across sprint phases and performance outcomes in trained sprinters. We compared the acute effects of 3 and 6 mg/kg caffeine in a randomized, double-blind, placebo-controlled, three-condition crossover trial.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0361864",
+   "source": "PloS one",
+   "date": "2026-11-10",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13750558",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Un essai croisé sur 21 sprinteurs montre que 6 mg/kg de caféine réduit le temps sur 60 m de 0,175 s par rapport au placebo. La dose de 3 mg/kg procure une amélioration significative de 0,123 s."
+  },
+  {
+   "id": "doi:10.1007/s00520-026-11427-x",
+   "kind": "paper",
+   "title": "Physiological prehabilitation for patients undergoing cellular therapy in multiple myeloma and lymphoma: a systematic review.",
+   "summary": "Adequately powered, therapy-specific RCTs should standardise exercise reporting, assess clinically meaningful outcomes, and evaluate safety and sustained recovery after treatment.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00520-026-11427-x",
+   "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "date": "2026-11-10",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Une revue systématique de 12 études (501 participants) évalue l'exercice physique avant une thérapie cellulaire ou immunitaire. Les programmes de 4 à 8 semaines améliorent la fonction physique globale et la force musculaire des membres inférieurs."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html",
+   "kind": "vulga",
+   "title": "Mediterranean diet can help clear fat from the pancreas and improve blood-sugar control",
+   "summary": "Fat that builds up in the pancreas is one of the lesser-known risk factors for diabetes and metabolic syndrome, but it turns out it can be targeted directly through what's on the plate.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mediterranean-meal.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-mediterranean-diet-fat-pancreas-blood.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Adopter un régime méditerranéen permet de réduire directement les accumulations de graisse situées dans le pancréas. Cette diminution lipidique ciblée améliore le contrôle de la glycémie et le profil métabolique."
+  },
+  {
+   "id": "doi:10.34133/cancomm.0068",
+   "kind": "paper",
+   "title": "Dirozalkib versus Crizotinib in Advanced Anaplastic Lymphoma Kinase Inhibitor-Naïve <i>ALK</i>-Positive Non-Small-Cell Lung Cancer: A Multicenter, Randomized Phase III Trial.",
+   "summary": "Dirozalkib significantly improved PFS versus crizotinib, with a manageable safety profile, supporting its use as a first-line therapy for ALK -positive advanced NSCLC.",
+   "image": null,
+   "url": "https://doi.org/10.34133/cancomm.0068",
+   "source": "Cancer communications (London, England)",
+   "date": "2026-11-10",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13748627",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "L'essai de phase III DIAMOND-2 mené sur 275 patients atteints d'un cancer du poumon ALK+ montre une survie sans progression de 29,5 mois sous dirozalkib. Ce traitement réduit le risque de progression de 53 % comparé au crizotinib."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-simple-habits-ease-anxiety-depression.html",
+   "kind": "vulga",
+   "title": "7 simple self-care habits that may ease anxiety and depression",
+   "summary": "If you've been feeling more on edge lately, you're far from alone.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/anxiety-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-simple-habits-ease-anxiety-depression.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "L'adoption de sept habitudes quotidiennes de soin personnel aide à réduire l'anxiété et les symptômes dépressifs. Ces interventions simples permettent de restaurer l'équilibre émotionnel au quotidien."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-77621-x",
+   "kind": "paper",
+   "title": "The representational geometry of cognitive maps under cognitive control",
+   "summary": "Recent work has shown that the brain abstracts non-spatial relationships between entities or task states into representations called cognitive maps. Here, we investigate how cognitive control enables flexible top-down selection of goal-relevant information from multidimensional cognitive maps retrieved from memory.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-77621-x",
+   "source": "Nature Communications",
+   "date": "2026-11-10",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-77621-x_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Une étude combinant IRMf et réseaux récurrents montre comment le cerveau filtre les cartes cognitives. Le réseau frontopariétal isole uniquement les dimensions pertinentes pour la tâche, tandis que le réseau temporal/orbitofrontal conserve la carte complète."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.html",
+   "kind": "vulga",
+   "title": "Five lifespan-extending treatments boost the same antioxidant in mice",
+   "summary": "Aging is about far more than wrinkles and gray hair, despite what social media and advertisements might have us believe. The real concern lies beneath the surface, where the biology of aging is intertwined with a host of diseases, from heart disease to neurodegenerative diseases like Alzheimer's and Parkinson's to metabolic disorders and…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-find-shared.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-lifespan-treatments-boost-antioxidant-mice.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Une étude murine révèle que cinq traitements prolongeant la longévité augmentent tous les niveaux d'un même antioxydant. Cela suggère l'existence d'un mécanisme biologique commun pour freiner le vieillissement et prévenir diverses maladies."
+  },
+  {
+   "id": "doi:10.7554/elife.109761",
+   "kind": "paper",
+   "title": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan.",
+   "summary": "Mitochondrial dysfunction and declining ATP production are common features of aging, yet whether ATP availability itself directly regulates cellular lifespan is unclear. However, the causal relationship between cellular ATP homeostasis and aging has not been established.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.109761",
+   "source": "eLife",
+   "date": "2026-11-11",
+   "tags": [],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13754279",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Chez la levure *S. cerevisiae*, l'expression du transporteur d'ATP NTT1 prouve que l'ATP intracellulaire contrôle directement la durée de vie. Un apport externe d'ATP réussit à étendre la longévité réplicative."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+   "kind": "vulga",
+   "title": "Research advances quantum computing that harnesses speed of light",
+   "summary": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/purdue-professor-vladi.jpg",
+   "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Des travaux en informatique quantique utilisent des photons comme qubits pour traiter des données à la vitesse de la lumière. Cette approche photonique vise à créer des calculateurs beaucoup plus rapides et économes en énergie."
+  },
+  {
+   "id": "doi:10.1103/xk1x-3jmg",
+   "kind": "paper",
+   "title": "Operator structure of power corrections and anomalous scaling in energy correlators",
+   "summary": "Energy correlators offer a clean probe of quantum chromodynamics, serving as an ideal laboratory to rigorously investigate non-perturbative power corrections. The recent discovery that linear corrections exhibit a universal anomalous scaling points to a deep, underlying theoretical structure.",
+   "image": null,
+   "url": "https://doi.org/10.1103/xk1x-3jmg",
+   "source": "Physical Review Letters",
+   "date": "2026-11-10",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2604.11967",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Des calculs basés sur des opérateurs en chromodynamique quantique expliquent l'origine théorique des corrections de puissance dans les corrélateurs d'énergie. L'analyse combine les opérateurs dijet à des composants triple-jet pour affiner la théorie."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-uncovering-hidden-placenta.html",
+   "kind": "vulga",
+   "title": "Uncovering the hidden origins of the placenta",
+   "summary": "When an embryo attaches to the wall of the uterus roughly six days after fertilization, it begins to build the body and placenta. Called implantation, this is the stage of life scientists know least about. It is also the stage when most pregnancies are lost.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-pink-dot-among-blue.jpg",
+   "url": "https://phys.org/news/2026-11-uncovering-hidden-placenta.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "L'implantation de l'embryon dans la paroi utérine, environ six jours après la fécondation, demeure la phase la moins comprise du développement. C'est pourtant lors de cette étape critique que surviennent la plupart des fausses couches."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
+   "kind": "vulga",
+   "title": "Phantom energy: New report exposes empty promises behind nuclear power and data centers",
+   "summary": "The push for nuclear-powered data centers is entirely dependent on technology that remains commercially unproven and prohibitively expensive, according to a new report released today by the Australian Conservation Foundation.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nuclear-powered-data-c.jpg",
+   "url": "https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
+   "source": "Tech Xplore",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Un rapport de l'Australian Conservation Foundation dénonce le projet d'alimenter les centres de données par l'énergie nucléaire. Les technologies proposées demeurent non éprouvées à l'échelle commerciale et excessivement coûteuses."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-plethora-seismic-eruptions-aka-utequakes.html",
+   "kind": "vulga",
+   "title": "A plethora of seismic eruptions, aka UteQuakes",
+   "summary": "The Utah Utes' rivalry football game with BYU was a triumph for Utah, but it was also a UteQuake extravaganza. No new records were set, but Rice-Eccles Stadium experienced intense seismic shaking during Saturday's game that resulted in a 28–20 victory for the still-undefeated Utah Utes.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-plethora-of-seismic-1.jpg",
+   "url": "https://phys.org/news/2026-11-plethora-seismic-eruptions-aka-utequakes.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "L'enthousiasme des supporters lors d'un match de football de l'Université de l'Utah a généré une activité sismique mesurable au Rice-Eccles Stadium. Les secousses enregistrées ont accompagné la victoire de l'équipe sur le score de 28-20."
+  }
+ ]
+}
