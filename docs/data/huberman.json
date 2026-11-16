@@ -459,6 +459,64 @@
      "titre": "Prochain livre : l'invisible et la fiction"
     }
    ]
+  },
+  {
+   "id": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+   "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+   "url": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+   "date": "2026-10-29",
+   "duration": 2110,
+   "resume": "Dans cet épisode, le Dr Noam Sobel explique la biologie de l'olfaction et l'impact profond des signaux chimiques subconscients sur le comportement et les hormones humaines. Il démontre comment les odeurs corporelles influencent la perception sociale, les poignées de main, la création d'amitiés et la modulation de l'agressivité. L'épisode aborde également l'effet inhibiteur des larmes sur la testostérone ainsi que le développement de technologies permettant de numériser et reproduire des odeurs. En conclusion, l'odorat humain se révèle être un sens extrêmement sophistiqué jouant un rôle essentiel dans la communication non verbale.",
+   "points": [
+    "Le système olfactif humain comporte environ 7 millions de récepteurs capables de décoder une immense variété de molécules aéroportées.",
+    "Après une poignée de main, les gens portent fréquemment leur main à leur visage pour renifler inconsciemment les signaux chimiques de leur interlocuteur.",
+    "Les personnes qui se lient instantanément d'amitié présentent des odeurs corporelles significativement plus similaires que le hasard ne le prédirait.",
+    "L'hexadécanal, une molécule émise notamment par les bébés, diminue l'agressivité chez les hommes mais l'augmente chez les femmes pour protéger le nourrisson.",
+    "L'inhalation de larmes émotionnelles inodores entraîne une chute rapide et importante du taux de testostérone chez les hommes."
+   ],
+   "protocoles": [],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Noam Sobel"
+    },
+    {
+     "t": "00:00:20",
+     "titre": "Biologie de l'odorat"
+    },
+    {
+     "t": "00:04:32",
+     "titre": "Odorat humain, interactions sociales et poignées de main"
+    },
+    {
+     "t": "00:10:03",
+     "titre": "Amitié et odeur corporelle"
+    },
+    {
+     "t": "00:14:04",
+     "titre": "Signaux chimiques humains, odeur de la peur et contagion"
+    },
+    {
+     "t": "00:15:48",
+     "titre": "Agressivité, signaux chimiques, hommes vs femmes et bébés"
+    },
+    {
+     "t": "00:21:51",
+     "titre": "Larmes, 'couverture chimique' et testostérone"
+    },
+    {
+     "t": "00:25:37",
+     "titre": "Numérisation des odeurs"
+    },
+    {
+     "t": "00:29:48",
+     "titre": "Création d'odeurs numériques et futur du diagnostic médical"
+    },
+    {
+     "t": "00:33:43",
+     "titre": "Remerciements"
+    }
+   ]
   }
  ],
  "failed": {}

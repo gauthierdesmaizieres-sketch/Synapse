@@ -1,0 +1,454 @@
+{
+ "date": "2026-11-16",
+ "generated": "2026-11-16T06:03:07+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Édition génétique : une seule perfusion CRISPR réduit les lipides sanguins chez le singe pendant 3 ans.\n• Chimie supramoléculaire : une cage organique capture sélectivement l'iodure dans l'eau avec une constante Ka de 43 000 M⁻¹.\n• Musculation & Santé : 8 semaines d'entraînement contre résistance diminuent la myostatine, l'IL-1β et l'HbA1c chez des femmes diabétiques.\n• Toxicologie : identification du GHB-β-ribose comme biomarqueur étendant la détection du GHB jusqu'à 48 heures dans le sang.\n• Chimie fondamentale : première démonstration d'une élimination réductrice photocatalytique sur un centre de phosphore V.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+   "kind": "vulga",
+   "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+   "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy is lost as heat during this process, reducing efficiency and potentially affecting the device's performance.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-insights-into-a-pr.jpg",
+   "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+   "source": "Phys.org",
+   "date": "2026-11-13",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des électrons au comportement plus lourd expliquent le ralentissement du flux électrique dans l'oxyde d'alpha-gallium. Cette découverte permet d'optimiser le rendement des composants de puissance en réduisant les pertes thermiques."
+  },
+  {
+   "id": "doi:10.1021/jacs.6c15081",
+   "kind": "paper",
+   "title": "Simultaneous Selective Recognition of Two Different Anions within a Hydrogen/Halogen-Bonding Cage",
+   "summary": "The search for selective anion receptors that can function in water is a longstanding challenge in supramolecular chemistry, motivated by anions’ fundamental roles (and potential applications) in biological, environmental, and industrial processes.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c15081",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-11-12",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.26434/chemrxiv.15004776/v2",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une cage moléculaire combinant liaisons halogène et hydrogène fixe simultanément deux anions distincts. Dans l'eau, sa constante d'affinité pour l'iodure atteint 43 000 M⁻¹, égalant la sélectivité des récepteurs biologiques."
+  },
+  {
+   "id": "doi:10.1002/ange.9244932",
+   "kind": "paper",
+   "title": "Photocatalytic Reductive Elimination From a Main Group Center",
+   "summary": "The development of \"transition metal-like\" reactivity using earth-abundant p-block elements is one of the most prominent and challenging goals of contemporary main group chemistry. This difficulty is exemplified by the key, catalytically relevant bond-forming step of reductive elimination which, while often facile for transition metals…",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.9244932",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-13",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.9244932",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Une élimination réductrice photocatalytique a été réalisée sur un complexe de phosphore V en conditions douces. Cette approche par oxydation transitoire confère aux éléments du bloc p une réactivité catalytique digne des métaux de transition."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html",
+   "kind": "vulga",
+   "title": "Molecular sensor makes invisible traces of mercury easier to see",
+   "summary": "Mercury contamination presents an obvious challenge: it is invisible. A glass of water or a piece of fruit can seem perfectly normal to the naked eye, even when trace amounts of toxic mercury are present. Detecting such minute levels usually requires specialized laboratory tools and trained experts.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-sensor-makes-invis.jpg",
+   "url": "https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html",
+   "source": "Phys.org",
+   "date": "2026-11-13",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Un nouveau capteur moléculaire permet de détecter des traces invisibles de mercure toxique dans l'eau et les aliments. Ce dispositif simplifie l'identification du polluant sans nécessiter d'équipement de laboratoire complexe."
+  },
+  {
+   "id": "doi:10.7554/elife.110575.4",
+   "kind": "paper",
+   "title": "Cis-regulation and natural selection in the evolution of human DNA methylation",
+   "summary": "The vast collection of human-specific traits—such as our unique morphology, cognition, behavior, and diseases—has long been attributed to gene expression divergence between us and our closest living relatives, chimpanzees.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.110575.4",
+   "source": "eLife",
+   "date": "2026-11-12",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.110575.4",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "En étude in vitro sur des cellules d'hominidés, la divergence de méthylation du DNA s'avère principalement régie en cis. Les variations en trans sont quant à elles enrichies en motifs de fixation du facteur FOXM1."
+  },
+  {
+   "id": "doi:10.1038/s41594-026-01917-1",
+   "kind": "paper",
+   "title": "KAS-CUT&Tag for direct mapping of transcription bubbles",
+   "summary": "Transcription by RNA polymerase II (Pol II) generates dynamic transcription bubbles as it moves forward, but existing methods map transcriptional activity indirectly. Here we introduce KAS-CUT&Tag, a method that combines N 3 -kethoxal labeling of exposed single-stranded DNA with CUT&Tag to directly map transcription bubbles.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41594-026-01917-1",
+   "source": "Nature Structural & Molecular Biology",
+   "date": "2026-11-13",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41594-026-01917-1.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "La méthode KAS-CUT&Tag associe le marquage N3-kethoxal au CUT&Tag pour cartographier directement les bulles de transcription. Testée in vitro sur cellules K562, elle révèle une forte corrélation avec les modifications d'histones actives."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-crispr-infusion-lowers-blood-fats.html",
+   "kind": "vulga",
+   "title": "A single CRISPR infusion lowers blood fats in monkeys for three years",
+   "summary": "High levels of LDL cholesterol and triglycerides, which are types of blood fats, are major contributors to atherosclerotic cardiovascular disease. Gene-editing technologies offer a potential alternative to lipid-lowering medications.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/one-crispr-infusion-lo.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-crispr-infusion-lowers-blood-fats.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-14",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Une étude animale montre qu'une seule perfusion CRISPR diminue durablement les lipides sanguins chez des singes pendant trois ans. Ce traitement offre une alternative prometteuse aux médicaments quotidiens contre l'athérosclérose."
+  },
+  {
+   "id": "doi:10.1126/sciadv.aeh1261",
+   "kind": "paper",
+   "title": "Identification of gamma-hydroxybutyrate (GHB)-β-ribose as a promising biomarker enabling prolonged detection of GHB intake.",
+   "summary": "For several years, forensic toxicologists have sought biomarkers to extend the detection window of gamma-hydroxybutyric acid (GHB), a drug suspected to be involved in drug-facilitated sexual assaults yet difficult to detect due to its rapid elimination, endogenous presence, and postsampling formation.",
+   "image": null,
+   "url": "https://doi.org/10.1126/sciadv.aeh1261",
+   "source": "Science advances",
+   "date": "2026-11-13",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://www.science.org/doi/pdf/10.1126/sciadv.aeh1261?download=true",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai clinique sur 30 participants a identifié le GHB-β-ribose comme biomarqueur de consommation de GHB. Sa présence reste mesurable jusqu'à 48 heures dans le sang et 24 heures dans l'urine."
+  },
+  {
+   "id": "doi:10.1177/03000605261468560",
+   "kind": "paper",
+   "title": "Bladder instillation cocktail for preventing catheter-related bladder discomfort after gynecologic surgery: A randomized controlled trial.",
+   "summary": "ObjectiveTo investigate the effectiveness of intravesical instillation of a drug cocktail in preventing postoperative catheter-related bladder discomfort.MethodsIn total, 112 patients were randomized into the \"cocktail\" or control group.",
+   "image": null,
+   "url": "https://doi.org/10.1177/03000605261468560",
+   "source": "The Journal of international medical research",
+   "date": "2026-11-12",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1177/03000605261468560",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un cocktail d'instillation intravésicale associe dexmédétomidine, sulfate de magnésium et dexaméthasone pour réduire l'inconfort lié à la sonde urinaire. L'essai clinique montre un risque d'inconfort réduit de moitié à une heure."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-hot-cold-exploring.html",
+   "kind": "vulga",
+   "title": "Hot or cold? Exploring what works best after exercise",
+   "summary": "Ice baths have become one of the most popular recovery strategies in sport. They are used by elite athletes and recreational gym-goers to reduce soreness and recuperate more quickly after exercising.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/sea-sauna.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-hot-cold-exploring.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-14",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "L'analyse des bains de glace et du chaud étudie les meilleures méthodes de récupération post-effort. Ces protocoles visent à réduire les courbatures et optimiser la restauration musculaire chez les sportifs."
+  },
+  {
+   "id": "doi:10.2196/79146",
+   "kind": "paper",
+   "title": "Chin Tuck Against Resistance Exercise With Feedback to Improve Swallowing, Eating, and Drinking in Frail Older People Admitted to Hospital With Pneumonia (CTAR-SwiFt): Randomized Controlled Feasibility Study.",
+   "summary": "The literature supports the benefit of CTAR in improving swallowing in community-dwelling older adults. Our study has demonstrated that older, frail adults are able to perform CTAR and could use the ExerPhager. A future study should investigate the benefits of CTAR-SwiFt in community-dwelling older, frail adults after pneumonia.",
+   "image": null,
+   "url": "https://doi.org/10.2196/79146",
+   "source": "JMIR formative research",
+   "date": "2026-11-13",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.2196/79146",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "L'exercice de flexion du menton contre résistance avec balle connectée entraîne les muscles antérieurs du cou chez les séniors. Cet essai de faisabilité vise à améliorer la sécurité de la déglutition lors de pneumonies."
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-10551388/v1",
+   "kind": "paper",
+   "title": "The Effect of Eight Weeks of Resistance Training on Serum Levels of Myostatin, Interleukin-1 Beta, Vascular Endothelial Growth Factor, and Nitrotyrosine-3, and Its Association with Inflammatory-Myokine Changes and Glycemic Control in Middle-Aged Women with Type 2 Diabetes",
+   "summary": "Background and Aim: Type 2 diabetes is a prevalent metabolic disorder. Resistance training has been proposed as an effective non-pharmacological intervention; however, its underlying molecular mechanisms in middle-aged women remain poorly understood.",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-10551388/v1",
+   "source": "Research Square",
+   "date": "2026-11-12",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-10551388/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Chez 14 femmes diabétiques, huit semaines de musculation à 40-75% du 1RM ont diminué la myostatine et l'IL-1β. L'entraînement a également augmenté le VEGF et réduit significativement le taux d'HbA1c."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-ketogenic-diets-mitochondrial-stress-inflammation.html",
+   "kind": "vulga",
+   "title": "Some ketogenic diets found to cause mitochondrial stress and lead to inflammation",
+   "summary": "New University of Cincinnati Cancer Center research found that a ketogenic diet high in long-chain saturated fatty acids can increase inflammation.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ketogenic-diet-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-ketogenic-diets-mitochondrial-stress-inflammation.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-13",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Les régimes cétogènes très riches en acides gras saturés à chaîne longue provoquent un stress mitochondrial favorisant l'inflammation. La nature exacte des lipides consommés s'avère donc déterminante pour la santé métabolique."
+  },
+  {
+   "id": "doi:10.64898/2026.11.10.765724",
+   "kind": "paper",
+   "title": "Germ Granule Remodeling Reveals Germline Age in Caenorhabditis elegans",
+   "summary": "Germline aging limits reproductive lifespan, yet quantitative measures of germline age at cellular resolution within intact tissue remain limited. Here, we show that two germline condensates, P granules and Mutator foci, undergo systematic age-associated remodeling in Caenorhabditis elegans , changing in morphology, spatial organization…",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.11.10.765724",
+   "source": "bioRxiv",
+   "date": "2026-11-12",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.11.10.765724",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Une étude animale chez C. elegans montre que le remodelage des granules germinaux sert d'horloge biologique du vieillissement. Le jeûne intermittent parvient à ramener ces condensats cellulaires vers un état plus jeune."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html",
+   "kind": "vulga",
+   "title": "People with autism show remarkable variability in brain activity",
+   "summary": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and individuals who do not have autism.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2023/brain-activity.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-15",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Une forte variabilité de l'activité cérébrale a été observée chez les individus atteints de troubles du spectre autistique. Cette hétérogénéité biologique souligne la diversité des profils neurobiologiques au sein de cette population."
+  },
+  {
+   "id": "doi:10.3724/sp.j.1042.2027.0378",
+   "kind": "paper",
+   "title": "Does foreign language learning improve executive functions in older adults? A three-level meta-analysis",
+   "summary": "摘要： 为揭示老年阶段启动的外语学习对个体执行功能的影响, 对纳入的20项研究(63个效应量)进行三水平元分析。结果显示, 老年阶段外语学习对执行功能具有较小但显著的改善作用(g = 0.37, p < 0.001); 在高质量“外语学习-主动对照”RCT亚组中, 效应明显减弱(g = 0.11, p = 0.119), 提示语言特异性增益有限, 总体效应可能部分源于外语学习的一般认知刺激属性。调节效应分析发现, 执行功能的改善效果受语言距离的显著调节, 语言距离越远, 认知改善越显著; 初步证据显示, 认知障碍老人的增益效果优于健康群体, 但该结论仅基于3项独立研究, 有待后续验证。线性元回归中, 学习时长和学习强度的调节作用均不显著; 进一步的非线性分析显示…",
+   "image": null,
+   "url": "https://doi.org/10.3724/sp.j.1042.2027.0378",
+   "source": "Advances in Psychological Science",
+   "date": "2026-11-12",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://journal.psych.ac.cn/xlkxjz/CN/article/downloadArticleFile.do?attachType=PDF&id=7966",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Une méta-analyse de 20 études montre que l'apprentissage d'une langue étrangère chez les séniors améliore les fonctions exécutives (g = 0,37). L'effet bénéfique augmente lorsque la distance entre les langues est importante."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
+   "kind": "vulga",
+   "title": "New brain-body connections expand understanding of Alzheimer's disease",
+   "summary": "Research on Alzheimer's disease (AD) and aging has found strong connections between physical health and brain health. These new connections were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/alzheimers-disease-2.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-14",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "De nouvelles connexions entre la santé physique globale et la fonction cérébrale éclairent les mécanismes de la maladie d'Alzheimer. Ces travaux mettent en avant l'importance des interactions corps-esprit dans le vieillissement cognitif."
+  },
+  {
+   "id": "doi:10.1038/s43587-026-01228-6",
+   "kind": "paper",
+   "title": "Understanding the social determinants of healthy aging across the lifecourse with social policy experiments.",
+   "summary": "Social and economic conditions shape healthy aging, but it remains unclear whether policies that modify these conditions change aging-related biomarkers or later-life functional trajectories.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s43587-026-01228-6",
+   "source": "Nature aging",
+   "date": "2026-11-12",
+   "tags": [
+    "Revue"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "L'intégration d'expérimentations sociales et de biomarqueurs permet d'évaluer l'impact des politiques publiques sur le vieillissement biologique. Cette approche clarifie comment l'environnement socio-économique modifie les trajectoires de santé à long terme."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
+   "kind": "vulga",
+   "title": "Tangled quantum whirlpools caught unraveling in an ultracold gas",
+   "summary": "When a cloud of atoms is cooled close to absolute zero, its atoms can merge into a Bose–Einstein condensate (BEC): an exotic fluid in which atoms across the whole cloud share a single quantum state.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/tangled-quantum-whirlp.jpg",
+   "url": "https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html",
+   "source": "Phys.org",
+   "date": "2026-11-15",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "L'observation de tourbillons quantiques intriqués se démêlant dans un condensat de Bose-Einstein éclaire la dynamique des fluides quantiques. Cette expérience apporte des précisions fondamentales sur la matière refroidie au zéro absolu."
+  },
+  {
+   "id": "doi:10.1126/science.adr5469",
+   "kind": "paper",
+   "title": "Quantitative measurement of viscosity in two-dimensional electron fluids",
+   "summary": "Electron hydrodynamics is an emerging framework that describes dynamics of interacting electron systems as conventional fluids. Although evidence for hydrodynamic-like transport has been reported in a variety of two-dimensional materials, precise quantitative measurement of the core parameter, electron viscosity, remains challenging.",
+   "image": null,
+   "url": "https://doi.org/10.1126/science.adr5469",
+   "source": "Science",
+   "date": "2026-11-12",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2407.05026",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Des mesures de magnétorésistance in vitro dans le graphène ont quantifié la viscosité des électrons en deux dimensions. Le taux de dispersion varie linéairement avec la température, confirmant un régime de fluide tomographique."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-extreme-weather-big-corporations-poorer.html",
+   "kind": "vulga",
+   "title": "Extreme weather risk is scaring big corporations away from poorer countries—that hurts the companies, too",
+   "summary": "When multinational companies decide where to build a factory, open a mine or establish a regional office, they have to consider whether the investment will still be profitable years into the future.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/flood-in-thailand.jpg",
+   "url": "https://phys.org/news/2026-11-extreme-weather-big-corporations-poorer.html",
+   "source": "Phys.org",
+   "date": "2026-11-12",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Les risques climatiques extrêmes incitent les multinationales à réduire leurs investissements dans les pays en développement. Cette prudence économique fragilise les marchés locaux tout en privant les entreprises d'opportunités de croissance."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-scientists-successfully-swap-fish-products.html",
+   "kind": "vulga",
+   "title": "Scientists successfully swap all fish products in aquafeed to boost sustainable fish farming",
+   "summary": "Global fish production and consumption have hit new heights, according to the United Nations. People worldwide are consuming much more fish per capita, and more than 23 million people now work in the aquaculture industry. That booming business is putting pressure on the world's oceans.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/uc-santa-cruz-scientis.jpg",
+   "url": "https://phys.org/news/2026-11-scientists-successfully-swap-fish-products.html",
+   "source": "Phys.org",
+   "date": "2026-11-13",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Des chercheurs ont réussi à remplacer totalement les produits d'origine poissonnière dans la nourriture pour l'aquaculture. Cette innovation nutritionnelle préserve les ressources marines tout en répondant à la demande mondiale croissante."
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-11-high-resolution-bionic-eye-combines.html",
+   "kind": "vulga",
+   "title": "High-resolution bionic eye combines color imaging with more efficient motion detection",
+   "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have developed a high-resolution bionic eye that integrates full-color imaging, an aberration-corrected field of view exceeding 160 degrees and event-driven motion detection.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-hi-4.jpg",
+   "url": "https://techxplore.com/news/2026-11-high-resolution-bionic-eye-combines.html",
+   "source": "Tech Xplore",
+   "date": "2026-11-13",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Un œil bionique haute résolution offre une vision couleur sur un champ étendu à plus de 160 degrés. Son système de détection de mouvement optimisé améliore l'efficacité des prothèses visuelles artificielles."
+  }
+ ]
+}
