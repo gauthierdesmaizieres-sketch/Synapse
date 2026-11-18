@@ -1,0 +1,379 @@
+{
+ "date": "2026-11-18",
+ "generated": "2026-11-18T13:39:44+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": null,
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-extreme-cold-passion-fruit-vitamin.html",
+   "kind": "vulga",
+   "title": "Extreme cold preserves passion fruit's vitamin C, but not all of its antioxidants",
+   "summary": "Passion fruit can travel thousands of kilometers before it reaches international markets. Along the way, one of the food industry's biggest challenges is making sure its nutritional qualities survive processing, storage and transport.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/extreme-cold-preserves.jpg",
+   "url": "https://phys.org/news/2026-11-extreme-cold-passion-fruit-vitamin.html",
+   "source": "Phys.org",
+   "date": "2026-11-17",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1002/anie.7350605",
+   "kind": "paper",
+   "title": "The Radical Truth: Why [Mn(CO) 5 ] 2 Outperforms Dinuclear Metal Carbonyls of Fe, Ru, Co, and Mo as a Photoinitiator",
+   "summary": "Dimanganese decacarbonyl, [Mn(CO) 5 ] 2 ( Mn 2 ), is a leading photoinitiator and has found applications in halogen atom transfer (XAT) reactions, as an initiator for polymerization and as a promotor for element‐hydrogen bond activation.",
+   "image": null,
+   "url": "https://doi.org/10.1002/anie.7350605",
+   "source": "Angewandte Chemie International Edition",
+   "date": "2026-11-14",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.7350605",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1021/jacs.6c15887",
+   "kind": "paper",
+   "title": "Disrupting Hidden Antiaromaticity in N -Hydroxyphthalimide Reveals a Design Principle for Highly Reactive N -Oxyl Hydrogen Atom Transfer Mediators",
+   "summary": "N-hydroxyphthalimide (NHPI) and its corresponding N-oxyl radical, phthalimide N-oxyl (PINO), have long been used as mediators for hydrogen atom transfer (HAT), particularly in radical-mediated C–H oxidations.",
+   "image": null,
+   "url": "https://doi.org/10.1021/jacs.6c15887",
+   "source": "Journal of the American Chemical Society",
+   "date": "2026-11-16",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.26434/chemrxiv-2024-ww74d/v3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78762-9",
+   "kind": "paper",
+   "title": "4D mitochondrial network assumes distinct and predictive phenotypes through human lung and intestinal epithelial development",
+   "summary": "Mitochondria form dynamic three-dimensional networks that exhibit a wide range of morphology and motility depending on cell state, cell type, and cell fate. Isolated phenotypes have been described for individual cell states, but how mitochondrial morphology and motility change across the full course of human tissue development has so far…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78762-9",
+   "source": "Nature Communications",
+   "date": "2026-11-16",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-78762-9",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "doi:10.1002/ange.8646657",
+   "kind": "paper",
+   "title": "Stepwise Proximity Labeling With a Switchable Organophotocatalyst",
+   "summary": "Photoinducible proximity labeling (PL) using photocatalysts offers high spatiotemporal resolution for profiling protein–protein interactions (PPIs). Conventional approaches require genetic installation of a tag to tether the photocatalyst to a protein of interest (POI), which may perturb native protein function and cause artificial…",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.8646657",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-14",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.8646657",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-algernon-experimental-nose-memory-mice.html",
+   "kind": "vulga",
+   "title": "Inspired by 'Flowers for Algernon,' experimental nose drops improve memory in mice",
+   "summary": "Researchers at the University of Sydney have developed experimental nose drops that enhance learning and memory in aged mice while also preventing memory loss in a mouse model of Alzheimer's disease. The treatment uses mRNA technology similar to that developed for use in COVID-19 vaccines.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/experimental-nose-drop.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-algernon-experimental-nose-memory-mice.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.64898/2026.11.09.26367685",
+   "kind": "paper",
+   "title": "Immune Defense Protein IDP Improves Cough and Chest Congestion During Cold and Flu Season in Older Adults: A Randomized, Double-Blind, Placebo-Controlled Study",
+   "summary": "Sixteen weeks of daily IDP supplementation was associated with a reduction in duration and severity of cough and chest congestion in older adults. IDP appears safe and tolerable.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.11.09.26367685",
+   "source": "medRxiv",
+   "date": "2026-11-16",
+   "tags": [
+    "Essai randomisé",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.11.09.26367685",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.1177/03331024261499722",
+   "kind": "paper",
+   "title": "Sustained response to atogepant in episodic and chronic migraine: Post-hoc analyses of ELEVATE and PROGRESS, and their open-label extension.",
+   "summary": "BackgroundThese post-hoc analyses evaluated the proportions of participants who experienced sustained responses to atogepant, an oral calcitonin gene-related peptide receptor antagonist, over two 3-month, double-blind, randomized controlled trials (RCTs) (ELEVATE and PROGRESS) and a 12-month interim analysis of the open-label extension…",
+   "image": null,
+   "url": "https://doi.org/10.1177/03331024261499722",
+   "source": "Cephalalgia : an international journal of headache",
+   "date": "2026-11-17",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-cold-hard-facts-ice.html",
+   "kind": "vulga",
+   "title": "Cold hard facts: When ice baths help... and when they hurt",
+   "summary": "A major review has found that plunging into cold water after exercise can speed recovery and boost performance in some situations—but using it after every workout could be detrimental to strength and muscle gains.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ice-baths.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-cold-hard-facts-ice.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-intermittent-fasting-additional-benefits-mediterranean.html",
+   "kind": "vulga",
+   "title": "Intermittent fasting offers no additional benefits over the Mediterranean diet for reducing liver fat",
+   "summary": "A study led by the University of Granada and the Public University of Navarra has determined that, in the context of intermittent fasting, the time of day when one eats matters less than the amount of weight lost when it comes to reducing liver fat.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/intermittent-fasting.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-intermittent-fasting-additional-benefits-mediterranean.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-17",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition"
+  },
+  {
+   "id": "doi:10.1007/s10072-026-09534-y",
+   "kind": "paper",
+   "title": "Status epilepticus in mTORopathies: a systematic review of clinical features, management, and outcomes.",
+   "summary": "SE remains a significant clinical challenge in patients with mTORopathies. mTOR signaling may contribute to the pathogenesis of SE and could represent a potential therapeutic target. Further investigation in large cohort studies is needed to clarify the role of mTOR signaling in SE and to evaluate the effects of mTOR inhibitors and…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s10072-026-09534-y",
+   "source": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+   "date": "2026-11-16",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10072-026-09534-y.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-approach-aims-treatment-accessible-children.html",
+   "kind": "vulga",
+   "title": "New approach aims to make treatment more accessible for children with rare brain disorders",
+   "summary": "McGill University researchers have developed and tested a new way to facilitate the creation of personalized genetic therapies for children with rare neurodevelopmental disorders. Currently, many children suffering from rare disorders are left without a realistic path to treatment, given that the underlying genetic changes may affect…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/neurodevelopmental.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-approach-aims-treatment-accessible-children.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79000-y",
+   "kind": "paper",
+   "title": "Theoretical frameworks for credit assignment via behavioral timescale synaptic plasticity",
+   "summary": "Behavioral Timescale Synaptic Plasticity (BTSP) is a form of plasticity which drives place field formation in hippocampal pyramidal neurons. Unlike traditional learning rules, BTSP learns pre-post correlations on timescales of seconds and rapidly changes single-unit activity in only a few trials.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79000-y",
+   "source": "Nature Communications",
+   "date": "2026-11-14",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79000-y_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-mild-alzheimer-patients-benefit-40hz.html",
+   "kind": "vulga",
+   "title": "Mild Alzheimer's patients benefit from 40Hz sensory stimulation in national clinical trial",
+   "summary": "At the Clinical Trials on Alzheimer's Disease conference in Boston Nov. 16, MIT spinoff company Cognito Therapeutics announced the results of its pivotal clinical trial of a noninvasive, device-based approach to Alzheimer's disease (AD) treatment first discovered in The Picower Institute in 2014.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2019/12-brain.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-mild-alzheimer-patients-benefit-40hz.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite"
+  },
+  {
+   "id": "doi:10.1159/sfn/aeuag020",
+   "kind": "paper",
+   "title": "Longevity of Non-Rechargeable Implantable Pulse Generators in Deep Brain Stimulation: A Systematic Review.",
+   "summary": "DBS IPG longevity reflects an interaction between stimulation-energy requirements, programming strategy, device architecture, and clinical context. Energy-efficient programming, proactive battery surveillance, and individualized device selection may reduce replacement burden while maintaining effective stimulation.",
+   "image": null,
+   "url": "https://doi.org/10.1159/sfn/aeuag020",
+   "source": "Stereotactic and functional neurosurgery",
+   "date": "2026-11-14",
+   "tags": [
+    "Revue systématique"
+   ],
+   "oa": {
+    "url": "https://academic.oup.com/sfn/advance-article-pdf/doi/10.1159/sfn/aeuag020/73626562/aeuag020.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-microwave-link-quantum-state.html",
+   "kind": "vulga",
+   "title": "Using a microwave link to transfer a three-level quantum state",
+   "summary": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-world tasks.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-a-microwave-link.jpg",
+   "url": "https://phys.org/news/2026-11-microwave-link-quantum-state.html",
+   "source": "Phys.org",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique"
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aeb7de",
+   "kind": "paper",
+   "title": "First-principles Turbulence-driven Deflagration-to-detonation Transition Mechanism for Near-Chandrasekhar-mass White Dwarf Progenitors",
+   "summary": "Type Ia supernovae (SNe Ia) play an important role throughout astrophysics, most notably as standardizable cosmological candles. Yet, their stellar progenitors and explosion mechanism remain areas of active investigation.",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aeb7de",
+   "source": "The Astrophysical Journal",
+   "date": "2026-11-16",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.3847/1538-4357/aeb7de",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-gender-differences-values-widening-europe.html",
+   "kind": "vulga",
+   "title": "Gender differences in values are not widening in Europe after all",
+   "summary": "In recent years, public discussion has focused on the increasingly conservative values of young men. A recently published study indicates that this is primarily a phenomenon prominent in social and conventional media, not an overall trend.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/young-men-2.jpg",
+   "url": "https://phys.org/news/2026-11-gender-differences-values-widening-europe.html",
+   "source": "Phys.org",
+   "date": "2026-11-17",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-genomic-breakthrough-southern-corroboree-frog.html",
+   "kind": "vulga",
+   "title": "Genomic breakthrough offers new hope for southern corroboree frog",
+   "summary": "Researchers have shown for the first time that genomic selection—a breeding technique widely used in agriculture—could help one of Australia's most threatened frogs become more resilient to a deadly disease.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/genomic-breakthrough-o.jpg",
+   "url": "https://phys.org/news/2026-11-genomic-breakthrough-southern-corroboree-frog.html",
+   "source": "Phys.org",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116",
+   "kind": "vulga",
+   "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+   "summary": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp",
+   "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-16",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  }
+ ]
+}

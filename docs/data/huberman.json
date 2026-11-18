@@ -1,6 +1,129 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+   "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+   "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+   "date": "2026-11-16",
+   "duration": 8935,
+   "resume": "Dans cet épisode, Andrew Huberman reçoit le mycologue Paul Stamets pour explorer l'impact majeur des champignons et des réseaux mycéliens sur la santé humaine et la nature. Ils examinent comment des champignons médicinaux tels que l'Agarikon et la Queue de dindon renforcent le système immunitaire et optimisent la réponse aux vaccins, ainsi que l'intérêt de la psilocybine dans le traitement de la dépression et la stimulation de la neuroplasticité. L'entretien aborde également le microdosage, les champignons bénéfiques pour la cognition (Crinière de lion, Cordyceps) et la mycoremédiation environnementale. En conclusion, les composés fongiques représentent une ressource inestimable d'intelligence naturelle pour préserver l'immunité, la cognition et les écosystèmes.",
+   "points": [
+    "Le mycélium agit comme un réseau biologique intelligent capable de moduler les écosystèmes et d'offrir une défense immunitaire naturelle.",
+    "Les champignons médicinaux comme l'Agarikon et la Queue de dindon possèdent de puissantes propriétés immunomodulatrices et antivirales réduisant l'inflammation excessive.",
+    "La psilocybine stimule la neuroplasticité et la synaptogenèse, offrant des taux de rémission significatifs contre la dépression lorsqu'elle est accompagnée d'un suivi thérapeutique.",
+    "Le protocole de microdosage « Stamets Stack » associe de faibles doses de psilocybine, de la Crinière de lion et de la niacine pour favoriser la régénération nerveuse et la motricité.",
+    "Certains champignons possèdent la capacité de décomposer des polluants complexes comme les hydrocarbures, offrant des solutions écologiques majeures (mycoremédiation)."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Soutien immunitaire préventif (Agarikon & Queue de dindon)",
+     "comment": "Consommer des extraits de mycélium d'Agarikon et de Queue de dindon (Turkey Tail) sous forme de suppléments quotidiennement ou avant une exposition accrue à des agents pathogènes."
+    },
+    {
+     "quoi": "Microdosage pour la régénération nerveuse (« Stamets Stack »)",
+     "comment": "Associer une microdose sub-sensorielle de psilocybine (environ 0,1 à 0,3 g de champignon sec), de la Crinière de lion (Lion's Mane) et de la niacine (vitamine B3 avec effet flush). Précautions : vérifier la législation locale ; contre-indiqué chez les personnes ayant des antécédents familiaux de psychose ou de bipolarité."
+    },
+    {
+     "quoi": "Test de condition physique cardiovasculaire (Pompes quotidiennes)",
+     "comment": "Effectuer des séries de pompes régulièrement (viser jusqu'à 40 pompes consécutives 3 fois par semaine), un indicateur corrélé à une réduction marquée du risque d'accident cardiaque."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Paul Stamets"
+    },
+    {
+     "t": "00:03:25",
+     "titre": "Évolution fongique, complexité et intelligence naturelle"
+    },
+    {
+     "t": "00:10:02",
+     "titre": "Géographie des champignons, mycélium et système immunitaire"
+    },
+    {
+     "t": "00:17:43",
+     "titre": "Parcours en mycologie et influence fraternelle"
+    },
+    {
+     "t": "00:21:14",
+     "titre": "Primates, consommation de champignons, toxicité et santé"
+    },
+    {
+     "t": "00:25:14",
+     "titre": "Champignons médicinaux et propriétés antivirales"
+    },
+    {
+     "t": "00:30:26",
+     "titre": "Pandémie de COVID, Queue de dindon, Agarikon et renforcement vaccinal"
+    },
+    {
+     "t": "00:40:33",
+     "titre": "Stimulation immunitaire, médicaments et effet d'entourage"
+    },
+    {
+     "t": "00:47:47",
+     "titre": "Produits pharmaceutiques et monde naturel"
+    },
+    {
+     "t": "00:53:28",
+     "titre": "Suppléments fongiques contre les infections et recherche"
+    },
+    {
+     "t": "01:01:28",
+     "titre": "Sceptiques, pandémies futures, H5N1 et biodiversité"
+    },
+    {
+     "t": "01:11:39",
+     "titre": "Psilocybine, dépression et dose héroïque"
+    },
+    {
+     "t": "01:16:51",
+     "titre": "Psilocybine : légalité, populations à risque et bénéfices"
+    },
+    {
+     "t": "01:21:41",
+     "titre": "Thérapies psychédéliques, neuroplasticité et accompagnement"
+    },
+    {
+     "t": "01:27:36",
+     "titre": "Psychédéliques et avancées vers la légalisation"
+    },
+    {
+     "t": "01:36:12",
+     "titre": "Microdosage, versions synthétiques vs champignons naturels"
+    },
+    {
+     "t": "01:42:11",
+     "titre": "Microdosage, niveaux de dose et perceptions sensorielle"
+    },
+    {
+     "t": "01:48:14",
+     "titre": "Microdosage, « Stamets Stack », humeur et fonctions motrices"
+    },
+    {
+     "t": "01:54:10",
+     "titre": "Champignons pour la cognition : Cordyceps, Crinière de lion, Reishi"
+    },
+    {
+     "t": "01:59:55",
+     "titre": "Réseaux mycéliens, communication électrique et tryptamines"
+    },
+    {
+     "t": "02:09:48",
+     "titre": "Champignons de la peau et de l'intestin, interactions antifongiques"
+    },
+    {
+     "t": "02:13:28",
+     "titre": "Mycoremédiation et dégradation des polluants environnementaux"
+    },
+    {
+     "t": "02:19:27",
+     "titre": "Pratique des pompes, longévité et créativité"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
    "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
    "url": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
