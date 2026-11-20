@@ -1,6 +1,121 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
+   "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+   "url": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
+   "date": "2026-11-19",
+   "duration": 2146,
+   "resume": "Cet épisode examine les effets neurobiologiques et physiologiques de la nicotine, en distinguant la molécule elle-même de ses modes d'administration nocifs comme la cigarette et le vapotage. La nicotine stimule la dopamine, l'acétylcholine et la noradrénaline, ce qui améliore la concentration, la vigilance et l'humeur tout en relâchant les muscles squelettiques. Toutefois, la consommation par combustion ou vapotage endommage gravement le système cardiovasculaire, dégrade les cellules endothéliales et crée une forte dépendance. L'épisode détaille plusieurs stratégies scientifiques et médicales pour réussir le sevrage tabagique ou l'arrêt du vapotage.",
+   "points": [
+    "La nicotine stimule la libération de dopamine, d'acétylcholine et de noradrénaline, améliorant l'attention et la vigilance tout en induisant une relaxation musculaire.",
+    "Ce ne sont pas la nicotine elle-même mais les méthodes d'administration (cigarette, vapotage, chique) qui contiennent des cancérigènes et détruisent les cellules endothéliales.",
+    "La hausse extrêmement rapide de la nicotine sanguine liée au vapotage provoque des pics de dopamine intenses, augmentant considérablement son potentiel addictif.",
+    "Lors du sevrage, la dopamine chute sous son niveau de base, générant un manque aigu, de l'irritabilité et un risque élevé de récidive dès la première semaine.",
+    "Des méthodes d'accompagnement comme l'hypnose clinique ou la substitution nicotinique rotative augmentent significativement les chances de succès d'arrêt définitif."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Hypnose clinique (méthode du Dr David Spiegel / Reveri)",
+     "comment": "Pratiquer une séance d'hypnose guidée ciblant le sevrage tabagique, suivie de rappels réguliers (hebdomadaires ou mensuels) pour renforcer le changement comportemental."
+    },
+    {
+     "quoi": "Thérapie de substitution nicotinique rotative",
+     "comment": "Alterner entre patchs, gommes et sprays nasaux à la nicotine (ex. une semaine chacun) en réduisant progressivement la dose pour éviter d'ancrer une habitude liée à une seule modalité."
+    },
+    {
+     "quoi": "Stimulation naturelle de la dopamine durant la première semaine de sevrage",
+     "comment": "Utiliser des moyens sains comme les douches froides, l'exercice physique et les interactions sociales positives pour compenser la baisse critique de dopamine sous le niveau de base lors des 7 premiers jours."
+    },
+    {
+     "quoi": "Traitement au bupropion (Wellbutrin)",
+     "comment": "Consulter un médecin psychiatre ou généraliste pour évaluer la prescription de bupropion afin de réduire le manque et remonter les niveaux de dopamine (attention aux contre-indications médicales)."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Nicotine"
+    },
+    {
+     "t": "00:00:11",
+     "titre": "Nicotine vs modes d'administration ; récepteurs nicotiniques"
+    },
+    {
+     "t": "00:02:21",
+     "titre": "Où trouve-t-on la nicotine ? ; voies d'absorption"
+    },
+    {
+     "t": "00:04:23",
+     "titre": "Nicotine, dopamine et voie mésolimbique de la récompense"
+    },
+    {
+     "t": "00:06:36",
+     "titre": "Renforcement ; acétylcholine et focalisation attentionnelle"
+    },
+    {
+     "t": "00:08:54",
+     "titre": "Noradrénaline, vigilance et énergie"
+    },
+    {
+     "t": "00:10:05",
+     "titre": "Appétit et métabolisme"
+    },
+    {
+     "t": "00:11:24",
+     "titre": "Fréquence cardiaque, pression artérielle et vasoconstriction"
+    },
+    {
+     "t": "00:13:05",
+     "titre": "Travail cognitif vs performance physique"
+    },
+    {
+     "t": "00:14:20",
+     "titre": "Modes d'administration et risques pour la santé ; jeunes et développement cérébral"
+    },
+    {
+     "t": "00:17:24",
+     "titre": "Cigarette, vapotage, chique et priser : carcinogènes, cellules endothéliales et espérance de vie"
+    },
+    {
+     "t": "00:19:55",
+     "titre": "Désir d'arrêter, envies incontrôlables et sevrage ; nicotine et cancer"
+    },
+    {
+     "t": "00:22:07",
+     "titre": "Vapotage, rapidité d'effet, dopamine et addiction"
+    },
+    {
+     "t": "00:24:13",
+     "titre": "Vapotage et dépression ; arrêt brutal et récidive"
+    },
+    {
+     "t": "00:27:05",
+     "titre": "Outil : l'hypnose clinique pour arrêter de fumer ou de vapoter"
+    },
+    {
+     "t": "00:29:05",
+     "titre": "Outil : le bupropion"
+    },
+    {
+     "t": "00:30:21",
+     "titre": "Outil : la thérapie de substitution nicotinique ; patch, gomme et spray nasal"
+    },
+    {
+     "t": "00:32:30",
+     "titre": "Homéostasie et récidive ; outil : surmonter la première semaine"
+    },
+    {
+     "t": "00:34:21",
+     "titre": "Outil : hypnose continue ; alcool et récidive"
+    },
+    {
+     "t": "00:35:01",
+     "titre": "Récapitulatif et remerciements"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
    "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
    "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",

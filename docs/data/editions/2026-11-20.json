@@ -1,0 +1,443 @@
+{
+ "date": "2026-11-20",
+ "generated": "2026-11-20T13:45:39+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Performance & Neuromodulation : La stimulation transcranienne anodique (tDCS) a permis d'augmenter le volume au squat de 43,5 à 67,5 répétitions à 80 % de 1RM.\n• Oncologie & Exercice : Une méta-analyse sur 14 076 patients montre l'efficacité optimale du yoga et du Pilates contre la fatigue liée au cancer.\n• Épidémiologie & Longévité : L'infection par le virus herpès HSV-1 est associée à une augmentation de 48 % du risque de démence et d'Alzheimer.\n• Innovations en Chimie : Découverte d'une méthode de production de peroxyde d'hydrogène sans métaux précieux et de réactions photo-induites par cristaux sans catalyseur.\n• Environnement : Une particule en suspension sur 100 (1 %) mesurée près d'écoles dans le Michigan est un microplastique.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
+   "kind": "vulga",
+   "title": "Q&A: Making hydrogen peroxide without using precious metals",
+   "summary": "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/university-of-bonn-res.jpg",
+   "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
+   "source": "Phys.org",
+   "date": "2026-11-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des chercheurs de Rutgers et Bonn ont mis au point une méthode alternative pour fabriquer du peroxyde d'hydrogène. Cette avancée permet d'éliminer l'usage des métaux précieux rares dans ce processus industriel de plusieurs millions de tonnes."
+  },
+  {
+   "id": "doi:10.1002/ange.9063097",
+   "kind": "paper",
+   "title": "Irradiation‐Wavelength‐Tuned Stepwise [2+2] Cycloaddition of Indolylphenylpropenone Derivatives as a Platform for Light–Mechanical Energy Conversion",
+   "summary": "Cyclobutane motifs are widely present in natural products, and [2+2] cycloaddition provides a facile route for synthesizing four‐membered rings. However, controlling the regio‐ and stereo‐selectivity of cycloaddition remains a great challenge.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.9063097",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-16",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.9063097",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Cette étude décrit une cycloaddition photo-induite topo-[2+2] sur des cristaux d'indolylphénylpropénone déclenchée par des longueurs d'onde spécifiques. Elle offre une stratégie propre pour désaromatisér l'indole sans catalyseur tout en générant un mouvement mécanique macroscopique."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79524-3",
+   "kind": "paper",
+   "title": "Encapsulating an iron complex within a heme and anthraquinone codecorated capsule for multiphoton C(sp3)−H bond oxygenation",
+   "summary": "The allosteric effect in proteins controls biological function omnipotently, but simulating both the regulatory functions and catalytic processes of analogues faces marked challenges. By encapsulating a non-heme FeIII-complex into the cavity of an anthraquinone and heme co-decorated coordination capsule, herein we report a…",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79524-3",
+   "source": "Nature Communications",
+   "date": "2026-11-16",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79524-3_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Des chimistes ont encapsulé un complexe de fer non héminique dans une capsule supramoléculaire activée par la lumière. Cette approche mime l'effet allostérique pour oxygéner sélectivement les liaisons C(sp3)−H du thioxanthène grâce à une synergie entre photons et radicaux."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-perfume-people-skin-chemistry.html",
+   "kind": "vulga",
+   "title": "Why does the same perfume smell different on different people? 'Skin chemistry' explained",
+   "summary": "Have you ever sprayed a perfume on a paper strip in a department store and loved the smell, only to find it didn't perform the same when you sprayed it on your skin? It's a common experience.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/why-does-the-same-perf.jpg",
+   "url": "https://phys.org/news/2026-11-perfume-people-skin-chemistry.html",
+   "source": "Phys.org",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Cet article vulgarisé explique les facteurs biologiques qui font varier l'odeur d'un parfum d'une personne à l'autre. La chimie propre à chaque peau altère la diffusion des molécules odorantes de manière unique."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-78838-6",
+   "kind": "paper",
+   "title": "Identification of translation events that drive nonsense-mediated mRNA decay reveals functional roles for alternative RNA isoforms",
+   "summary": "The nonsense-mediated mRNA decay (NMD) pathway targets mRNAs undergoing premature translation termination for degradation. Previously, RNA-seq of yeast lacking NMD revealed that most genes targeted by NMD lack obvious premature termination codons (PTCs).",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-78838-6",
+   "source": "Nature Communications",
+   "date": "2026-11-17",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-78838-6.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Basée sur des analyses ARN et le profilage ribosomique in vitro chez la levure, cette étude identifie des terminaisons prématurées cryptiques régulées par le NMD. Elle démontre notamment le rôle clé de l'isoforme DAL5 LUTI selon la disponibilité en azote."
+  },
+  {
+   "id": "doi:10.1073/pnas.2602243123",
+   "kind": "paper",
+   "title": "Molecular interactions underlying selective partitioning of clients into MED1 and FUS condensates",
+   "summary": "Biomolecular condensates selectively recruit and exclude proteins, and this partitioning is sometimes dictated by their intrinsically disordered regions. Factors that determine partitioning include client-scaffold interactions and stabilization of the scaffold network within the condensate, yet a molecular and predictive understanding…",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2602243123",
+   "source": "Proceedings of the National Academy of Sciences",
+   "date": "2026-11-17",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1073/pnas.2602243123",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Des simulations informatiques de dynamique moléculaire ont décrypté le recrutement sélectif de protéines clientes dans les condensats MED1 et FUS. L'étude montre que les blocs chargés ciblent MED1 tandis que les résidus aromatiques dispersés interagissent avec FUS."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-national-highlights-flexible-approaches-pharmacists.html",
+   "kind": "vulga",
+   "title": "National study highlights flexible approaches to integrating pharmacists in aged care",
+   "summary": "A national study led by researchers from RMIT University and the University of Canberra (UC) has identified practical strategies to support the integration of on-site pharmacists in residential elder care homes across metropolitan, regional, rural and remote Australia.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pharmacists.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-national-highlights-flexible-approaches-pharmacists.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "Une étude australienne met en lumière des stratégies pratiques pour intégrer des pharmaciens résidents dans les établissements pour personnes âgées. L'objectif est d'optimiser la prise en charge médicamenteuse des seniors en zones urbaines et rurales."
+  },
+  {
+   "id": "doi:10.1136/bmj-2026-101069",
+   "kind": "paper",
+   "title": "Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial.",
+   "summary": "No clear evidence was found that intrapartum hyoscine butylbromide, sodium bicarbonate, or their combination increased spontaneous vaginal birth compared with placebo. Although small beneficial effects cannot be excluded, the findings do not support routine intrapartum use of either agent to facilitate spontaneous vaginal birth after…",
+   "image": null,
+   "url": "https://doi.org/10.1136/bmj-2026-101069",
+   "source": "BMJ (Clinical research ed.)",
+   "date": "2026-11-18",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1136/bmj-2026-101069",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Cet essai clinique randomisé sur 2963 femmes n'a pas montré de gain significatif sur les accouchements vaginaux spontanés avec l'hyoscine butylbromide ou le bicarbonate de sodium. Les taux variaient entre 56 % et 61 % selon les groupes."
+  },
+  {
+   "id": "doi:10.1186/s12903-026-10155-2",
+   "kind": "paper",
+   "title": "Patient-specific three-dimensional titanium plate versus conventional two-miniplate fixation for mandibular angle fractures: a randomized clinical trial.",
+   "summary": "Patient-specific three-dimensional titanium plate fixation was associated with shorter intraoperative time and lower early postoperative pain and edema. No statistically significant between-group differences were detected in the other assessed clinical and radiographic outcomes during the four-month follow-up.",
+   "image": null,
+   "url": "https://doi.org/10.1186/s12903-026-10155-2",
+   "source": "BMC oral health",
+   "date": "2026-11-16",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13772324",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Cet essai randomisé sur 16 patients compare les plaques 3D en titane personnalisées au mini-plaquage classique pour les fractures mandibulaires. L'utilisation de la plaque sur mesure a réduit le temps opératoire de 73 à 40 minutes."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-intensity-postexercise-cooling.html",
+   "kind": "vulga",
+   "title": "Exercise intensity may influence postexercise cooling",
+   "summary": "Athletes and physically active individuals often exercise in hot environments, which can dangerously increase body temperature and cardiovascular strain. Water immersion is a commonly used strategy to cool the body after exercise because water transfers heat more efficiently than air.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/exercise-intensity-may.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-intensity-postexercise-cooling.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Cet article explore l'impact de l'intensité de l'exercice sur l'efficacité de l'immersion dans l'eau pour refroidir l'organisme. Une régulation thermique optimale après l'effort est cruciale en environnement chaud pour réduire le stress cardiovasculaire."
+  },
+  {
+   "id": "doi:10.1007/s00520-026-11515-y",
+   "kind": "paper",
+   "title": "Comparative effectiveness of different exercise modalities and doses on cancer-related fatigue: a systematic review and dose-response network meta-analysis of 166 randomized controlled trials.",
+   "summary": "To comprehensively evaluate the dose-response relationship between various exercise modalities and cancer-related fatigue (CRF) in cancer population. Exercise dose was calculated as the product of duration, frequency, and intensity and expressed in metabolic equivalent of task minutes per week (MET-min/week) to facilitate comparisons…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00520-026-11515-y",
+   "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "date": "2026-11-19",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Cette méta-analyse de 166 essais (14 076 patients) évalue les exercices contre la fatigue liée au cancer. Le yoga à 500 MET-min/semaine s'avère le plus efficace pendant le traitement, et le Pilates à 310 MET-min/semaine après."
+  },
+  {
+   "id": "doi:10.1007/s00221-026-07436-1",
+   "kind": "paper",
+   "title": "Acute effects of transcranial direct current stimulation on repetition volume, blood lactate concentration, and perceived exertion during back squat exercise.",
+   "summary": "This study investigated the acute effects of transcranial direct current stimulation (tDCS) applied over the dorsolateral prefrontal cortex (DLPFC) on the total number of repetitions completed during high-load back-squat exercise performed until muscular failure, as well as on perceptual and metabolic responses, in resistance-trained…",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00221-026-07436-1",
+   "source": "Experimental brain research",
+   "date": "2026-11-17",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "Cet essai croisé a évalué la stimulation transcranienne (tDCS) anodique sur 16 hommes entraînés au squat. La tDCS a augmenté significativement le volume de répétitions à 80 % de 1RM (67,5 contre 43,5 sous placebo)."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-creatine-supplement-college-students.html",
+   "kind": "vulga",
+   "title": "Creatine supplement use nearly doubles among US college students, new study finds",
+   "summary": "The use of creatine and protein supplements among U.S. college and university students has increased significantly over a five-year period, according to new research published in the journal Performance Enhancement & Health and led by researchers at the University of Toronto.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/creatine-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-creatine-supplement-college-students.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une étude de l'Université de Toronto révèle que l'usage de créatine et de protéines a presque doublé chez les étudiants américains sur cinq ans. Cette hausse témoigne d'un engouement croissant pour les compléments de performance."
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2727204",
+   "kind": "paper",
+   "title": "Effects of caffeine ingestion on endurance performance in acute hypoxic conditions: a systematic review and meta-analysis.",
+   "summary": "Caffeine is a well-established aid for endurance performance under normoxic conditions. More recently, its ergogenic potential to improve endurance performance in hypoxia has attracted increasing interest, although findings remain inconsistent.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2727204",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-11-19",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une méta-analyse de 9 études montre que la caféine améliore la capacité d'endurance en hypoxie (effet g = 0,76). Ce supplément s'avère efficace pour soutenir l'effort physique et métabolique en haute altitude ou milieu manquant d'oxygène."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-older-adults-longer.html",
+   "kind": "vulga",
+   "title": "Why older adults take longer to bounce back—and what to do about it",
+   "summary": "A class of fatty acid molecules called prostaglandins may be responsible for why older adults often fail to recover muscle strength after illness or injury, while young adults quickly bounce back, a new study has found. Produced by nondividing \"zombie cells\" called senescent cells, excessive prostaglandins promote muscle atrophy.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/older-adult.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-older-adults-longer.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Les cellules sénescentes produisent un excès de prostaglandines qui favorise l'atrophie musculaire chez les seniors. Ce mécanisme biologique explique pourquoi la récupération après une maladie est plus lente avec l'âge."
+  },
+  {
+   "id": "doi:10.1126/sciadv.aeh1717",
+   "kind": "paper",
+   "title": "Pten regulates neurogenic radial glia lineage progression and tunes neocortical astrocyte production in Mapk1/3 -dependent pathway",
+   "summary": "The cerebral cortex consists of immense numbers of diverse cell types derived from radial glial progenitor (RGP) cells. How RGPs generate appropriate quantities of distinct cell types to safeguard a brain of correct size is not well understood.",
+   "image": null,
+   "url": "https://doi.org/10.1126/sciadv.aeh1717",
+   "source": "Science Advances",
+   "date": "2026-11-18",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1126/sciadv.aeh1717",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "En utilisant l'analyse clonale chez la souris, cette étude montre que l'absence du gène Pten double la production de neurones de projection et accroît l'astrogenèse. Ce processus dépend spécifiquement de la voie de signalisation MAPK."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-people-herpes-infections-higher-alzheimer.html",
+   "kind": "vulga",
+   "title": "People with certain herpes infections have almost 50% higher risk of Alzheimer's or dementia, review finds",
+   "summary": "Being infected with herpes simplex virus type 1 (HSV-1) is associated with a 48% increase in the risk of Alzheimer's disease or other types of dementia, according to a meta-analysis published in Open Forum Infectious Diseases.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/elder-couple-concern.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-people-herpes-infections-higher-alzheimer.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-18",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Une méta-analyse révèle qu'une infection par le virus de l'herpès HSV-1 augmente de 48 % le risque de développer la maladie d'Alzheimer ou une démence. Cette donnée souligne un lien infectieux potentiel dans la neurodégénérescence."
+  },
+  {
+   "id": "doi:10.1016/j.lanhl.2026.100935",
+   "kind": "paper",
+   "title": "Closing the evidence gap: a life course and neurodiversity-informed participatory scoping review of healthy ageing randomised controlled trials in adults with developmental disabilities.",
+   "summary": "Adults aged 18 years and older with developmental disabilities experience disproportionate adverse health outcomes across the life course and shortened life expectancy. We conducted a participatory scoping review of randomised controlled trials of healthy ageing interventions for adults with developmental disabilities, informed by the…",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.lanhl.2026.100935",
+   "source": "The lancet. Healthy longevity",
+   "date": "2026-11-19",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Une revue de 79 essais (8 221 participants) révèle un manque d'intégration du parcours de vie et de la neurodiversité pour les adultes handicapés. Seuls 32 % des travaux ciblent spécifiquement les transitions de vie."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
+   "kind": "vulga",
+   "title": "Spiraling spins bring coordinated quantum motion to diamond sensors",
+   "summary": "Trapped within diamond's crystal lattice are tiny defects called nitrogen-vacancy (NV) centers, where a nitrogen atom sits beside an empty gap where a carbon atom should be. Because of their quantum spins, electrons trapped at these defects behave like tiny magnets, turning diamond into a highly sensitive detector for magnetic fields.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/spiraling-spins-bring.jpg",
+   "url": "https://phys.org/news/2026-11-spiraling-quantum-motion-diamond-sensors.html",
+   "source": "Phys.org",
+   "date": "2026-11-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Les centres azote-lacune dans les diamants exploitent le spin de leurs électrons pour mesurer des champs magnétiques. Cette propriété quantique transforme le diamant en un capteur d'une sensibilité exceptionnelle."
+  },
+  {
+   "id": "doi:10.1103/79wb-9p1g",
+   "kind": "paper",
+   "title": "Statistical characterization of valley coupling in Si/SiGe quantum dots via g -factor measurements near a valley vortex",
+   "summary": "The presence of low-energy valley excitations in Si/SiGe heterostructures often causes spin qubits to fail. It is therefore important to develop robust protocols for characterizing the valley coupling.",
+   "image": null,
+   "url": "https://doi.org/10.1103/79wb-9p1g",
+   "source": "Physical Review Letters",
+   "date": "2026-11-17",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2507.05160",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "Cette étude théorique propose une méthode mesurant le facteur g près d'un vortex de vallée pour caractériser les qubits de spin sur Si/SiGe. L'analyse de la phase de vallée permet d'améliorer la précision des calculs quantiques."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-organizational-science-lens-extremism.html",
+   "kind": "vulga",
+   "title": "Organizational science offers new lens for studying extremism",
+   "summary": "Accepting the Republican nomination for president in 1964, Barry Goldwater declared, \"I would remind you that extremism in the defense of liberty is no vice!\" His statement illustrates how the cause being defended can shape judgments about the actions taken in its name.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2019/politicalral.jpg",
+   "url": "https://phys.org/news/2026-11-organizational-science-lens-extremism.html",
+   "source": "Phys.org",
+   "date": "2026-11-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Les sciences de l'organisation offrent une nouvelle grille d'analyse pour comprendre l'extrémisme politique et idéologique. Cet article explore comment la cause défendue influence la perception des actions radicales menées."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-microplastics-airborne-particles-sampled-michigan.html",
+   "kind": "vulga",
+   "title": "Microplastics make up 1 in 100 airborne particles sampled at four Michigan schools",
+   "summary": "One in 100 of the tiny particles hanging in the air we breathe in Michigan is a microplastic, according to a University of Michigan study. The study tested the air for microplastics in four locations across lower Michigan, all in the parking lots of K-12 schools.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/microplastics-the-air.jpg",
+   "url": "https://phys.org/news/2026-11-microplastics-airborne-particles-sampled-michigan.html",
+   "source": "Phys.org",
+   "date": "2026-11-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude réalisée dans le Michigan a analysé l'air au-dessus de quatre parkings d'écoles. Les résultats indiquent qu'une particule en suspension sur 100 (1 %) est en réalité un microplastique."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-decoding-interactomes-supercomputing-bacterial-protein.html",
+   "kind": "vulga",
+   "title": "Decoding interactomes: Supercomputing predicts bacterial protein links from shared evolutionary patterns",
+   "summary": "Predicting how proteins interact inside a cell is essential to understanding how organisms function and why they differ from one another, yet experimental hurdles and the computational cost of analyzing millions of protein pairs make it impossible to explore complete interaction networks, particularly in understudied bacteria and…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2021/escherichiac.jpg",
+   "url": "https://phys.org/news/2026-11-decoding-interactomes-supercomputing-bacterial-protein.html",
+   "source": "Phys.org",
+   "date": "2026-11-19",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Grâce au supercalcul, des chercheurs prédisent les interactions protéiques bactériennes à partir de profils évolutifs partagés. Cette approche computationnelle franchit les verrous expérimentaux pour cartographier des interactomes jusqu'alors inaccessibles."
+  }
+ ]
+}
