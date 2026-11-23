@@ -1,0 +1,413 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T15:34:40+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": null,
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-affected-greatest-impact-beer-added.html",
+   "kind": "vulga",
+   "title": "Smoke-affected hops have greatest impact on beer when added after fermentation, study finds",
+   "summary": "Smoke-affected hops can alter a beer's taste and aroma, but their impact depends on how many are used and when the hops are added during brewing, new research from Oregon State University shows.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/smoke-affected-hops-ha.jpg",
+   "url": "https://phys.org/news/2026-11-affected-greatest-impact-beer-added.html",
+   "source": "Phys.org",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1002/ange.1284409",
+   "kind": "paper",
+   "title": "Indirect Characterization of 14 N Nuclei via 1 H‐Detected Rotating‐Frame Relaxometry",
+   "summary": "14 N NMR is notoriously difficult to perform in liquids due to the very fast spin relaxation and the large quadrupolar couplings, which render many signals invisible. We show here how 14 N nuclei of biomolecular constituents can be probed indirectly by reintroducing the scalar relaxation of the second kind contribution as a relaxation…",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.1284409",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-21",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.1284409",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79637-9",
+   "kind": "paper",
+   "title": "σ-complex stabilization shapes enzymatic C-glycosylation and restricts the scope of natural C-glycosides",
+   "summary": "C -glycosides are valuable compounds containing hydrolytically stable C-C bonds, yet their scarcity in nature and synthetic complexity limit their availability. Enzymes offer a sustainable route to C -glycosides, but few are known to display C -glycosylation activity and their mechanism remains unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79637-9",
+   "source": "Nature Communications",
+   "date": "2026-11-20",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79637-9.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79507-4",
+   "kind": "paper",
+   "title": "Super-resolution microscopy reveals distinct epigenetic states regulated by estrogen receptor activity",
+   "summary": "Changes in gene expression regulated by ligand-dependent transcription factors including estrogen receptor-α (ERα) involve coactivator recruitment and H3K27ac deposition. While H3K27ac marks active enhancers, the chromatin architecture of enhancers remains unclear.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79507-4",
+   "source": "Nature Communications",
+   "date": "2026-11-22",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79507-4_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-77977-0",
+   "kind": "paper",
+   "title": "Evolutionary plasticity of bacterial surface layer protein exoskeletons",
+   "summary": "All cellular life possesses environmental interfaces like cell membranes or cell walls, yet the compositional complexity of these major cell components limits structural and evolutionary studies.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-77977-0",
+   "source": "Nature Communications",
+   "date": "2026-11-19",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-77977-0",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-clinicians-track-emerging-resistance-mutant.html",
+   "kind": "vulga",
+   "title": "New research could help clinicians track emerging resistance to mutant-selective PI3K inhibitors in breast cancer",
+   "summary": "Mutations in the PIK3CA gene, which encodes the PI3Kα enzyme, are common drivers of certain cancers, especially hormone receptor–positive metastatic breast cancers. A team led by investigators from the Mass General Brigham Cancer Institute has uncovered additional PIK3CA mutations that allow cancers to become resistant to investigational…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/female-patient.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-clinicians-track-emerging-resistance-mutant.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11434843/v1",
+   "kind": "paper",
+   "title": "Defining Baseline Recurrence Risk in Hormone Receptor– Positive/Human Epidermal Growth Factor Receptor–Negative Early Breast Cancer: A Meta-Analysis of Endocrine Therapy Arms From Phase 3 Trials, Including the CDK4/6 Inhibitor Era",
+   "summary": "Purpose Patients with hormone receptor–positive/human epidermal growth factor receptor 2–negative (HR+/HER2−) early breast cancer (EBC) are at risk of invasive recurrence despite standard endocrine therapy (ET).",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11434843/v1",
+   "source": "Research Square",
+   "date": "2026-11-20",
+   "tags": [
+    "Méta-analyse",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11434843/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0363133",
+   "kind": "paper",
+   "title": "Effects of velocity-based strength training versus percentage-based strength training on technical error rates in collegiate lion dance athletes: A randomized controlled trial.",
+   "summary": "Among these collegiate lion-dance athletes, velocity-based training produced significantly greater between-group reductions in sitting-on-shoulder and standing-on-leg error rates than continued regular lion-dance training alone, and a significantly greater reduction than percentage-based training from the fifth week of the intervention.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0363133",
+   "source": "PloS one",
+   "date": "2026-11-19",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13784597",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-adults-benefited-areas-physical-function.html",
+   "kind": "vulga",
+   "title": "Nearly half of adults over 70 benefited from exercise training across several areas of physical function",
+   "summary": "A yearlong exercise program improved physical function among adults aged over 70, but the benefits varied considerably between individuals. A study conducted at the University of Jyväskylä highlights that the success of exercise interventions should not be evaluated using a single outcome measure, as positive changes may occur in…",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nearly-half-of-adults.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-adults-benefited-areas-physical-function.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu"
+  },
+  {
+   "id": "doi:10.1080/15502783.2026.2766045",
+   "kind": "paper",
+   "title": "Lower-limb performance and muscle soreness after short-term dark chocolate intake in CrossFit®-trained women: an exploratory secondary analysis.",
+   "summary": "DC was associated with higher values for selected lower-limb outcomes, but these exploratory findings do not establish phase-specific efficacy, equivalent effects across cycle assessments, or a consistent DOMS benefit. Unusually large performance estimates and unmodeled period and carryover effects warrant caution.",
+   "image": null,
+   "url": "https://doi.org/10.1080/15502783.2026.2766045",
+   "source": "Journal of the International Society of Sports Nutrition",
+   "date": "2026-11-19",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13786282",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "doi:10.1007/s00520-026-11516-x",
+   "kind": "paper",
+   "title": "Ultra-short-term in-hospital multimodal prehabilitation in older patients undergoing laparoscopic gastrectomy for gastric cancer: a randomized controlled trial.",
+   "summary": "In-hospital multimodal prehabilitation lasting 6-8 days appeared feasible and was associated with better functional capacity and, in exploratory analyses, fewer postoperative complications in older patients undergoing laparoscopic gastrectomy for gastric cancer.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00520-026-11516-x",
+   "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "date": "2026-11-19",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13785344",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-intermittent-fasting-muscles-regenerate-mice.html",
+   "kind": "vulga",
+   "title": "Intermittent fasting helps injured muscles regenerate in mice",
+   "summary": "In a new study from Koç University, alternating days of fasting and feeding helped injured muscles regenerate in mice by encouraging repair cells to multiply and fuse into muscle fibers. The effect depended on a molecular pathway previously linked to muscle wasting in cancer.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/intermittent-fasting-h.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-intermittent-fasting-muscles-regenerate-mice.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition"
+  },
+  {
+   "id": "doi:10.64898/2026.11.17.26368370",
+   "kind": "paper",
+   "title": "Early Time-Restricted Eating Reduces Fat Mass In Morning Chronotype Adults With Overweight/Obesity",
+   "summary": "Time-restricted eating (TRE) is a promising strategy to improve weight management and metabolic health, but its efficacy may vary depending on the coherence between the eating window and individual chronotype.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.11.17.26368370",
+   "source": "medRxiv",
+   "date": "2026-11-19",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.11.17.26368370",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-affecting-memory.html",
+   "kind": "vulga",
+   "title": "Not getting enough sleep? Here's how it's affecting your memory",
+   "summary": "Have you recently walked into a room and forgotten why you went there? Or found yourself reading the same email three times because nothing seems to stick? Perhaps you've struggled to remember the name of a friend of a friend.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-7.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-affecting-memory.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro"
+  },
+  {
+   "id": "doi:10.7554/elife.111304.3",
+   "kind": "paper",
+   "title": "Ramping-up hippocampal ripples and their neocortical coupling support human visual short-term memory",
+   "summary": "Emerging evidence suggests that the hippocampus contributes to visual short-term memory (VSTM). However, the neural mechanisms through which hippocampal activity supports the maintenance of VSTM representations remain largely unknown.",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.111304.3",
+   "source": "eLife",
+   "date": "2026-11-20",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.111304.3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-metabolic-health-body-composition-linked.html",
+   "kind": "vulga",
+   "title": "Metabolic health and body composition linked to Alzheimer's disease",
+   "summary": "Midlife body composition and metabolic health, not simply body mass index (BMI) or weight alone, are associated with differences in Alzheimer's disease (AD)-related brain biomarkers, according to a large new study presented at the annual meeting of the Radiological Society of North America (RSNA).",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/metabolic-health-and-b.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-metabolic-health-body-composition-linked.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite"
+  },
+  {
+   "id": "doi:10.1007/s11357-026-02668-z",
+   "kind": "paper",
+   "title": "Estimated pulse wave velocity acceleration is an algebraic function of its own inputs: incremental prognostic value of blood-based biological age beyond chronological age and blood pressure in older US and Chinese adults.",
+   "summary": "Estimated pulse wave velocity (ePWV) is widely reported as a measure of vascular age, yet it is computed from chronological age and mean blood pressure (MBP); whether its age-residualized component, ePWV acceleration, carries information beyond those inputs has never been tested.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s11357-026-02668-z",
+   "source": "GeroScience",
+   "date": "2026-11-19",
+   "tags": [],
+   "oa": null,
+   "domain": "longevite"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
+   "kind": "vulga",
+   "title": "Could astronomers be closing in on a hidden planet beyond Neptune?",
+   "summary": "If a hidden planet really does exist beyond Neptune, astronomers have identified how it may look and act to explain the mysterious goings-on in the distant reaches of our solar system.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/could-astronomers-be-c.jpg",
+   "url": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
+   "source": "Phys.org",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique"
+  },
+  {
+   "id": "doi:10.3847/1538-4357/aeb542",
+   "kind": "paper",
+   "title": "The Explosion Time of the Jittering Jet Explosion Mechanism (JJEM)",
+   "summary": "We compare the expected explosion time of core-collapse supernovae (CCSNe) in the jittering jets explosion mechanism (JJEM) to that in the neutrino-driven (the delayed neutrino) mechanism, and conclude that for most, but not all, stellar models, even when the neutrino-driven mechanism might have led to an explosion, the JJEM starts to…",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4357/aeb542",
+   "source": "The Astrophysical Journal",
+   "date": "2026-11-20",
+   "tags": [],
+   "oa": {
+    "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeb542/pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-toolkit-mineral-sands.html",
+   "kind": "vulga",
+   "title": "New toolkit enhances mineral sands understanding",
+   "summary": "Researchers from Curtin University's Timescales of Mineral Systems Group at the Curtin Frontier Institute for Geoscience Solutions (CFIGS) have developed a suite of analytical tools to improve understanding of Australia's heavy mineral deposits, paving the way for more efficient mineral sands exploration.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-toolkit-enhances-m.jpg",
+   "url": "https://phys.org/news/2026-11-toolkit-mineral-sands.html",
+   "source": "Phys.org",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://techxplore.com/news/2026-11-anode-free-sodium-batteries-longer.html",
+   "kind": "vulga",
+   "title": "Anode-free sodium batteries last longer thanks to an electrolyte that forms its own shield",
+   "summary": "Sodium batteries, which store and release electrical energy by moving sodium ions between their two electrodes, could be a more affordable alternative to lithium-based batteries. This is because sodium is highly abundant on Earth and can be sourced from widely available raw materials.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-electrolyte-prolon.jpg",
+   "url": "https://techxplore.com/news/2026-11-anode-free-sodium-batteries-longer.html",
+   "source": "Tech Xplore",
+   "date": "2026-11-22",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120",
+   "kind": "vulga",
+   "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+   "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp",
+   "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-20",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  }
+ ]
+}

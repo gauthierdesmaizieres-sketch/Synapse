@@ -1,6 +1,109 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
+   "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+   "url": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
+   "date": "2026-11-23",
+   "duration": 7587,
+   "resume": "Dans cet épisode, Andrew Huberman accueille l'enseignant spirituel Eckhart Tolle pour explorer la nature de la conscience, du silence intérieur et de la présence au moment présent. Ils analysent la distinction entre le mental conditionné par l'ego et l'état d'Être pur, montrant comment le langage et les étiquettes conceptuelles altèrent notre expérience directe du monde. Tolle explique comment s'ancrer dans le corps et les sens pour apaiser le flux thought mental et transformer la relation aux difficultés de la vie. En conclusion, l'épisode propose une approche pratique pour intégrer la sérénité et la pleine présence dans le quotidien et les relations interpersonnelles.",
+   "points": [
+    "L'identification excessive au mental et aux étiquettes conceptuelles crée l'ego et génère la souffrance psychologique.",
+    "L'attention portée aux perceptions sensorielles permet de suspendre le bavardage mental et d'accéder au moment présent.",
+    "Il existe un savoir non conceptuel qui transcende les mots et connecte l'individu à la dimension de l'Être.",
+    "Les défis de la vie ne doivent pas être évités car ils servent de catalyseurs à l'éveil de la conscience.",
+    "La présence consciente s'exprime en effectuant les tâches quotidiennes pour elles-mêmes et non comme de simples moyens vers une fin."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Ancrage dans le présent par la perception sensorielle",
+     "comment": "Porter une attention consciente et neutre aux stimuli visuels et auditifs environnants, sans chercher à les nommer ni à les juger. Pratiquer à tout moment de la journée, notamment lors des transitions ou en cas de surcharge mentale."
+    },
+    {
+     "quoi": "Écoute et reconnaissance du silence",
+     "comment": "Dans un environnement calme, fixer son attention sur le silence sous-jacent qui entoure les sons. Maintenir cette attention pendant quelques secondes à minutes pour basculer de la pensée vers la conscience pure."
+    },
+    {
+     "quoi": "Action en pleine conscience lors des gestes quotidiens",
+     "comment": "Réaliser une tâche simple (se laver les mains, marcher, écouter quelqu'un) en se concentrant uniquement sur les sensations physiques immédiates (température de l'eau, contact de la peau, odeurs), sans anticiper l'activité suivante."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "(00:00:00)",
+     "titre": "Eckhart Tolle"
+    },
+    {
+     "t": "(00:01:38)",
+     "titre": "Outil : Prise de conscience du moment présent, perception sensorielle et conscience de soi"
+    },
+    {
+     "t": "(00:09:26)",
+     "titre": "Le problème de l'Être, le langage et l'enfance"
+    },
+    {
+     "t": "(00:15:58)",
+     "titre": "Développement du sens de soi, identité, ego et conflits"
+    },
+    {
+     "t": "(00:23:19)",
+     "titre": "Souffrance psychologique et éveil spirituel"
+    },
+    {
+     "t": "(00:29:07)",
+     "titre": "Savoir conceptuel contre savoir non conceptuel"
+    },
+    {
+     "t": "(00:39:04)",
+     "titre": "L'état d'Être, les mots et la spiritualité au-delà des concepts"
+    },
+    {
+     "t": "(00:46:44)",
+     "titre": "Authenticité, maîtrise, état de flow et créativité"
+    },
+    {
+     "t": "(00:54:47)",
+     "titre": "Virtuoses, états de flow, canalisation, calme et outil : reconnaître le silence"
+    },
+    {
+     "t": "(01:04:04)",
+     "titre": "Le calme intérieur, le pouvoir du silence et la connaissance de soi"
+    },
+    {
+     "t": "(01:10:21)",
+     "titre": "Méditation, pouvoir intérieur, conscience et éveil spirituel"
+    },
+    {
+     "t": "(01:18:21)",
+     "titre": "Intégrer la conscience dans la vie quotidienne et les relations"
+    },
+    {
+     "t": "(01:25:27)",
+     "titre": "Vivre en conscience, connexions humaines et jugements"
+    },
+    {
+     "t": "(01:32:15)",
+     "titre": "Extrêmes, équilibre et conscience : l'analogie du triangle"
+    },
+    {
+     "t": "(01:39:06)",
+     "titre": "Créativité, succès, ego et méditation sans objectif"
+    },
+    {
+     "t": "(01:46:24)",
+     "titre": "Concilier l'Être et la quête d'objectifs face aux défis inévitables"
+    },
+    {
+     "t": "(01:49:43)",
+     "titre": "La nécessité des défis, la conscience, les réseaux sociaux et les attentes"
+    },
+    {
+     "t": "(01:55:39)",
+     "titre": "Attentes irréalistes, gurus et quête de perfection"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
    "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
    "url": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
