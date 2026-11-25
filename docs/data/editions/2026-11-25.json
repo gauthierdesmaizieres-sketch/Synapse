@@ -1,0 +1,436 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25T15:12:22+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": null,
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-liquids-layer-formation-submerged-ice.html",
+   "kind": "vulga",
+   "title": "New measurements suggest surrounding liquids control water layer formation on submerged ice",
+   "summary": "The behavior of ice exposed to a vacuum or vapor has been studied extensively, but ice submerged in a liquid is more difficult to study. Temperature changes cause the ice to dissolve or grow, resulting in fluctuating interfaces.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/antifreeze.jpg",
+   "url": "https://phys.org/news/2026-11-liquids-layer-formation-submerged-ice.html",
+   "source": "Phys.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79707-y",
+   "kind": "paper",
+   "title": "Denitrogenative glycosylations of glycosyl sulfonohydrazides",
+   "summary": "Radical glycosylation offers versatile strategies for carbohydrate synthesis, yet the development of accessible glycosyl radical precursors compatible with stereoselective coupling remains challenging.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79707-y",
+   "source": "Nature Communications",
+   "date": "2026-11-22",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79707-y_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "doi:10.1002/ange.4225133",
+   "kind": "paper",
+   "title": "Atomic‐Scale Origin of Charge Density Wave–Driven Metal–Semiconductor Transition in an Incommensurately Modulated Metal–Organic Framework",
+   "summary": "Although metal-organic frameworks are widely recognized for their long-range crystalline periodicity, they can also exhibit intrinsic aperiodic structures associated with incommensurate modulation, whose observation has been exceptionally rare.",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.4225133",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-21",
+   "tags": [],
+   "oa": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.4225133",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+   "kind": "vulga",
+   "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
+   "summary": "Neotuberostemonine, a complex plant-derived alkaloid with promising antitussive activity, has remained a challenging target for chemical synthesis for nearly 30 years. Researchers have now achieved its first total synthesis, alongside the synthesis of neostenine and the putative structure of tuberostemonine L.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-chemical-route-d.jpg",
+   "url": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+   "source": "Phys.org",
+   "date": "2026-11-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie"
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79580-9",
+   "kind": "paper",
+   "title": "3D-MINSTED nanoscopy and protein tracking in densely labelled living cells",
+   "summary": "Investigating the movements and conformational changes of proteins in living cells is essential for understanding their function. The recently introduced fluorescence nanoscopy method called MINSTED has successfully tracked single fluorophore-labelled proteins, albeit in fixed cells and two dimensions only.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79580-9",
+   "source": "Nature Communications",
+   "date": "2026-11-24",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-79580-9",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "doi:10.7554/elife.110692.3",
+   "kind": "paper",
+   "title": "Developmental bias explains the evolutionary trend towards simple leaf shapes",
+   "summary": "The relative influence of developmental bias and natural selection on evolutionary outcomes remains a central, unresolved question in evolutionary biology. Here, we combine large-scale phylogenetic trees with herbarium data to confirm that, across the evolutionary history of angiosperms, transitions from complex to simple leaf shapes…",
+   "image": null,
+   "url": "https://doi.org/10.7554/elife.110692.3",
+   "source": "eLife",
+   "date": "2026-11-24",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.7554/elife.110692.3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-nerve-pathway-reveals-tuberculosis-molecule.html",
+   "kind": "vulga",
+   "title": "Nerve signaling pathway reveals how a tuberculosis molecule triggers cough",
+   "summary": "A molecule produced by some highly transmissible strains of tuberculosis (TB) bacteria activates sensory nerves and triggers coughing, according to a study led by UT Southwestern Medical Center researchers.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-reveals-how-a-tu.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-nerve-pathway-reveals-tuberculosis-molecule.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0362556",
+   "kind": "paper",
+   "title": "A randomized controlled study of daily aspirin to reduce liver stiffness and noninvasive fibrosis markers in metabolic dysfunction-associated steatotic liver disease (MASLD).",
+   "summary": "Low-dose aspirin was associated with small, short-term reductions in noninvasive measures of liver stiffness in patients with MASLD. These changes may reflect reduced hepatic inflammation rather than structural fibrosis regression and require confirmation in larger, longer-term studies.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0362556",
+   "source": "PloS one",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13792485",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0363255",
+   "kind": "paper",
+   "title": "Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial.",
+   "summary": "The unadjusted primary comparison of postoperative QoR-15 at POD2 was not statistically significant; however, the intervention group scored numerically higher by 23 points, a substantial difference in magnitude that was consistent with the statistically significant effects observed in both change score and longitudinal mixed-effects…",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0363255",
+   "source": "PloS one",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13792469",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-ai-powered-lifestyle-modification-chatbot.html",
+   "kind": "vulga",
+   "title": "AI-powered lifestyle modification chatbot offers advice, accountability, affordability",
+   "summary": "Many of the 79% of American adults trying to improve their diet and exercise habits seek guidance. But personal coaches are expensive, and self-help lifestyle apps, while affordable, lack accountability.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-lifestyle-m.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-ai-powered-lifestyle-modification-chatbot.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu"
+  },
+  {
+   "id": "doi:10.1007/s10974-026-09744-z",
+   "kind": "paper",
+   "title": "Electrical pulse stimulation of skeletal muscle in vitro: A systematic review of the methods used to mimic exercise.",
+   "summary": "EPS is effective in inducing a generalised exercise-like response in cultured muscle cells. However, unlike exercise in vivo, the observed molecular responses divergent in endurance/resistance exercises do not occur.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s10974-026-09744-z",
+   "source": "Journal of muscle research and cell motility",
+   "date": "2026-11-21",
+   "tags": [
+    "Revue systématique",
+    "Animal / in vitro"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13788060",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "doi:10.64898/2026.11.21.768329",
+   "kind": "paper",
+   "title": "CheekAI: An explainable, deep learning epigenetic aging clock based on lifestyle and health epigenetic biomarker proxies",
+   "summary": "The human methylome is poorly understood and, as such, the vast majority of epigenetic aging clocks are unexplainable black boxes. To address this, we created CheekAI, a robust deep learning model that uses lifestyle and health epigenetic biomarker proxies (EBPs) to predict age.",
+   "image": null,
+   "url": "https://doi.org/10.64898/2026.11.21.768329",
+   "source": "bioRxiv",
+   "date": "2026-11-24",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.64898/2026.11.21.768329",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-vitamin-d-night.html",
+   "kind": "vulga",
+   "title": "Low vitamin D could be keeping you up at night",
+   "summary": "Tossing and turning at night? The problem might not be your mattress—it could be your vitamin D levels.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/awake-in-bed.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-vitamin-d-night.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition"
+  },
+  {
+   "id": "doi:10.21203/rs.3.rs-11227299/v1",
+   "kind": "paper",
+   "title": "Efficacy and Safety of a Fixed-Dose Combination of Atorvastatin and Fenofibrate versus Atorvastatin and Fenofibrate Monotherapies on Non-HDL Cholesterol in Mexican Adults with Mixed Dyslipidemia: A Randomized Clinical Trial",
+   "summary": "The fixed-dose combination of atorvastatin and fenofibrate is significantly more effective than respective monotherapies for non-high-density lipoprotein cholesterol reduction in Mexican adults with mixed dyslipidemia, while maintaining a comparable safety profile. Trial registration. ISRCTN 14937154 (Registration date October 16th 2026).",
+   "image": null,
+   "url": "https://doi.org/10.21203/rs.3.rs-11227299/v1",
+   "source": "Research Square",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé",
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11227299/v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-brain-aging-differs-neurodegeneration-dementia.html",
+   "kind": "vulga",
+   "title": "How brain aging differs from neurodegeneration: New data could help in the search for dementia drugs",
+   "summary": "Researchers from Skoltech, together with colleagues from Ben-Gurion University (Israel) and other organizations, studied how the spatial organization of DNA in neurons changes during natural aging and in the development of neurodegenerative diseases such as Alzheimer's.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/dementia.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-brain-aging-differs-neurodegeneration-dementia.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro"
+  },
+  {
+   "id": "doi:10.1007/s00415-026-14262-6",
+   "kind": "paper",
+   "title": "Efficacy and mechanisms of supplementary motor area rTMS for freezing of gait in Parkinson’s disease: a randomized sham-controlled trial",
+   "summary": "High‑frequency SMA‑rTMS produced reductions in FOG severity alongside improvements in gait kinematics and non‑motor symptoms in PD that were maintained at four-week follow-up, mediated by task-dependent enhancement of SMA-parietal network integration.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s00415-026-14262-6",
+   "source": "Journal of Neurology",
+   "date": "2026-11-21",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00415-026-14262-6.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro"
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-flu-vaccine-stave-early-alzheimer.html",
+   "kind": "vulga",
+   "title": "Flu vaccine might help stave off early signs of Alzheimer's",
+   "summary": "Brain health is a concern for many older adults because it's tied to their longevity and independence. A new study published in the Annals of Geriatric Medicine and Research finds that getting the flu shot might help people stay sharp, as vaccinated adults were less likely to experience signs of dementia.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/older-couple-3.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-flu-vaccine-stave-early-alzheimer.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite"
+  },
+  {
+   "id": "doi:10.1016/j.lanhl.2026.100943",
+   "kind": "paper",
+   "title": "Agents targeting the hallmarks of ageing: the geroscience pipeline in 2026.",
+   "summary": "The hallmarks of ageing provide a conceptual framework for therapeutic development. We searched ClinicalTrials.gov for registered clinical trials that were ongoing as of Jan 1, 2026, and investigated pharmacological and biological agents targeting one or more hallmarks of ageing.",
+   "image": null,
+   "url": "https://doi.org/10.1016/j.lanhl.2026.100943",
+   "source": "The lancet. Healthy longevity",
+   "date": "2026-11-23",
+   "tags": [
+    "Revue"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.1016/j.lanhl.2026.100943",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
+   "kind": "vulga",
+   "title": "Most precise measurement of coherent elastic neutrino–nucleus scattering to date tightens limits on new forces",
+   "summary": "Neutrinos are tiny elementary particles with little mass and no electric charge. While most neutrinos pass through matter without interacting, a neutrino can occasionally scatter off an atomic nucleus, transferring a little energy to it and causing it to move.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/coherent-reports-the-m.jpg",
+   "url": "https://phys.org/news/2026-11-precise-coherent-elastic-neutrinonucleus-date.html",
+   "source": "Phys.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique"
+  },
+  {
+   "id": "doi:10.1103/kn6h-dkxb",
+   "kind": "paper",
+   "title": "Bayesian Inference of the Landau Parameter G 0 ′ from Joint Gamow-Teller Measurements",
+   "summary": "G ′ 0 is the leading-order Landau-Migdal parameter that characterizes the spin-isospin dependent nucleon-nucleon interaction. Consequently, the G ′ 0 is closely related to the Gamow-Teller resonance (GTR), the beta and double-beta decay rates of finite nuclei, the response of hot and dense nucleonic matter that modifies the…",
+   "image": null,
+   "url": "https://doi.org/10.1103/kn6h-dkxb",
+   "source": "Physical Review Letters",
+   "date": "2026-11-23",
+   "tags": [],
+   "oa": {
+    "url": "https://arxiv.org/pdf/2506.05564",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-prepper.html",
+   "kind": "vulga",
+   "title": "Who identifies as a prepper? New study offers surprising answers",
+   "summary": "Amid rising concerns about natural disasters, geopolitical instability, public health threats and emerging technologies, new research on who identifies as a \"prepper\" in the United States shows that the group is larger and more diverse than previously thought.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/who-identifies-as-a-pr.jpg",
+   "url": "https://phys.org/news/2026-11-prepper.html",
+   "source": "Phys.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125",
+   "kind": "vulga",
+   "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+   "summary": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp",
+   "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+   "source": "Quanta Magazine",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-blood-bone.html",
+   "kind": "vulga",
+   "title": "Getting blood out of bone",
+   "summary": "\"Jurassic Park\" gave us a mosquito in amber, dinosaur DNA and a fantastic argument against opening a theme park. No mosquitoes were needed for this recent discovery, because the dinosaur fossil preserved its own bloody evidence of a land before time.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/getting-blood-out-of-b.jpg",
+   "url": "https://phys.org/news/2026-11-blood-bone.html",
+   "source": "Phys.org",
+   "date": "2026-11-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique"
+  }
+ ]
+}
