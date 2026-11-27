@@ -1,6 +1,73 @@
 {
  "episodes": [
   {
+   "id": "https://www.hubermanlab.com/episode/essentials-how-to-learn-better-and-create-your-best-future-tim-ferriss",
+   "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+   "url": "https://www.hubermanlab.com/episode/essentials-how-to-learn-better-and-create-your-best-future-tim-ferriss",
+   "date": "2026-11-26",
+   "duration": 2207,
+   "resume": "Dans cet épisode, Tim Ferriss explique comment il anticipe les tendances futures en remettant en question les dogmes établis et en s'immergeant dans des environnements à forte densité d'innovation. Il détaille ses méthodes pour structurer son travail, développer un réseau qualitatif grâce au bénévolat stratégique et gérer son attention via l'outil de la revue annuelle rétrospective. Ferriss aborde également avec vulnérabilité ses épreuves personnelles, notamment la dépression sévère et les traumatismes d'enfance, montrant comment la souffrance peut être convertie en soutien pour autrui. L'ensemble de la discussion met en lumière l'importance de l'auto-expérimentation, de la rigueur personnelle et du partage authentique.",
+   "points": [
+    "L'anticipation des tendances repose sur l'observation des comportements des experts durant leur temps libre et la remise en cause des affirmations absolues.",
+    "L'immersion dans un environnement géographique à forte densité d'innovateurs multiplie les opportunités de rencontres sérendipiteuses.",
+    "Développer son réseau nécessite d'offrir une valeur réelle et un haut niveau de professionalisme, notamment à travers le bénévolat stratégique.",
+    "L'outil de la revue annuelle rétrospective permet d'optimiser l'allocation de son attention en identifiant précisément les facteurs de satisfaction et de stress.",
+    "Transposer ses épreuves et souffrances personnelles en témoignages partagés offre un levier puissant pour aider et protéger les autres."
+   ],
+   "protocoles": [
+    {
+     "quoi": "Revue de l'année écoulée (Past Year Review)",
+     "comment": "À la fin de l'année, examiner son calendrier semaine par semaine. Tracer deux colonnes sur une feuille : une colonne positive (+) et une colonne négative (-). Y inscrire les personnes, événements et activités ayant provoqué des émotions très positives ou très négatives. Planifier immédiatement les éléments positifs dans le calendrier de l'année à venir et bloquer activement les déclencheurs négatifs."
+    },
+    {
+     "quoi": "Développement de réseau par bénévolat proactif",
+     "comment": "Offrir ses services de bénévolat lors d'événements ou conférences ciblés. Exécuter les tâches confiées (accueil, logistique) avec une ponctualité et un professionnalisme impeccables, anticiper les besoins des organisateurs et privilégier le contact direct avec les modérateurs ou organisateurs plutôt qu'aborder brutalement les intervenants vedettes."
+    }
+   ],
+   "chapitres": [
+    {
+     "t": "00:00:00",
+     "titre": "Tim Ferriss"
+    },
+    {
+     "t": "00:00:20",
+     "titre": "4-Hour Body et développement d'idées"
+    },
+    {
+     "t": "00:07:20",
+     "titre": "Génération d'idées et importance du lieu"
+    },
+    {
+     "t": "00:09:07",
+     "titre": "Pensée structurée, écriture et oiseaux de nuit"
+    },
+    {
+     "t": "00:10:37",
+     "titre": "Pouvoir du lieu, création de réseau et bénévolat"
+    },
+    {
+     "t": "00:17:07",
+     "titre": "Les mentors"
+    },
+    {
+     "t": "00:20:51",
+     "titre": "Allocation de l'attention, outil : revue de l'année écoulée et structure hebdomadaire"
+    },
+    {
+     "t": "00:25:37",
+     "titre": "Suicide, dépression et traumatismes"
+    },
+    {
+     "t": "00:33:53",
+     "titre": "Donner du sens à la souffrance"
+    },
+    {
+     "t": "00:35:38",
+     "titre": "Remerciements"
+    }
+   ]
+  },
+  {
    "id": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
    "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
    "url": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",

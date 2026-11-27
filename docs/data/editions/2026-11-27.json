@@ -1,0 +1,453 @@
+{
+ "date": "2026-11-27",
+ "generated": "2026-11-27T14:33:45+00:00",
+ "domains": [
+  {
+   "id": "chimie",
+   "label": "Chimie",
+   "emoji": "⚗️",
+   "color": "#0ea5e9"
+  },
+  {
+   "id": "biochimie",
+   "label": "Biochimie",
+   "emoji": "🧬",
+   "color": "#8b5cf6"
+  },
+  {
+   "id": "medicaments",
+   "label": "Médicaments",
+   "emoji": "💊",
+   "color": "#ef4444"
+  },
+  {
+   "id": "muscu",
+   "label": "Musculation",
+   "emoji": "🏋️",
+   "color": "#f97316"
+  },
+  {
+   "id": "nutrition",
+   "label": "Nutrition",
+   "emoji": "🥗",
+   "color": "#22c55e"
+  },
+  {
+   "id": "neuro",
+   "label": "Neuro & sommeil",
+   "emoji": "🧠",
+   "color": "#ec4899"
+  },
+  {
+   "id": "longevite",
+   "label": "Longévité",
+   "emoji": "⏳",
+   "color": "#14b8a6"
+  },
+  {
+   "id": "physique",
+   "label": "Physique & astro",
+   "emoji": "🔭",
+   "color": "#6366f1"
+  },
+  {
+   "id": "exotique",
+   "label": "Hors sentiers",
+   "emoji": "🧭",
+   "color": "#a16207"
+  }
+ ],
+ "digest": "• Chimie aqueuse : la réactivité intrinsèque du catalyseur supplante le rôle des micelles, atteignant 95 % de conversion en 20 minutes.\n• Pharmacologie & Médecine : l'itraconazole inhalé améliore le VEMS (+0,28 L) dans l'aspergillose, tandis que la cystéamine montre des pistes prometteuses contre la pneumonie.\n• Musculation & Préconditionnement : le préconditionnement ischémique local réduit significativement les courbatures (DOMS), et la créatine s'avère utile contre le déclin musculaire lié à l'âge.\n• Biochimie & Neurobiologie : identification in vitro du mécanisme CD33-CD45 inhibant la clairance amyloïde dans Alzheimer et production rapide de protéines par photosynthèse artificielle.\n• Physique & Astrophysique : publication de 14 ans de données neutrinos par IceCube et amélioration de la cohérence spatiale des lasers.",
+ "items": [
+  {
+   "id": "url:https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+   "kind": "vulga",
+   "title": "Why molecular cage catalysts show enormous differences in performance",
+   "summary": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+   "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+   "source": "Phys.org",
+   "date": "2026-11-26",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "chimie",
+   "ai": "Des chercheurs ont mis au point une méthode pour comprendre la performance de catalyseurs à cages moléculaires artificielles imitant les enzymes. Ces structures creuses piègent les molécules dans de micro-chambres de réaction pour accélérer les transformations chimiques."
+  },
+  {
+   "id": "doi:10.1039/d6sc01654e",
+   "kind": "paper",
+   "title": "Force-modulated and strain-dependent stereoselectivity of copper-catalyzed reductive coupling",
+   "summary": "Force applied to the ligand of a biaryl bisphosphine copper complex modulates the stereoselectivity of Cu-catalyzed reductive coupling in both small molecule systems and in elastomeric gels containing crosslinked [(R)-Biphep]Cu active sites.",
+   "image": null,
+   "url": "https://doi.org/10.1039/d6sc01654e",
+   "source": "Chemical Science",
+   "date": "2026-11-25",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1039/d6sc01654e",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "L'application d'une force mécanique sur le ligand d'un complexe de cuivre biaryle bisphosphine module la stéréosélectivité du couplage réducteur. Ce contrôle par contrainte s'applique aussi bien aux petites molécules qu'aux gels élastomères contenant des sites actifs."
+  },
+  {
+   "id": "doi:10.1002/ange.7244071",
+   "kind": "paper",
+   "title": "Intrinsic Catalyst Reactivity—not Matched Surfactant Polarity—Drives Yield Differences in Aqueous Cross‐Coupling",
+   "summary": "Micelles in aqueous-organic syntheses are commonly assumed to be the primary reaction sites that colocalize and transform reactants. However, under synthetically relevant high-concentration conditions, including those used at scale in industrial pharmaceutical synthesis, phase separation may alter this simplified picture in poorly…",
+   "image": null,
+   "url": "https://doi.org/10.1002/ange.7244071",
+   "source": "Angewandte Chemie",
+   "date": "2026-11-23",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1002/ange.7244071",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "chimie",
+   "ai": "Cette étude démontre que les gouttelettes d'amine et la réactivité du catalyseur, plutôt que les micelles, régissent le couplage Suzuki-Miyaura aqueux. La réorientation de l'optimisation a permis d'atteindre 95 % de conversion en 20 minutes contre 26 % auparavant."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+   "kind": "vulga",
+   "title": "Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days",
+   "summary": "While many people think first of meat when they think about dietary protein, most protein ultimately depends on plants, since livestock feed on grass, hay and other plants. Meeting the demand for protein is taxing on the environment, requiring massive amounts of land and water while creating greenhouse gas emissions.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/edible-fungus-looks-li.jpg",
+   "url": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+   "source": "Phys.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "biochimie",
+   "ai": "Une technologie de photosynthèse artificielle utilise le CO₂ résiduel pour cultiver des champignons comestibles riches en protéines en seulement sept jours. Cela offre une alternative prometteuse et durable pour répondre à la demande globale en protéines alimentaires."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79275-1",
+   "kind": "paper",
+   "title": "CARM1-mediated methylation controls interactions of ALIX with key partners important for cytokinesis",
+   "summary": "CARM1 is an arginine methyltransferase with a well-established role in regulating gene expression, but its cytoplasmic functions remain largely uncharacterized. Here, we identified ALIX, a cytoplasmic protein acting with the ESCRT-III machinery in numerous membrane remodeling events, as a partner and substrate of CARM1.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79275-1",
+   "source": "Nature Communications",
+   "date": "2026-11-23",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s41467-026-79275-1_reference.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "Il a été découvert in vitro que l'arginine méthyltransférase CARM1 méthyle la protéine cytoplasmique ALIX sur ses motifs riches en proline. Cette modification post-traductionnelle régule les interactions SH3 essentielles au contrôle de la cytocinèse lors de la division cellulaire."
+  },
+  {
+   "id": "doi:10.1038/s42256-026-01332-7",
+   "kind": "paper",
+   "title": "A measurement noise scaling law for cellular representation learning",
+   "summary": "Large genomic and imaging datasets can be used to train models that learn meaningful representations of cellular systems. Across domains, model performance improves predictably with dataset size and compute budget, providing a basis for allocating data and computation.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s42256-026-01332-7",
+   "source": "Nature Machine Intelligence",
+   "date": "2026-11-26",
+   "tags": [],
+   "oa": {
+    "url": "https://www.nature.com/articles/s42256-026-01332-7.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "biochimie",
+   "ai": "L'analyse de plus de 2 000 modèles d'apprentissage cellulaire révèle que l'amélioration des performances face au bruit suit une loi logarithmique. Les modèles basés sur les Transformers s'avèrent plus robustes au bruit que les autoencodeurs variationnels sur les données transcriptomiques."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-ebola-west-africa-potential-benefit.html",
+   "kind": "vulga",
+   "title": "Ebola data from West Africa suggest potential benefit of the antidiarrheal drug loperamide",
+   "summary": "Ebola virus disease causes severe diarrhea and vomiting in the majority of affected patients. In resource-limited settings, some patients receive the antidiarrheal agent loperamide during the early stages of illness, when oral intake remains possible.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ebola.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-ebola-west-africa-potential-benefit.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "medicaments",
+   "ai": "L'analyse des données de l'épidémie d'Ebola en Afrique de l'Ouest suggère un bénéfice potentiel de la lopéramide administrée tôt. Cet antidiarrhéique classique pourrait améliorer la prise en charge initiale des patients capables d'absorber des traitements oraux."
+  },
+  {
+   "id": "doi:10.1097/cce.0000000000001517",
+   "kind": "paper",
+   "title": "Effect of Cysteamine on 90-Day Mortality in Patients With Severe Community-Acquired Pneumonia: The REMAP-CAP (Randomized Embedded Multifactorial Adaptive Platform for Community-Acquired Pneumonia) Randomized Clinical Trial.",
+   "summary": "Further studies of cysteamine in severe pneumonia are warranted.",
+   "image": null,
+   "url": "https://doi.org/10.1097/cce.0000000000001517",
+   "source": "Critical care explorations",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13792603",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai clinique randomisé sur la cystéamine intraveineuse dans la pneumonie sévère a montré une mortalité à 90 jours de 26 % contre 35 % chez les témoins. Bien que prérompue (36 patients) pour motifs opérationnels, l'étude indique 76 % de probabilité de bénéfice."
+  },
+  {
+   "id": "doi:10.1183/13993003.00058-2026",
+   "kind": "paper",
+   "title": "Safety and efficacy of inhaled itraconazole in adults with asthma and allergic bronchopulmonary aspergillosis (PUR1900-ABPA): a randomised, double-blind, parallel group, placebo-controlled, multicentre, phase 2 trial.",
+   "summary": "PUR1900 40 mg was associated with improvements across key clinical domains in ABPA, with a favourable safety profile, supporting further phase 3 evaluation.",
+   "image": null,
+   "url": "https://doi.org/10.1183/13993003.00058-2026",
+   "source": "The European respiratory journal",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13792101",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "medicaments",
+   "ai": "Un essai de phase 2 sur 43 adultes montre que l'itraconazole inhalé (PUR1900, 40 mg) améliore le VEMS de 0,28 L par rapport au placebo. Cette voie réduit l'exposition systémique tout en traitant l'aspergillose bronchopulmonaire allergique."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-creatine-popular-bodybuilders-older-adults.html",
+   "kind": "vulga",
+   "title": "Creatine is popular with bodybuilders—could it help older adults stay independent?",
+   "summary": "Climbing stairs or getting out of a chair can become harder with age, partly because muscle mass and strength tend to decline.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2025/creatine.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-creatine-popular-bodybuilders-older-adults.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "muscu",
+   "ai": "La créatine, très populaire en musculation, pourrait aider les adultes âgés à maintenir leur masse musculaire et leur force. Ce supplément offre ainsi une piste prometteuse pour préserver l'autonomie physique face au déclin lié au vieillissement."
+  },
+  {
+   "id": "doi:10.20944/preprints202611.2689.v1",
+   "kind": "paper",
+   "title": "Consumption of Fermented Versus Unfermented Milk Products in Adulthood: Impact on Protein Synthesis, Gut Microbiome, and Cardiovascular Health",
+   "summary": "Knowledge gaps regarding lifelong consumption of dairy products require identification of bioactivities of their nutrient matrices, their links to atherogenic lipoproteins, and definition of risk-free thresholds for adult consumption.",
+   "image": null,
+   "url": "https://doi.org/10.20944/preprints202611.2689.v1",
+   "source": "Preprints.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Préprint"
+   ],
+   "oa": {
+    "url": "https://doi.org/10.20944/preprints202611.2689.v1",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Les protéines de lactosérum et la caséine augmentent modérément l'hypertrophie musculaire liée à la musculation, de façon comparable aux protéines végétales. De plus, la matrice des produits laitiers fermentés atténue les risques cardiovasculaires des graisses saturées par rapport au beurre."
+  },
+  {
+   "id": "doi:10.1371/journal.pone.0362102",
+   "kind": "paper",
+   "title": "The effects of a Graduated Exercise-Based Prehabilitation Program on physical function and respiratory muscle strength(GEtFit) in individuals awaiting Cardiac Surgery: A RCT study protocol.",
+   "summary": "Despite heterogeneous regimens and inconsistent outcomes, exercise‑based prehabilitation in cardiac surgery warrants adoption, as frail, comorbid patients benefit in recovery and quality of life where findings will guide optimal exercise dosage and intensity.",
+   "image": null,
+   "url": "https://doi.org/10.1371/journal.pone.0362102",
+   "source": "PloS one",
+   "date": "2026-11-23",
+   "tags": [
+    "Essai randomisé"
+   ],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13792438",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "muscu",
+   "ai": "Ce protocole d'essai contrôlé randomisé évalue un programme de préhabilitation par exercices gradués et entraînement respiratoire chez 140 patients en attente de chirurgie cardiaque. L'étude vise à mesurer l'impact sur la capacité fonctionnelle et la récupération postopératoire."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-oral-nutrition-supplement-interventions-short.html",
+   "kind": "vulga",
+   "title": "Oral nutrition supplement interventions show short-term benefits in patient outcomes at low cost for older adults",
+   "summary": "A systematic review published in the journal Value in Health by Amarsinh Desai, Ph.D., Olivia M. Dong, Ph.D., and colleagues examines the health and economic effects of oral nutrition supplements in older adults, most with or at risk of malnutrition.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/protein-powder-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-oral-nutrition-supplement-interventions-short.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-26",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "nutrition",
+   "ai": "Une revue systématique indique que les compléments nutritionnels oraux apportent des bénéfices de santé et économiques à court terme chez les personnes âgées dénutries. Ces interventions s'avèrent efficaces pour améliorer la prise en charge à moindre coût."
+  },
+  {
+   "id": "doi:10.1007/s40279-026-02554-w",
+   "kind": "paper",
+   "title": "Effects of Ischemic Preconditioning on Post-exercise Injury Biomarkers, DOMS, and Endothelial Function: A Systematic Review and Meta-analysis.",
+   "summary": "This meta-analysis is the first to systematically find that the protective effects of IPC can extend to certain exercise-induced injuries. Pre-exercise LIPC attenuated DOMS for up to 48 h, especially after high-intensity eccentric exercise, and may provide some protection against exercise-induced endothelial dysfunction.",
+   "image": null,
+   "url": "https://doi.org/10.1007/s40279-026-02554-w",
+   "source": "Sports medicine (Auckland, N.Z.)",
+   "date": "2026-11-25",
+   "tags": [
+    "Méta-analyse"
+   ],
+   "oa": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s40279-026-02554-w.pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "nutrition",
+   "ai": "Une méta-analyse de 13 études (263 participants) révèle que le préconditionnement ischémique réduit significativement les courbatures musculaires (taille d'effet -0,92). Cet effet protecteur contre le DOMS n'est toutefois significatif que lorsqu'il est appliqué localement (-1,16)."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-littlest-cutest-subjects-infant-brains.html",
+   "kind": "vulga",
+   "title": "The littlest and cutest research subjects help explain infant brains",
+   "summary": "Every new parent knows the difficulty of trying to get a newborn to sleep. Northeastern University researchers have an added challenge: getting a newborn to sleep during a brain scan.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-littlest-and-cutes-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-littlest-cutest-subjects-infant-brains.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "neuro",
+   "ai": "Des chercheurs étudient l'activité cérébrale des nouveau-nés en les soumettant à des IRM pendant leur sommeil. Ces travaux pionniers permettent d'éclairer le développement précoce du cerveau humain malgré les défis logistiques chez les nourrissons."
+  },
+  {
+   "id": "doi:10.1038/s41467-026-79540-3",
+   "kind": "paper",
+   "title": "CD33-CD45 interaction in Alzheimer’s disease susceptibility",
+   "summary": "CD 33 is associated with Alzheimer’s disease (AD) susceptibility. The AD-associated rs3865444 C risk variant reduces splicing of the sialic acid-binding domain, increasing the sialic acid-binding isoform seven-fold.",
+   "image": null,
+   "url": "https://doi.org/10.1038/s41467-026-79540-3",
+   "source": "Nature Communications",
+   "date": "2026-11-24",
+   "tags": [],
+   "oa": {
+    "url": "https://doi.org/10.1038/s41467-026-79540-3",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "neuro",
+   "ai": "Cette étude in vitro et sur tissus montre que CD33 se lie à CD45 et inhibe son activité phosphatase, freinant la clairance amyloïde par la microglie. Ce mécanisme moléculaire explicite l'impact de variantes génétiques clés dans la susceptibilité à Alzheimer."
+  },
+  {
+   "id": "url:https://medicalxpress.com/news/2026-11-biological-differences-affect-dementia-lewy.html",
+   "kind": "vulga",
+   "title": "Biological differences may affect dementia with Lewy bodies",
+   "summary": "People with dementia with Lewy bodies who also have biological signs of Alzheimer's disease may experience a faster decline in cognitive function. This is shown in a new study from Karolinska Institutet published in the journal Alzheimer's & Dementia.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/biological-differences-1.jpg",
+   "url": "https://medicalxpress.com/news/2026-11-biological-differences-affect-dementia-lewy.html",
+   "source": "Medical Xpress",
+   "date": "2026-11-23",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "longevite",
+   "ai": "Les personnes atteintes de démence à corps de Lewy qui présentent également des marqueurs biologiques d'Alzheimer subissent un déclin cognitif plus rapide. Cette découverte souligne l'importance des sous-types biologiques pour prédire l'évolution de la maladie."
+  },
+  {
+   "id": "doi:10.1073/pnas.2629175123",
+   "kind": "paper",
+   "title": "Inactivation of the RB1 and PTPN14 tumor suppressors cooperatively enables the lifespan extension activity of the human papillomavirus E7 oncoprotein.",
+   "summary": "High-risk human papillomavirus (HPV) E7 proteins bind and inactivate host cellular tumor suppressors and are essential for the immortalization of primary human keratinocytes. E7 proteins from high- and low-risk HPV genotypes bind directly to at least two tumor suppressors, RB1 and PTPN14, and inactivate both.",
+   "image": null,
+   "url": "https://doi.org/10.1073/pnas.2629175123",
+   "source": "Proceedings of the National Academy of Sciences of the United States of America",
+   "date": "2026-11-23",
+   "tags": [],
+   "oa": {
+    "url": "https://europepmc.org/articles/PMC13795045",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "longevite",
+   "ai": "Des expériences in vitro montrent que l'oncoprotéine E7 du papillomavirus humain doit inactiver conjointement deux suppresseurs de tumeurs, RB1 et PTPN14, pour prolonger la durée de vie des kératinocytes. La double suppression de ces facteurs cellulaires est essentielle à l'immortalisation."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-nonlinear-optical-lattice-boosts-spatial.html",
+   "kind": "vulga",
+   "title": "Nonlinear optical lattice boosts spatial coherence by concentrating light in a single mode",
+   "summary": "Light waves can have varying degrees of coherence, which means that the consistency of the relationship between their phases across space or time can differ. Reliable methods to enhance the coherence of light could pave the way for the development of high-quality lasers and scientific instruments.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-nonlinear-optical-la.jpg",
+   "url": "https://phys.org/news/2026-11-nonlinear-optical-lattice-boosts-spatial.html",
+   "source": "Phys.org",
+   "date": "2026-11-27",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "physique",
+   "ai": "Un réseau optique non linéaire permet de concentrer la lumière dans un mode unique, améliorant considérablement sa cohérence spatiale. Cette avancée ouvre la voie au développement de lasers plus performants et d'instruments scientifiques de haute précision."
+  },
+  {
+   "id": "doi:10.3847/1538-4365/aeb3e9",
+   "kind": "paper",
+   "title": "IceCube Second Track Data Release IceTracks-DR2: Data from 2008 to 2022 for Neutrino Source Searches",
+   "summary": "We present IceCube’s latest release of muon track data for neutrino point-source searches, extending the previously published 10 yr data set to cover 14 yr of observations (2008 April 6–2022 May 23). This release features an updated event selection and improved detector calibration for data recorded after 2010 June 1.",
+   "image": null,
+   "url": "https://doi.org/10.3847/1538-4365/aeb3e9",
+   "source": "The Astrophysical Journal Supplement Series",
+   "date": "2026-11-23",
+   "tags": [],
+   "oa": {
+    "url": "https://iopscience.iop.org/article/10.3847/1538-4365/aeb3e9/pdf",
+    "label": "Texte intégral gratuit"
+   },
+   "domain": "physique",
+   "ai": "La collaboration IceCube publie 14 ans de données de trajectoires de muons (2008-2022) pour la recherche de sources de neutrinos. Ce jeu de données mis à jour bénéficie de calibrations améliorées et fournit les fonctions de réponse instrumentale publiques."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-groups-drift-side.html",
+   "kind": "vulga",
+   "title": "Do all groups drift toward rule by the few? Not when time is on their side",
+   "summary": "For more than a century, a bleak idea has hung over the ideal of democracy: Given enough time, every group ends up ruled by a few. The idea, known as the iron law of oligarchy, was first proposed by the sociologist Robert Michels in the early 1900s.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/do-all-groups-drift-to.jpg",
+   "url": "https://phys.org/news/2026-11-groups-drift-side.html",
+   "source": "Phys.org",
+   "date": "2026-11-26",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Une étude remet en question la « loi d'airain de l'oligarchie », qui affirme que tout groupe finit inévitablement gouverné par une minorité. Les résultats montrent que des dynamiques temporelles favorables peuvent préserver les structures démocratiques au sein des organisations."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
+   "kind": "vulga",
+   "title": "Dinosaurs likely tore meat like birds of prey",
+   "summary": "Meat-eating dinosaurs probably fed by dragging their teeth backward through flesh like a saw rather than biting straight down like a dagger, new experiments suggest.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/dinosaur-teeth.jpg",
+   "url": "https://phys.org/news/2026-11-dinosaurs-tore-meat-birds-prey.html",
+   "source": "Phys.org",
+   "date": "2026-11-25",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "De nouvelles expériences suggèrent que les dinosaures carnivores découpaient la viande en tirant leurs dents vers l'arrière comme une scie. Ce mode d'alimentation se rapproche de celui des rapaces actuels plutôt que d'une morsure directe verticale."
+  },
+  {
+   "id": "url:https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
+   "kind": "vulga",
+   "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
+   "summary": "Tropical cyclones frequently undergo rapid, complex structural changes within their inner cores, such as eyewall replacement and wind-field expansion, that strongly influence typhoon intensity and coastal hazards.",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-reveal-inn.jpg",
+   "url": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
+   "source": "Phys.org",
+   "date": "2026-11-24",
+   "tags": [
+    "Vulgarisation"
+   ],
+   "oa": null,
+   "domain": "exotique",
+   "ai": "Grâce à des observations satellitaires multisensors, des chercheurs ont analysé l'évolution interne du typhon Bavi, notamment le remplacement du mur de l'œil. Ces données éclairent les changements structurels rapides qui influencent la puissance des cyclones tropicaux."
+  }
+ ]
+}
